@@ -1,0 +1,6359 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <day name="1">
+    <word>
+      <eng>inform</eng>
+      <meaning>알리다,통지하다</meaning>
+    </word>
+    <word>
+      <eng>advise</eng>
+      <meaning>충고하다</meaning>
+    </word>
+    <word>
+      <eng>advice</eng>
+      <meaning>충고하다</meaning>
+    </word>
+    <word>
+      <eng>service</eng>
+      <meaning>봉사,공공 업무</meaning>
+    </word>
+    <word>
+      <eng>serve</eng>
+      <meaning>봉사하다,섬기다</meaning>
+    </word>
+    <word>
+      <eng>server</eng>
+      <meaning>근무자</meaning>
+    </word>
+    <word>
+      <eng>servant</eng>
+      <meaning>하인</meaning>
+    </word>
+    <word>
+      <eng>provide</eng>
+      <meaning>공급하다,준비하다</meaning>
+    </word>
+    <word>
+      <eng>provide A with B</eng>
+      <meaning>A에게 B를 공급하다</meaning>
+    </word>
+    <word>
+      <eng>relationship</eng>
+      <meaning>관계</meaning>
+    </word>
+    <word>
+      <eng>relative</eng>
+      <meaning>상대적인,친척</meaning>
+    </word>
+    <word>
+      <eng>behave</eng>
+      <meaning>(예의 바르게)행동하다</meaning>
+    </word>
+    <word>
+      <eng>improve</eng>
+      <meaning>향상시키다,향상하다</meaning>
+    </word>
+    <word>
+      <eng>enhance</eng>
+      <meaning>향상시키다,향상하다</meaning>
+    </word>
+    <word>
+      <eng>individual</eng>
+      <meaning>개인,개인의,개인주의적인</meaning>
+    </word>
+    <word>
+      <eng>individualism</eng>
+      <meaning>개인주의</meaning>
+    </word>
+  </day>
+  <day name="2">
+    <word>
+      <eng>positive</eng>
+      <meaning>긍정적인,확신하는</meaning>
+    </word>
+    <word>
+      <eng>negative</eng>
+      <meaning>부정적인</meaning>
+    </word>
+    <word>
+      <eng>emotion</eng>
+      <meaning>감정</meaning>
+    </word>
+    <word>
+      <eng>with emotion</eng>
+      <meaning>감동해서</meaning>
+    </word>
+    <word>
+      <eng>amaze</eng>
+      <meaning>놀라게 하다</meaning>
+    </word>
+    <word>
+      <eng>astonish</eng>
+      <meaning>놀라게 하다</meaning>
+    </word>
+    <word>
+      <eng>surprise</eng>
+      <meaning>놀라게 하다</meaning>
+    </word>
+    <word>
+      <eng>level</eng>
+      <meaning>수준,수평,수준의,수평의,평탄하게 만들다</meaning>
+    </word>
+    <word>
+      <eng>mine</eng>
+      <meaning>광산,채굴하다</meaning>
+    </word>
+    <word>
+      <eng>land mine</eng>
+      <meaning>지뢰</meaning>
+    </word>
+    <word>
+      <eng>undermine</eng>
+      <meaning>~의 밑을 파다</meaning>
+    </word>
+    <word>
+      <eng>essence</eng>
+      <meaning>(사물의)본질,정수</meaning>
+    </word>
+    <word>
+      <eng>in essence</eng>
+      <meaning>본질에 있어서</meaning>
+    </word>
+    <word>
+      <eng>essential</eng>
+      <meaning>본질적인,필수적인</meaning>
+    </word>
+    <word>
+      <eng>benefit</eng>
+      <meaning>이익,이익이 되다</meaning>
+    </word>
+    <word>
+      <eng>be of benefit to</eng>
+      <meaning>~에 이롭다</meaning>
+    </word>
+    <word>
+      <eng>beneficial</eng>
+      <meaning>유익한</meaning>
+    </word>
+    <word>
+      <eng>affect</eng>
+      <meaning>~에 영향을 미치다,~인 체하다</meaning>
+    </word>
+    <word>
+      <eng>reduce</eng>
+      <meaning>줄이다,낮추다</meaning>
+    </word>
+    <word>
+      <eng>chemistry</eng>
+      <meaning>화학,교감</meaning>
+    </word>
+    <word>
+      <eng>chemical</eng>
+      <meaning>화학의,화학 제품</meaning>
+    </word>
+    <word>
+      <eng>immediate</eng>
+      <meaning>직접의,즉각적인</meaning>
+    </word>
+    <word>
+      <eng>immediately</eng>
+      <meaning>곧,즉각</meaning>
+    </word>
+    <word>
+      <eng>thus</eng>
+      <meaning>그러므로,따라서</meaning>
+    </word>
+    <word>
+      <eng>thus far</eng>
+      <meaning>지금까지는</meaning>
+    </word>
+    <word>
+      <eng>so far</eng>
+      <meaning>지금까지는</meaning>
+    </word>
+    <word>
+      <eng>therefore</eng>
+      <meaning>그러므로,따라서</meaning>
+    </word>
+    <word>
+      <eng>hence</eng>
+      <meaning>이에 따라서</meaning>
+    </word>
+    <word>
+      <eng>accordingly</eng>
+      <meaning>따라서</meaning>
+    </word>
+    <word>
+      <eng>consequently</eng>
+      <meaning>결과적으로</meaning>
+    </word>
+    <word>
+      <eng>as a result</eng>
+      <meaning>그 결과로서</meaning>
+    </word>
+    <word>
+      <eng>in conclusion</eng>
+      <meaning>끝으로</meaning>
+    </word>
+    <word>
+      <eng>proper</eng>
+      <meaning>적절한,알맞은</meaning>
+    </word>
+    <word>
+      <eng>appropriate</eng>
+      <meaning>적절한,알맞은</meaning>
+    </word>
+    <word>
+      <eng>improper</eng>
+      <meaning>적절치 않은</meaning>
+    </word>
+    <word>
+      <eng>profession</eng>
+      <meaning>직업</meaning>
+    </word>
+    <word>
+      <eng>profess</eng>
+      <meaning>공언하다</meaning>
+    </word>
+    <word>
+      <eng>professional</eng>
+      <meaning>전문적인,전문가</meaning>
+    </word>
+    <word>
+      <eng>occupation</eng>
+      <meaning>직업</meaning>
+    </word>
+    <word>
+      <eng>job</eng>
+      <meaning>일,직업</meaning>
+    </word>
+    <word>
+      <eng>work</eng>
+      <meaning>일자리</meaning>
+    </word>
+    <word>
+      <eng>carrer</eng>
+      <meaning>(전문적인)직업,경력</meaning>
+    </word>
+    <word>
+      <eng>calling</eng>
+      <meaning>천직,소명</meaning>
+    </word>
+    <word>
+      <eng>economic</eng>
+      <meaning>경제의,경제학의</meaning>
+    </word>
+    <word>
+      <eng>economics</eng>
+      <meaning>경제학</meaning>
+    </word>
+    <word>
+      <eng>conomy</eng>
+      <meaning>경제,절약</meaning>
+    </word>
+    <word>
+      <eng>cell</eng>
+      <meaning>세포,작은 방,독방</meaning>
+    </word>
+    <word>
+      <eng>stem cell</eng>
+      <meaning>줄기 세포</meaning>
+    </word>
+    <word>
+      <eng>cellular</eng>
+      <meaning>세포의</meaning>
+    </word>
+    <word>
+      <eng>focus</eng>
+      <meaning>집중하다,초점</meaning>
+    </word>
+    <word>
+      <eng>focus on</eng>
+      <meaning>~에 집중하다</meaning>
+    </word>
+    <word>
+      <eng>concentrate on</eng>
+      <meaning>~에 집중하다</meaning>
+    </word>
+    <word>
+      <eng>issue</eng>
+      <meaning>논란거리,발행하다,발행,발행물</meaning>
+    </word>
+    <word>
+      <eng>poetry</eng>
+      <meaning>시,운문</meaning>
+    </word>
+    <word>
+      <eng>demand</eng>
+      <meaning>수요,요구하다</meaning>
+    </word>
+    <word>
+      <eng>supply</eng>
+      <meaning>공급,공급하다</meaning>
+    </word>
+    <word>
+      <eng>on demand</eng>
+      <meaning>요구에 따라,요구가 있을 때마다</meaning>
+    </word>
+    <word>
+      <eng>occur</eng>
+      <meaning>(사건이)일어나다,발생하다</meaning>
+    </word>
+    <word>
+      <eng>happen</eng>
+      <meaning>(사건이)일어나다,발생하다</meaning>
+    </word>
+    <word>
+      <eng>take place</eng>
+      <meaning>(사건이)일어나다,발생하다</meaning>
+    </word>
+    <word>
+      <eng>complex</eng>
+      <meaning>복잡한,복합체</meaning>
+    </word>
+    <word>
+      <eng>complicated</eng>
+      <meaning>복잡한,복함체</meaning>
+    </word>
+    <word>
+      <eng>simple</eng>
+      <meaning>단순한</meaning>
+    </word>
+    <word>
+      <eng>define</eng>
+      <meaning>정의하다,한계짓다,한정하다</meaning>
+    </word>
+    <word>
+      <eng>definition</eng>
+      <meaning>정의</meaning>
+    </word>
+    <word>
+      <eng>definitely</eng>
+      <meaning>명확히</meaning>
+    </word>
+    <word>
+      <eng>proud</eng>
+      <meaning>자랑스러워하는,자만하는</meaning>
+    </word>
+    <word>
+      <eng>humble</eng>
+      <meaning>겸손한</meaning>
+    </word>
+    <word>
+      <eng>be proud of</eng>
+      <meaning>~을 자랑으로 여기다</meaning>
+    </word>
+    <word>
+      <eng>pride</eng>
+      <meaning>자존심,자만</meaning>
+    </word>
+    <word>
+      <eng>aware</eng>
+      <meaning>인지하는,알고 있는</meaning>
+    </word>
+    <word>
+      <eng>ignorant</eng>
+      <meaning>무지한,모르는</meaning>
+    </word>
+    <word>
+      <eng>be aware of</eng>
+      <meaning>~을 알다</meaning>
+    </word>
+    <word>
+      <eng>contact</eng>
+      <meaning>접촉,접촉하다</meaning>
+    </word>
+    <word>
+      <eng>be in contact with</eng>
+      <meaning>~와 접촉하고 있다</meaning>
+    </word>
+    <word>
+      <eng>contact lense</eng>
+      <meaning>콘택트렌즈</meaning>
+    </word>
+    <word>
+      <eng>performance</eng>
+      <meaning>공연,성적,성과</meaning>
+    </word>
+    <word>
+      <eng>perform</eng>
+      <meaning>실행하다</meaning>
+    </word>
+    <word>
+      <eng>performer</eng>
+      <meaning>실행자,연기자,연주자</meaning>
+    </word>
+    <word>
+      <eng>detail</eng>
+      <meaning>세부,상세한,상술하다</meaning>
+    </word>
+    <word>
+      <eng>in detail</eng>
+      <meaning>상세히</meaning>
+    </word>
+    <word>
+      <eng>approach</eng>
+      <meaning>접근하다,접근</meaning>
+    </word>
+    <word>
+      <eng>come close to</eng>
+      <meaning>접근하다,접근</meaning>
+    </word>
+    <word>
+      <eng>participate</eng>
+      <meaning>참여하다,참가하다</meaning>
+    </word>
+    <word>
+      <eng>take part in</eng>
+      <meaning>참여하다,참가하다</meaning>
+    </word>
+    <word>
+      <eng>participate in</eng>
+      <meaning>~에 참가하다</meaning>
+    </word>
+    <word>
+      <eng>participation</eng>
+      <meaning>참여,참가</meaning>
+    </word>
+    <word>
+      <eng>fashion</eng>
+      <meaning>유행,방식,만들어 내다</meaning>
+    </word>
+    <word>
+      <eng>passion</eng>
+      <meaning>열정</meaning>
+    </word>
+    <word>
+      <eng>package</eng>
+      <meaning>꾸러미,포장,포장하다</meaning>
+    </word>
+    <word>
+      <eng>disappear</eng>
+      <meaning>사라지다</meaning>
+    </word>
+    <word>
+      <eng>vanish</eng>
+      <meaning>사라지다</meaning>
+    </word>
+    <word>
+      <eng>appear</eng>
+      <meaning>나타나다</meaning>
+    </word>
+    <word>
+      <eng>acareer</eng>
+      <meaning>직업,경력</meaning>
+    </word>
+    <word>
+      <eng>make a career</eng>
+      <meaning>출세하다</meaning>
+    </word>
+    <word>
+      <eng>secure</eng>
+      <meaning>안전한,안전하게 하다,확보하다</meaning>
+    </word>
+    <word>
+      <eng>insecure</eng>
+      <meaning>불안전한</meaning>
+    </word>
+    <word>
+      <eng>be secure of</eng>
+      <meaning>~에 대해 확신하다</meaning>
+    </word>
+    <word>
+      <eng>security</eng>
+      <meaning>보안,안전</meaning>
+    </word>
+    <word>
+      <eng>novel</eng>
+      <meaning>소설,참신한</meaning>
+    </word>
+    <word>
+      <eng>despite</eng>
+      <meaning>~에도 불구하고</meaning>
+    </word>
+    <word>
+      <eng>in spite of</eng>
+      <meaning>~에도 불구하고</meaning>
+    </word>
+    <word>
+      <eng>background</eng>
+      <meaning>배경,배경 지식,이유</meaning>
+    </word>
+    <word>
+      <eng>foreground</eng>
+      <meaning>전경,앞모슾</meaning>
+    </word>
+    <word>
+      <eng>solution</eng>
+      <meaning>해결,해결책,용액</meaning>
+    </word>
+    <word>
+      <eng>solve</eng>
+      <meaning>풀다,해결하다</meaning>
+    </word>
+    <word>
+      <eng>generate</eng>
+      <meaning>일으키다,발생시키다</meaning>
+    </word>
+    <word>
+      <eng>generate</eng>
+      <meaning>유전자</meaning>
+    </word>
+    <word>
+      <eng>generation</eng>
+      <meaning>세대</meaning>
+    </word>
+    <word>
+      <eng>generator</eng>
+      <meaning>발전기</meaning>
+    </word>
+  </day>
+  <day name="3">
+    <word>
+      <eng>eventually</eng>
+      <meaning>결국</meaning>
+    </word>
+    <word>
+      <eng>in the end</eng>
+      <meaning>결국</meaning>
+    </word>
+    <word>
+      <eng>finally</eng>
+      <meaning>결국</meaning>
+    </word>
+    <word>
+      <eng>as a result</eng>
+      <meaning>결국</meaning>
+    </word>
+    <word>
+      <eng>eventual</eng>
+      <meaning>최후의</meaning>
+    </word>
+    <word>
+      <eng>decrease</eng>
+      <meaning>감소,감소하다</meaning>
+    </word>
+    <word>
+      <eng>increase</eng>
+      <meaning>증가,증가하다</meaning>
+    </word>
+    <word>
+      <eng>be on the decrease</eng>
+      <meaning>감소 추세에 있다</meaning>
+    </word>
+    <word>
+      <eng>decline</eng>
+      <meaning>거절하다,기울다</meaning>
+    </word>
+    <word>
+      <eng>depress</eng>
+      <meaning>낙담시키다</meaning>
+    </word>
+    <word>
+      <eng>recycle</eng>
+      <meaning>재활용하다</meaning>
+    </word>
+    <word>
+      <eng>disposable</eng>
+      <meaning>일회용의</meaning>
+    </word>
+    <word>
+      <eng>desire</eng>
+      <meaning>바라다,욕망,욕구</meaning>
+    </word>
+    <word>
+      <eng>at one`s desire</eng>
+      <meaning>~의 희망에 따라</meaning>
+    </word>
+    <word>
+      <eng>balance</eng>
+      <meaning>균형,균형을 이루다</meaning>
+    </word>
+    <word>
+      <eng>in balance</eng>
+      <meaning>균형이 잡혀</meaning>
+    </word>
+    <word>
+      <eng>publish</eng>
+      <meaning>발표하다,출판하다</meaning>
+    </word>
+    <word>
+      <eng>announce</eng>
+      <meaning>발표하다,출판하다</meaning>
+    </word>
+    <word>
+      <eng>issue</eng>
+      <meaning>발표하다,출판하다</meaning>
+    </word>
+    <word>
+      <eng>publication</eng>
+      <meaning>발표,출판</meaning>
+    </word>
+    <word>
+      <eng>congratulate</eng>
+      <meaning>축하하다</meaning>
+    </word>
+    <word>
+      <eng>congratulation</eng>
+      <meaning>축하</meaning>
+    </word>
+    <word>
+      <eng>compose</eng>
+      <meaning>구성하다,작문하다,작곡하다</meaning>
+    </word>
+    <word>
+      <eng>comprise</eng>
+      <meaning>구성하다</meaning>
+    </word>
+    <word>
+      <eng>composition</eng>
+      <meaning>구성,작문,작곡</meaning>
+    </word>
+    <word>
+      <eng>composer</eng>
+      <meaning>작곡가,작자</meaning>
+    </word>
+    <word>
+      <eng>digital</eng>
+      <meaning>디지털,디지털의,숫자로 된</meaning>
+    </word>
+    <word>
+      <eng>analog</eng>
+      <meaning>아날로그,아날로그의</meaning>
+    </word>
+    <word>
+      <eng>digital</eng>
+      <meaning>손가락,자릿수</meaning>
+    </word>
+    <word>
+      <eng>negative</eng>
+      <meaning>부정적인</meaning>
+    </word>
+    <word>
+      <eng>positive</eng>
+      <meaning>긍정적인</meaning>
+    </word>
+    <word>
+      <eng>occasion</eng>
+      <meaning>경우,특별한 일</meaning>
+    </word>
+    <word>
+      <eng>occasionally</eng>
+      <meaning>때때로,가끔</meaning>
+    </word>
+    <word>
+      <eng>replace</eng>
+      <meaning>대체하다</meaning>
+    </word>
+    <word>
+      <eng>substitute</eng>
+      <meaning>대체하다</meaning>
+    </word>
+    <word>
+      <eng>take the place of</eng>
+      <meaning>대체하다</meaning>
+    </word>
+    <word>
+      <eng>expert</eng>
+      <meaning>전문가</meaning>
+    </word>
+    <word>
+      <eng>specialist</eng>
+      <meaning>전문가</meaning>
+    </word>
+    <word>
+      <eng>amateur</eng>
+      <meaning>아마추어,비전문가</meaning>
+    </word>
+    <word>
+      <eng>experiment</eng>
+      <meaning>실험</meaning>
+    </word>
+    <word>
+      <eng>term</eng>
+      <meaning>기간,학기,조건,용어</meaning>
+    </word>
+    <word>
+      <eng>in terms of</eng>
+      <meaning>~에 의하여,~의 관점에서</meaning>
+    </word>
+    <word>
+      <eng>relieve</eng>
+      <meaning>경감하다,안도시키다</meaning>
+    </word>
+    <word>
+      <eng>describe</eng>
+      <meaning>묘사하다</meaning>
+    </word>
+    <word>
+      <eng>depict</eng>
+      <meaning>묘사하다</meaning>
+    </word>
+    <word>
+      <eng>description</eng>
+      <meaning>묘사</meaning>
+    </word>
+    <word>
+      <eng>descriptive</eng>
+      <meaning>설명적인</meaning>
+    </word>
+    <word>
+      <eng>biology</eng>
+      <meaning>생물학</meaning>
+    </word>
+    <word>
+      <eng>biologic</eng>
+      <meaning>생물학의</meaning>
+    </word>
+    <word>
+      <eng>due</eng>
+      <meaning>만기의,~하기로 되어 있는</meaning>
+    </word>
+    <word>
+      <eng>due to</eng>
+      <meaning>~때문에</meaning>
+    </word>
+    <word>
+      <eng>equipment</eng>
+      <meaning>장치,장비</meaning>
+    </word>
+    <word>
+      <eng>device</eng>
+      <meaning>장치,장비</meaning>
+    </word>
+    <word>
+      <eng>account</eng>
+      <meaning>은행 계좌,이야기,설명하다</meaning>
+    </word>
+    <word>
+      <eng>birth</eng>
+      <meaning>탄생</meaning>
+    </word>
+    <word>
+      <eng>death</eng>
+      <meaning>죽음</meaning>
+    </word>
+    <word>
+      <eng>give birth to</eng>
+      <meaning>~을 낳다</meaning>
+    </word>
+    <word>
+      <eng>constant</eng>
+      <meaning>일정한,불변의,(수학에서의)상수</meaning>
+    </word>
+    <word>
+      <eng>genius</eng>
+      <meaning>천재</meaning>
+    </word>
+    <word>
+      <eng>genuine</eng>
+      <meaning>진짜의,참된</meaning>
+    </word>
+    <word>
+      <eng>reflect</eng>
+      <meaning>반영하다,반사하다,숙고하다</meaning>
+    </word>
+    <word>
+      <eng>reflection</eng>
+      <meaning>반영,반사,숙고</meaning>
+    </word>
+    <word>
+      <eng>ilness</eng>
+      <meaning>질병</meaning>
+    </word>
+    <word>
+      <eng>disease</eng>
+      <meaning>질병</meaning>
+    </word>
+    <word>
+      <eng>frequent</eng>
+      <meaning>빈번한,~에 종종 방문하다</meaning>
+    </word>
+    <word>
+      <eng>frequency</eng>
+      <meaning>빈번함,빈도</meaning>
+    </word>
+    <word>
+      <eng>steady</eng>
+      <meaning>안정된,한결같은</meaning>
+    </word>
+    <word>
+      <eng>stable</eng>
+      <meaning>안정된,한결같은</meaning>
+    </word>
+    <word>
+      <eng>go steady with</eng>
+      <meaning>~와 오랫동안 사귀다</meaning>
+    </word>
+    <word>
+      <eng>extreme</eng>
+      <meaning>극단,극단의</meaning>
+    </word>
+    <word>
+      <eng>utmost</eng>
+      <meaning>극단,극단의</meaning>
+    </word>
+    <word>
+      <eng>go to extremes</eng>
+      <meaning>극단으로 치우치다</meaning>
+    </word>
+    <word>
+      <eng>tend</eng>
+      <meaning>~하는 경향이 있다,돌보다</meaning>
+    </word>
+    <word>
+      <eng>be inclined</eng>
+      <meaning>~하는 경향이 있다</meaning>
+    </word>
+    <word>
+      <eng>take care of</eng>
+      <meaning>돌보다</meaning>
+    </word>
+    <word>
+      <eng>tendency</eng>
+      <meaning>경향</meaning>
+    </word>
+    <word>
+      <eng>tendance</eng>
+      <meaning>돌봄,간호</meaning>
+    </word>
+    <word>
+      <eng>insist</eng>
+      <meaning>주장하다</meaning>
+    </word>
+    <word>
+      <eng>persist</eng>
+      <meaning>주장하다</meaning>
+    </word>
+    <word>
+      <eng>assert</eng>
+      <meaning>주장하다</meaning>
+    </word>
+    <word>
+      <eng>contend</eng>
+      <meaning>주장하다</meaning>
+    </word>
+    <word>
+      <eng>insist on</eng>
+      <meaning>계속 고집하다</meaning>
+    </word>
+    <word>
+      <eng>insistence</eng>
+      <meaning>주장</meaning>
+    </word>
+    <word>
+      <eng>extend</eng>
+      <meaning>연장하다,넓히다</meaning>
+    </word>
+    <word>
+      <eng>stretch</eng>
+      <meaning>연장하다,넓히다</meaning>
+    </word>
+    <word>
+      <eng>prolong</eng>
+      <meaning>연장하다,넓히다</meaning>
+    </word>
+    <word>
+      <eng>extent</eng>
+      <meaning>넓이,범위</meaning>
+    </word>
+    <word>
+      <eng>extension</eng>
+      <meaning>확장</meaning>
+    </word>
+    <word>
+      <eng>extensive</eng>
+      <meaning>넓은,광대한</meaning>
+    </word>
+    <word>
+      <eng>politics</eng>
+      <meaning>정치,정치학</meaning>
+    </word>
+    <word>
+      <eng>lonely</eng>
+      <meaning>외로운</meaning>
+    </word>
+    <word>
+      <eng>lonesome</eng>
+      <meaning>외로운</meaning>
+    </word>
+    <word>
+      <eng>loneliness</eng>
+      <meaning>외로움</meaning>
+    </word>
+    <word>
+      <eng>habitat</eng>
+      <meaning>서식시,주거지</meaning>
+    </word>
+    <word>
+      <eng>habitation</eng>
+      <meaning>거주</meaning>
+    </word>
+    <word>
+      <eng>habitant</eng>
+      <meaning>주민,거주자</meaning>
+    </word>
+    <word>
+      <eng>inhabit</eng>
+      <meaning>~에 살다,거주하다</meaning>
+    </word>
+    <word>
+      <eng>mental</eng>
+      <meaning>정신의</meaning>
+    </word>
+    <word>
+      <eng>physical</eng>
+      <meaning>신체의</meaning>
+    </word>
+    <word>
+      <eng>mentality</eng>
+      <meaning>지력,지성</meaning>
+    </word>
+    <word>
+      <eng>factor</eng>
+      <meaning>요인,요소</meaning>
+    </word>
+    <word>
+      <eng>exchange</eng>
+      <meaning>교환하다</meaning>
+    </word>
+    <word>
+      <eng>in exchange for</eng>
+      <meaning>~에 대한 답례로</meaning>
+    </word>
+    <word>
+      <eng>active</eng>
+      <meaning>활동적인,적극적인</meaning>
+    </word>
+    <word>
+      <eng>passive</eng>
+      <meaning>수동적인</meaning>
+    </word>
+    <word>
+      <eng>species</eng>
+      <meaning>(생물 분류상의)종</meaning>
+    </word>
+    <word>
+      <eng>specific</eng>
+      <meaning>명확한,뚜렷한</meaning>
+    </word>
+    <word>
+      <eng>athletic</eng>
+      <meaning>운동의,운동 경기의</meaning>
+    </word>
+    <word>
+      <eng>athlete</eng>
+      <meaning>운동 선수</meaning>
+    </word>
+  </day>
+  <day name="4">
+    <word>
+      <eng>dental</eng>
+      <meaning>치아의</meaning>
+    </word>
+    <word>
+      <eng>dentist</eng>
+      <meaning>치과 의사</meaning>
+    </word>
+    <word>
+      <eng>delight</eng>
+      <meaning>기쁨,기쁘게 하다</meaning>
+    </word>
+    <word>
+      <eng>pleasure</eng>
+      <meaning>기쁨,기쁘게 하다</meaning>
+    </word>
+    <word>
+      <eng>joy</eng>
+      <meaning>기쁨,기쁘게 하다</meaning>
+    </word>
+    <word>
+      <eng>confident</eng>
+      <meaning>자신 있는</meaning>
+    </word>
+    <word>
+      <eng>confidence</eng>
+      <meaning>자신감</meaning>
+    </word>
+    <word>
+      <eng>gradual</eng>
+      <meaning>점진적인</meaning>
+    </word>
+    <word>
+      <eng>grade</eng>
+      <meaning>등급,학년,성적</meaning>
+    </word>
+    <word>
+      <eng>graduation</eng>
+      <meaning>졸업</meaning>
+    </word>
+    <word>
+      <eng>gradually</eng>
+      <meaning>점차</meaning>
+    </word>
+    <word>
+      <eng>electricity</eng>
+      <meaning>전기</meaning>
+    </word>
+    <word>
+      <eng>electrician</eng>
+      <meaning>전기 기사</meaning>
+    </word>
+    <word>
+      <eng>shadow</eng>
+      <meaning>그림자,그늘지게 하다</meaning>
+    </word>
+    <word>
+      <eng>shade</eng>
+      <meaning>그림자</meaning>
+    </word>
+    <word>
+      <eng>access</eng>
+      <meaning>접근,이용,(인터넷을)이용하다</meaning>
+    </word>
+    <word>
+      <eng>announce</eng>
+      <meaning>발표하다,알리다</meaning>
+    </word>
+    <word>
+      <eng>tense</eng>
+      <meaning>긴장된,(동사의)시제</meaning>
+    </word>
+    <word>
+      <eng>strained</eng>
+      <meaning>긴장된</meaning>
+    </word>
+    <word>
+      <eng>relaxed</eng>
+      <meaning>긴장이 풀린,느슨한</meaning>
+    </word>
+    <word>
+      <eng>firm</eng>
+      <meaning>확고한,단단한,회사</meaning>
+    </word>
+    <word>
+      <eng>flexible</eng>
+      <meaning>융통성 있는</meaning>
+    </word>
+    <word>
+      <eng>tender</eng>
+      <meaning>부드러운</meaning>
+    </word>
+    <word>
+      <eng>vary</eng>
+      <meaning>바꾸다,변하다</meaning>
+    </word>
+    <word>
+      <eng>variable</eng>
+      <meaning>변하기 쉬운</meaning>
+    </word>
+    <word>
+      <eng>various</eng>
+      <meaning>다양한</meaning>
+    </word>
+    <word>
+      <eng>variety</eng>
+      <meaning>변화,다양성</meaning>
+    </word>
+    <word>
+      <eng>variation</eng>
+      <meaning>변화</meaning>
+    </word>
+    <word>
+      <eng>injure</eng>
+      <meaning>~에게 상처를 입히다</meaning>
+    </word>
+    <word>
+      <eng>hurt</eng>
+      <meaning>~에게 상처를 입히다</meaning>
+    </word>
+    <word>
+      <eng>injury</eng>
+      <meaning>상처,부상</meaning>
+    </word>
+    <word>
+      <eng>permit</eng>
+      <meaning>허락하다</meaning>
+    </word>
+    <word>
+      <eng>forbid</eng>
+      <meaning>금지하다</meaning>
+    </word>
+    <word>
+      <eng>permission</eng>
+      <meaning>허락,허가</meaning>
+    </word>
+    <word>
+      <eng>threat</eng>
+      <meaning>위협,협박</meaning>
+    </word>
+    <word>
+      <eng>make a threat</eng>
+      <meaning>협박하다</meaning>
+    </word>
+    <word>
+      <eng>threaten</eng>
+      <meaning>위협하다</meaning>
+    </word>
+    <word>
+      <eng>flood</eng>
+      <meaning>홍수,범람시키다</meaning>
+    </word>
+    <word>
+      <eng>flow</eng>
+      <meaning>흐르다</meaning>
+    </word>
+    <word>
+      <eng>disabled</eng>
+      <meaning>무능력의,장애의</meaning>
+    </word>
+    <word>
+      <eng>the disabled</eng>
+      <meaning>장애인들</meaning>
+    </word>
+    <word>
+      <eng>disablility</eng>
+      <meaning>장애</meaning>
+    </word>
+    <word>
+      <eng>lack</eng>
+      <meaning>부족,~가 부족하다</meaning>
+    </word>
+    <word>
+      <eng>shortage</eng>
+      <meaning>부족</meaning>
+    </word>
+    <word>
+      <eng>abundance</eng>
+      <meaning>충분</meaning>
+    </word>
+    <word>
+      <eng>signify</eng>
+      <meaning>의미하다,중요하다</meaning>
+    </word>
+    <word>
+      <eng>mean</eng>
+      <meaning>의미하다,중요하다</meaning>
+    </word>
+    <word>
+      <eng>significant</eng>
+      <meaning>의미심장한,중요한,상당한</meaning>
+    </word>
+    <word>
+      <eng>concentrate</eng>
+      <meaning>집중하다</meaning>
+    </word>
+    <word>
+      <eng>concentrate on</eng>
+      <meaning>~에 집중하다</meaning>
+    </word>
+    <word>
+      <eng>focus on</eng>
+      <meaning>~에 집중하다</meaning>
+    </word>
+    <word>
+      <eng>concentration</eng>
+      <meaning>집중</meaning>
+    </word>
+    <word>
+      <eng>emphasize</eng>
+      <meaning>강조하다</meaning>
+    </word>
+    <word>
+      <eng>stress</eng>
+      <meaning>강조하다</meaning>
+    </word>
+    <word>
+      <eng>emphasis</eng>
+      <meaning>강조</meaning>
+    </word>
+    <word>
+      <eng>astronomy</eng>
+      <meaning>천문한</meaning>
+    </word>
+    <word>
+      <eng>astronomer</eng>
+      <meaning>천문학자</meaning>
+    </word>
+    <word>
+      <eng>astrology</eng>
+      <meaning>점성술</meaning>
+    </word>
+    <word>
+      <eng>commerce</eng>
+      <meaning>상업,교역</meaning>
+    </word>
+    <word>
+      <eng>commercial</eng>
+      <meaning>상업의,상업 광고</meaning>
+    </word>
+    <word>
+      <eng>capable</eng>
+      <meaning>능력 있는</meaning>
+    </word>
+    <word>
+      <eng>incapable</eng>
+      <meaning>~할 능력이 없는</meaning>
+    </word>
+    <word>
+      <eng>capture</eng>
+      <meaning>붙잡다</meaning>
+    </word>
+    <word>
+      <eng>captive</eng>
+      <meaning>포로</meaning>
+    </word>
+    <word>
+      <eng>fuel</eng>
+      <meaning>연료,연료를 가하다</meaning>
+    </word>
+    <word>
+      <eng>manufacture</eng>
+      <meaning>제조,제품,제조하다</meaning>
+    </word>
+    <word>
+      <eng>manual</eng>
+      <meaning>손의,지침서</meaning>
+    </word>
+    <word>
+      <eng>manuscript</eng>
+      <meaning>원고</meaning>
+    </word>
+    <word>
+      <eng>movement</eng>
+      <meaning>움직임,운동</meaning>
+    </word>
+    <word>
+      <eng>in the movement</eng>
+      <meaning>시류를 타고,풍조를 따라</meaning>
+    </word>
+    <word>
+      <eng>combine</eng>
+      <meaning>결합시키다,겸하다</meaning>
+    </word>
+    <word>
+      <eng>combination</eng>
+      <meaning>결합,조합</meaning>
+    </word>
+    <word>
+      <eng>gene</eng>
+      <meaning>유전자</meaning>
+    </word>
+    <word>
+      <eng>generation gap</eng>
+      <meaning>세대 차이</meaning>
+    </word>
+    <word>
+      <eng>response</eng>
+      <meaning>응답,반응</meaning>
+    </word>
+    <word>
+      <eng>be responsible for</eng>
+      <meaning>~에 책임이 있다</meaning>
+    </word>
+    <word>
+      <eng>respond</eng>
+      <meaning>응답하다</meaning>
+    </word>
+    <word>
+      <eng>responsive</eng>
+      <meaning>바로 대답하는,대답의</meaning>
+    </word>
+    <word>
+      <eng>responsible</eng>
+      <meaning>책임이 있는</meaning>
+    </word>
+    <word>
+      <eng>responsibility</eng>
+      <meaning>책임</meaning>
+    </word>
+    <word>
+      <eng>victim</eng>
+      <meaning>희생,희생자</meaning>
+    </word>
+    <word>
+      <eng>casualty</eng>
+      <meaning>희생,희생자</meaning>
+    </word>
+    <word>
+      <eng>fall a victim to</eng>
+      <meaning>~의 희생물이 되다,(매력 따위에)사로잡히다</meaning>
+    </word>
+    <word>
+      <eng>victimize</eng>
+      <meaning>희생시키다</meaning>
+    </word>
+    <word>
+      <eng>pressure</eng>
+      <meaning>압력,압력을 가하다</meaning>
+    </word>
+    <word>
+      <eng>accompany</eng>
+      <meaning>동반하다</meaning>
+    </word>
+    <word>
+      <eng>be accompanied by</eng>
+      <meaning>~를 동반하다</meaning>
+    </word>
+    <word>
+      <eng>go with</eng>
+      <meaning>~를 동반하다</meaning>
+    </word>
+    <word>
+      <eng>frustrate</eng>
+      <meaning>좌절시키다</meaning>
+    </word>
+    <word>
+      <eng>frustrated</eng>
+      <meaning>좌절한</meaning>
+    </word>
+    <word>
+      <eng>frustration</eng>
+      <meaning>좌절</meaning>
+    </word>
+    <word>
+      <eng>construct</eng>
+      <meaning>건설하다</meaning>
+    </word>
+    <word>
+      <eng>construction</eng>
+      <meaning>건설</meaning>
+    </word>
+    <word>
+      <eng>constructive</eng>
+      <meaning>건설적인</meaning>
+    </word>
+    <word>
+      <eng>fiction</eng>
+      <meaning>허구,소설</meaning>
+    </word>
+    <word>
+      <eng>laughter</eng>
+      <meaning>웃음</meaning>
+    </word>
+    <word>
+      <eng>laugh at</eng>
+      <meaning>~를 비웃다</meaning>
+    </word>
+    <word>
+      <eng>entertain</eng>
+      <meaning>즐겁게 하다</meaning>
+    </word>
+    <word>
+      <eng>amuse</eng>
+      <meaning>즐겁게 하다</meaning>
+    </word>
+    <word>
+      <eng>entertaining</eng>
+      <meaning>즐겁게 해주는</meaning>
+    </word>
+    <word>
+      <eng>entertainment</eng>
+      <meaning>연예</meaning>
+    </word>
+    <word>
+      <eng>entertainer</eng>
+      <meaning>연예인</meaning>
+    </word>
+    <word>
+      <eng>predict</eng>
+      <meaning>예언하다</meaning>
+    </word>
+    <word>
+      <eng>dictionary</eng>
+      <meaning>사전</meaning>
+    </word>
+    <word>
+      <eng>dictate</eng>
+      <meaning>받아쓰다</meaning>
+    </word>
+    <word>
+      <eng>dictator</eng>
+      <meaning>독재자</meaning>
+    </word>
+    <word>
+      <eng>apologize</eng>
+      <meaning>사과하다</meaning>
+    </word>
+    <word>
+      <eng>apology</eng>
+      <meaning>사과</meaning>
+    </word>
+    <word>
+      <eng>apologetic</eng>
+      <meaning>사과의</meaning>
+    </word>
+    <word>
+      <eng>outdoor</eng>
+      <meaning>야외의,실외의</meaning>
+    </word>
+    <word>
+      <eng>indoor</eng>
+      <meaning>실내의</meaning>
+    </word>
+  </day>
+  <day name="5">
+    <word>
+      <eng>sight</eng>
+      <meaning>시야,풍경,시력</meaning>
+    </word>
+    <word>
+      <eng>vision</eng>
+      <meaning>시야</meaning>
+    </word>
+    <word>
+      <eng>view</eng>
+      <meaning>시야</meaning>
+    </word>
+    <word>
+      <eng>landscape</eng>
+      <meaning>시야</meaning>
+    </word>
+    <word>
+      <eng>at first sight</eng>
+      <meaning>첫눈에</meaning>
+    </word>
+    <word>
+      <eng>quantity</eng>
+      <meaning>양</meaning>
+    </word>
+    <word>
+      <eng>amount</eng>
+      <meaning>양</meaning>
+    </word>
+    <word>
+      <eng>quality</eng>
+      <meaning>질</meaning>
+    </word>
+    <word>
+      <eng>a quantity of</eng>
+      <meaning>많은~</meaning>
+    </word>
+    <word>
+      <eng>conclude</eng>
+      <meaning>결론짓다,끝내다</meaning>
+    </word>
+    <word>
+      <eng>come to an end</eng>
+      <meaning>결론짓다</meaning>
+    </word>
+    <word>
+      <eng>conclusion</eng>
+      <meaning>결론</meaning>
+    </word>
+    <word>
+      <eng>conclusive</eng>
+      <meaning>결정적인</meaning>
+    </word>
+    <word>
+      <eng>concluding</eng>
+      <meaning>끝맺는</meaning>
+    </word>
+    <word>
+      <eng>donate</eng>
+      <meaning>기부하다</meaning>
+    </word>
+    <word>
+      <eng>donor</eng>
+      <meaning>기부자</meaning>
+    </word>
+    <word>
+      <eng>donation</eng>
+      <meaning>기부</meaning>
+    </word>
+    <word>
+      <eng>personality</eng>
+      <meaning>개성,성격,특색</meaning>
+    </word>
+    <word>
+      <eng>character</eng>
+      <meaning>개성,성격,특색</meaning>
+    </word>
+    <word>
+      <eng>nature</eng>
+      <meaning>개성,성격,특색</meaning>
+    </word>
+    <word>
+      <eng>struggle</eng>
+      <meaning>노력,투쟁,노력하다</meaning>
+    </word>
+    <word>
+      <eng>strive</eng>
+      <meaning>노력,투쟁,노력하다</meaning>
+    </word>
+    <word>
+      <eng>electronic</eng>
+      <meaning>전자의</meaning>
+    </word>
+    <word>
+      <eng>electronic</eng>
+      <meaning>전자의</meaning>
+    </word>
+    <word>
+      <eng>electricity</eng>
+      <meaning>전기</meaning>
+    </word>
+    <word>
+      <eng>absorb</eng>
+      <meaning>흡수하다,(사람,마음을)열중시키다</meaning>
+    </word>
+    <word>
+      <eng>soak up</eng>
+      <meaning>흡수하다</meaning>
+    </word>
+    <word>
+      <eng>be absorbed in</eng>
+      <meaning>~에 열중하다</meaning>
+    </word>
+    <word>
+      <eng>advantage</eng>
+      <meaning>이익,유리한 점</meaning>
+    </word>
+    <word>
+      <eng>take advantage of</eng>
+      <meaning>~을 이용하다</meaning>
+    </word>
+    <word>
+      <eng>incredible</eng>
+      <meaning>(믿기 어려울 만큼)굉장한</meaning>
+    </word>
+    <word>
+      <eng>enable</eng>
+      <meaning>가능하게 하다</meaning>
+    </word>
+    <word>
+      <eng>disable</eng>
+      <meaning>무능하게 하다,불구로 만들다</meaning>
+    </word>
+    <word>
+      <eng>able</eng>
+      <meaning>~할 수 있는</meaning>
+    </word>
+    <word>
+      <eng>ability</eng>
+      <meaning>능력</meaning>
+    </word>
+    <word>
+      <eng>instruction</eng>
+      <meaning>지시,제품 사용 설명서</meaning>
+    </word>
+    <word>
+      <eng>instructor</eng>
+      <meaning>강사</meaning>
+    </word>
+    <word>
+      <eng>assume</eng>
+      <meaning>추정하다,(태도 등을)취하다</meaning>
+    </word>
+    <word>
+      <eng>presume</eng>
+      <meaning>추정하다</meaning>
+    </word>
+    <word>
+      <eng>an assumed name</eng>
+      <meaning>가명</meaning>
+    </word>
+    <word>
+      <eng>assumed</eng>
+      <meaning>꾸민</meaning>
+    </word>
+    <word>
+      <eng>attempt</eng>
+      <meaning>시도하다,시도</meaning>
+    </word>
+    <word>
+      <eng>try</eng>
+      <meaning>시도하다,시도</meaning>
+    </word>
+    <word>
+      <eng>variety</eng>
+      <meaning>다양,다양성</meaning>
+    </word>
+    <word>
+      <eng>diversity</eng>
+      <meaning>다양,다양성</meaning>
+    </word>
+    <word>
+      <eng>a variety of</eng>
+      <meaning>다양한</meaning>
+    </word>
+    <word>
+      <eng>vary</eng>
+      <meaning>바뀌다</meaning>
+    </word>
+    <word>
+      <eng>various</eng>
+      <meaning>다양한</meaning>
+    </word>
+    <word>
+      <eng>variable</eng>
+      <meaning>바뀔 수 있는</meaning>
+    </word>
+    <word>
+      <eng>confuse</eng>
+      <meaning>혼동하다,혼란시키다</meaning>
+    </word>
+    <word>
+      <eng>be confused by</eng>
+      <meaning>~때문에 혼란스럽다</meaning>
+    </word>
+    <word>
+      <eng>confusion</eng>
+      <meaning>혼란</meaning>
+    </word>
+    <word>
+      <eng>indicate</eng>
+      <meaning>지적하다,나타내다</meaning>
+    </word>
+    <word>
+      <eng>give an indication of</eng>
+      <meaning>~의 조짐을 보이다</meaning>
+    </word>
+    <word>
+      <eng>indication</eng>
+      <meaning>지시,징조</meaning>
+    </word>
+    <word>
+      <eng>predictor</eng>
+      <meaning>예시,조짐</meaning>
+    </word>
+    <word>
+      <eng>dicator</eng>
+      <meaning>독재자</meaning>
+    </word>
+    <word>
+      <eng>analyze</eng>
+      <meaning>분석하다</meaning>
+    </word>
+    <word>
+      <eng>labor</eng>
+      <meaning>노동,노동하다,산고</meaning>
+    </word>
+    <word>
+      <eng>remark</eng>
+      <meaning>의견,의견을 말하다,주목,~에 주목하다</meaning>
+    </word>
+    <word>
+      <eng>state</eng>
+      <meaning>의견,의견을 말하다</meaning>
+    </word>
+    <word>
+      <eng>make a remark</eng>
+      <meaning>한마디 하다</meaning>
+    </word>
+    <word>
+      <eng>remarkable</eng>
+      <meaning>주목할 만한</meaning>
+    </word>
+    <word>
+      <eng>moral</eng>
+      <meaning>도덕적인</meaning>
+    </word>
+    <word>
+      <eng>immoral</eng>
+      <meaning>부도덕한</meaning>
+    </word>
+    <word>
+      <eng>morality</eng>
+      <meaning>도덕</meaning>
+    </word>
+    <word>
+      <eng>embarrass</eng>
+      <meaning>당황하게 하다</meaning>
+    </word>
+    <word>
+      <eng>embarrassed</eng>
+      <meaning>당황한</meaning>
+    </word>
+    <word>
+      <eng>embarrassment</eng>
+      <meaning>당황</meaning>
+    </word>
+    <word>
+      <eng>claim</eng>
+      <meaning>요구,주장,주장하다</meaning>
+    </word>
+    <word>
+      <eng>baggage claim</eng>
+      <meaning>수하물 차즌 곳</meaning>
+    </word>
+    <word>
+      <eng>stock</eng>
+      <meaning>재고품,저장,저장하다,주식</meaning>
+    </word>
+    <word>
+      <eng>out of stock</eng>
+      <meaning>품절되어</meaning>
+    </word>
+    <word>
+      <eng>resient</eng>
+      <meaning>거주자</meaning>
+    </word>
+    <word>
+      <eng>reside</eng>
+      <meaning>거주하다</meaning>
+    </word>
+    <word>
+      <eng>residence</eng>
+      <meaning>거주</meaning>
+    </word>
+    <word>
+      <eng>reasonable</eng>
+      <meaning>논리적인,분별력이 있는</meaning>
+    </word>
+    <word>
+      <eng>reason</eng>
+      <meaning>이유</meaning>
+    </word>
+    <word>
+      <eng>interrupt</eng>
+      <meaning>방해하다,중단하다</meaning>
+    </word>
+    <word>
+      <eng>disturb</eng>
+      <meaning>방해하다,중단하다</meaning>
+    </word>
+    <word>
+      <eng>interfere with</eng>
+      <meaning>방해하다,중단하다</meaning>
+    </word>
+    <word>
+      <eng>interruption</eng>
+      <meaning>방해,중단</meaning>
+    </word>
+    <word>
+      <eng>discount</eng>
+      <meaning>할인,할인하다</meaning>
+    </word>
+    <word>
+      <eng>creature</eng>
+      <meaning>생물,피조물</meaning>
+    </word>
+    <word>
+      <eng>being</eng>
+      <meaning>생물,피조물</meaning>
+    </word>
+    <word>
+      <eng>create</eng>
+      <meaning>창조하다</meaning>
+    </word>
+    <word>
+      <eng>heal</eng>
+      <meaning>치료하다,낫게 하다</meaning>
+    </word>
+    <word>
+      <eng>stranger</eng>
+      <meaning>낯선 사람,문외한</meaning>
+    </word>
+    <word>
+      <eng>strange</eng>
+      <meaning>이상한,낯선</meaning>
+    </word>
+    <word>
+      <eng>foreign</eng>
+      <meaning>낯선</meaning>
+    </word>
+    <word>
+      <eng>revolution</eng>
+      <meaning>혁명,갑작스런 변화,회전</meaning>
+    </word>
+    <word>
+      <eng>evolution</eng>
+      <meaning>점진적 변화,진화</meaning>
+    </word>
+    <word>
+      <eng>revolt</eng>
+      <meaning>반란,반란을 일으키다</meaning>
+    </word>
+    <word>
+      <eng>revolve</eng>
+      <meaning>회전하다</meaning>
+    </word>
+    <word>
+      <eng>criticize</eng>
+      <meaning>비난하다</meaning>
+    </word>
+    <word>
+      <eng>critic</eng>
+      <meaning>비평가</meaning>
+    </word>
+    <word>
+      <eng>criticism</eng>
+      <meaning>비평</meaning>
+    </word>
+    <word>
+      <eng>critical</eng>
+      <meaning>비평의,위기의,결정적인</meaning>
+    </word>
+    <word>
+      <eng>convince</eng>
+      <meaning>확신시키다</meaning>
+    </word>
+    <word>
+      <eng>assure</eng>
+      <meaning>확신시키다</meaning>
+    </word>
+    <word>
+      <eng>conviction</eng>
+      <meaning>확신,유죄의 판결</meaning>
+    </word>
+    <word>
+      <eng>feature</eng>
+      <meaning>특징,~를 특징으로 하다,특집 기사,얼굴 생김새,주연하다</meaning>
+    </word>
+    <word>
+      <eng>tide</eng>
+      <meaning>조수</meaning>
+    </word>
+    <word>
+      <eng>establish</eng>
+      <meaning>설립하다,제정하다</meaning>
+    </word>
+    <word>
+      <eng>set up</eng>
+      <meaning>설립하다,제정하다</meaning>
+    </word>
+    <word>
+      <eng>found</eng>
+      <meaning>설립하다,제정하다</meaning>
+    </word>
+    <word>
+      <eng>establishment</eng>
+      <meaning>설립,창설</meaning>
+    </word>
+    <word>
+      <eng>obtain</eng>
+      <meaning>획득하다,유지하다,통용되다,행해지다</meaning>
+    </word>
+    <word>
+      <eng>contain</eng>
+      <meaning>포함하다</meaning>
+    </word>
+    <word>
+      <eng>sustain</eng>
+      <meaning>유지하다</meaning>
+    </word>
+    <word>
+      <eng>assist</eng>
+      <meaning>도움을 주다</meaning>
+    </word>
+    <word>
+      <eng>help</eng>
+      <meaning>도움을 주다</meaning>
+    </word>
+    <word>
+      <eng>support</eng>
+      <meaning>도움을 주다</meaning>
+    </word>
+    <word>
+      <eng>assistance</eng>
+      <meaning>도움,보조</meaning>
+    </word>
+    <word>
+      <eng>assistant</eng>
+      <meaning>조수,보조 수단</meaning>
+    </word>
+    <word>
+      <eng>disaster</eng>
+      <meaning>재앙,재해</meaning>
+    </word>
+    <word>
+      <eng>catastrophe</eng>
+      <meaning>재앙,재해</meaning>
+    </word>
+    <word>
+      <eng>disastrous</eng>
+      <meaning>비참한</meaning>
+    </word>
+  </day>
+  <day name="6">
+    <word>
+      <eng>efficient</eng>
+      <meaning>효율적인,유능한</meaning>
+    </word>
+    <word>
+      <eng>efficiency</eng>
+      <meaning>능률,능력</meaning>
+    </word>
+    <word>
+      <eng>terrific</eng>
+      <meaning>굉장한</meaning>
+    </word>
+    <word>
+      <eng>terrible</eng>
+      <meaning>지독한,형편없는</meaning>
+    </word>
+    <word>
+      <eng>terrify</eng>
+      <meaning>무섭게 하다</meaning>
+    </word>
+    <word>
+      <eng>react</eng>
+      <meaning>반응하다,반작용하다</meaning>
+    </word>
+    <word>
+      <eng>respond</eng>
+      <meaning>반응하다,반작용하다</meaning>
+    </word>
+    <word>
+      <eng>independent</eng>
+      <meaning>독립적인</meaning>
+    </word>
+    <word>
+      <eng>dependent</eng>
+      <meaning>의존하는</meaning>
+    </word>
+    <word>
+      <eng>theory</eng>
+      <meaning>이론</meaning>
+    </word>
+    <word>
+      <eng>qualify</eng>
+      <meaning>자격을 얻다</meaning>
+    </word>
+    <word>
+      <eng>disqualify</eng>
+      <meaning>실격시키다</meaning>
+    </word>
+    <word>
+      <eng>qualification</eng>
+      <meaning>자격증,자격</meaning>
+    </word>
+    <word>
+      <eng>clue</eng>
+      <meaning>실마리,단서</meaning>
+    </word>
+    <word>
+      <eng>hint</eng>
+      <meaning>실마리,단서</meaning>
+    </word>
+    <word>
+      <eng>recall</eng>
+      <meaning>상기,상기하다,철회,회수,철회하다,회수하다</meaning>
+    </word>
+    <word>
+      <eng>risk</eng>
+      <meaning>위험,위험을 감수하다</meaning>
+    </word>
+    <word>
+      <eng>at the risk of</eng>
+      <meaning>~의 위험을 무릅쓰고</meaning>
+    </word>
+    <word>
+      <eng>at all risks</eng>
+      <meaning>어떤 위험을 무릅쓰고서라도</meaning>
+    </word>
+    <word>
+      <eng>cancer</eng>
+      <meaning>암,악성 종양</meaning>
+    </word>
+    <word>
+      <eng>contract[get] a cancer</eng>
+      <meaning>암에 걸리다</meaning>
+    </word>
+    <word>
+      <eng>treatment</eng>
+      <meaning>취급,대우,치료,치료법</meaning>
+    </word>
+    <word>
+      <eng>specific</eng>
+      <meaning>구체적인,특정한</meaning>
+    </word>
+    <word>
+      <eng>vague</eng>
+      <meaning>모호한</meaning>
+    </word>
+    <word>
+      <eng>species</eng>
+      <meaning>종,종류</meaning>
+    </word>
+    <word>
+      <eng>engage</eng>
+      <meaning>관여하다,약속하다,약혼하다</meaning>
+    </word>
+    <word>
+      <eng>be engaged in</eng>
+      <meaning>~에 종사하다,~으로 바쁘다</meaning>
+    </word>
+    <word>
+      <eng>be engaged to</eng>
+      <meaning>~와 약혼하다</meaning>
+    </word>
+    <word>
+      <eng>import</eng>
+      <meaning>수입하다,수입,뜻하다</meaning>
+    </word>
+    <word>
+      <eng>export</eng>
+      <meaning>수출하다,수출</meaning>
+    </word>
+    <word>
+      <eng>importation</eng>
+      <meaning>수입품</meaning>
+    </word>
+    <word>
+      <eng>elder</eng>
+      <meaning>나이가 위인,연장자</meaning>
+    </word>
+    <word>
+      <eng>younger</eng>
+      <meaning>더 어린</meaning>
+    </word>
+    <word>
+      <eng>the elderly</eng>
+      <meaning>노인층</meaning>
+    </word>
+    <word>
+      <eng>depress</eng>
+      <meaning>우울하게 하다,낙담시키다</meaning>
+    </word>
+    <word>
+      <eng>depression</eng>
+      <meaning>의기소침,불경기</meaning>
+    </word>
+    <word>
+      <eng>depressive</eng>
+      <meaning>우울증 환자</meaning>
+    </word>
+    <word>
+      <eng>fascinate</eng>
+      <meaning>매혹하다,마음을 빼앗다</meaning>
+    </word>
+    <word>
+      <eng>violent</eng>
+      <meaning>난폭한,폭력적인</meaning>
+    </word>
+    <word>
+      <eng>brutal</eng>
+      <meaning>난폭한,폭력적인</meaning>
+    </word>
+    <word>
+      <eng>violence</eng>
+      <meaning>폭력,격렬함</meaning>
+    </word>
+    <word>
+      <eng>alarm</eng>
+      <meaning>놀람,경보</meaning>
+    </word>
+    <word>
+      <eng>warning</eng>
+      <meaning>놀람,경보</meaning>
+    </word>
+    <word>
+      <eng>alert</eng>
+      <meaning>놀람,경보</meaning>
+    </word>
+    <word>
+      <eng>in[with] alarm</eng>
+      <meaning>놀라서</meaning>
+    </word>
+    <word>
+      <eng>edge</eng>
+      <meaning>가장자리,유리함,날카로움</meaning>
+    </word>
+    <word>
+      <eng>on the edge of</eng>
+      <meaning>~의 가장자리에,~하는 찰나에</meaning>
+    </word>
+    <word>
+      <eng>on edge</eng>
+      <meaning>초조하게,불안하게</meaning>
+    </word>
+    <word>
+      <eng>deserve</eng>
+      <meaning>~ 받을 가치가 있다, ~할 만하다</meaning>
+    </word>
+    <word>
+      <eng>route</eng>
+      <meaning>길,통로,항로</meaning>
+    </word>
+    <word>
+      <eng>on route</eng>
+      <meaning>도중에</meaning>
+    </word>
+    <word>
+      <eng>routine</eng>
+      <meaning>판에 박힌 일,일상적인</meaning>
+    </word>
+    <word>
+      <eng>psychology</eng>
+      <meaning>심리,심리학</meaning>
+    </word>
+    <word>
+      <eng>mole</eng>
+      <meaning>사마귀,점</meaning>
+    </word>
+    <word>
+      <eng>spot</eng>
+      <meaning>점</meaning>
+    </word>
+    <word>
+      <eng>molecule</eng>
+      <meaning>분자,미립자</meaning>
+    </word>
+    <word>
+      <eng>passion</eng>
+      <meaning>열정</meaning>
+    </word>
+    <word>
+      <eng>enthusiasm</eng>
+      <meaning>열정</meaning>
+    </word>
+    <word>
+      <eng>indifference</eng>
+      <meaning>무관심</meaning>
+    </word>
+    <word>
+      <eng>passionate</eng>
+      <meaning>정열적인</meaning>
+    </word>
+    <word>
+      <eng>weed</eng>
+      <meaning>잡초,잡초를 제거하다</meaning>
+    </word>
+    <word>
+      <eng>conscience</eng>
+      <meaning>양심</meaning>
+    </word>
+    <word>
+      <eng>for conscience` sake</eng>
+      <meaning>양심에 거리낌이 없도록</meaning>
+    </word>
+    <word>
+      <eng>conscientious</eng>
+      <meaning>양심적인,공들이는</meaning>
+    </word>
+    <word>
+      <eng>conscious</eng>
+      <meaning>의식하고 있는</meaning>
+    </word>
+    <word>
+      <eng>stripe</eng>
+      <meaning>줄무늬</meaning>
+    </word>
+    <word>
+      <eng>striped</eng>
+      <meaning>줄무늬의</meaning>
+    </word>
+    <word>
+      <eng>salary</eng>
+      <meaning>급료,봉급</meaning>
+    </word>
+    <word>
+      <eng>pose</eng>
+      <meaning>자세,자세를 취하다,(~인)체하다,(문제를)제출하다</meaning>
+    </word>
+    <word>
+      <eng>purchase</eng>
+      <meaning>구매,구매하다</meaning>
+    </word>
+    <word>
+      <eng>sell</eng>
+      <meaning>팔다</meaning>
+    </word>
+    <word>
+      <eng>make a good purchase</eng>
+      <meaning>싸게 구매하다</meaning>
+    </word>
+    <word>
+      <eng>length</eng>
+      <meaning>길이</meaning>
+    </word>
+    <word>
+      <eng>at length</eng>
+      <meaning>드디어,마침내</meaning>
+    </word>
+    <word>
+      <eng>long</eng>
+      <meaning>긴</meaning>
+    </word>
+    <word>
+      <eng>lengthen</eng>
+      <meaning>길게 하다</meaning>
+    </word>
+    <word>
+      <eng>strong</eng>
+      <meaning>강한</meaning>
+    </word>
+    <word>
+      <eng>strengthen</eng>
+      <meaning>강하게 하다</meaning>
+    </word>
+    <word>
+      <eng>occupy</eng>
+      <meaning>(시간,장소를)차지하다,전념하다</meaning>
+    </word>
+    <word>
+      <eng>occupation</eng>
+      <meaning>직업,점유</meaning>
+    </word>
+    <word>
+      <eng>acquire</eng>
+      <meaning>습득하다</meaning>
+    </word>
+    <word>
+      <eng>acquisition</eng>
+      <meaning>습득</meaning>
+    </word>
+    <word>
+      <eng>interact</eng>
+      <meaning>상호 작용하다</meaning>
+    </word>
+    <word>
+      <eng>interaction</eng>
+      <meaning>상호 작용</meaning>
+    </word>
+    <word>
+      <eng>interfere</eng>
+      <meaning>방해하다</meaning>
+    </word>
+    <word>
+      <eng>interrupt</eng>
+      <meaning>방해하다</meaning>
+    </word>
+    <word>
+      <eng>grocer</eng>
+      <meaning>식료품 상인</meaning>
+    </word>
+    <word>
+      <eng>grocery</eng>
+      <meaning>식료 잡화점</meaning>
+    </word>
+    <word>
+      <eng>lifetiem</eng>
+      <meaning>평생,평생의</meaning>
+    </word>
+    <word>
+      <eng>not in this lifetime</eng>
+      <meaning>절대로,천만에</meaning>
+    </word>
+    <word>
+      <eng>decade</eng>
+      <meaning>10년,10년간</meaning>
+    </word>
+    <word>
+      <eng>grain</eng>
+      <meaning>곡물,낟알</meaning>
+    </word>
+    <word>
+      <eng>in grain</eng>
+      <meaning>타고난,철저한</meaning>
+    </word>
+    <word>
+      <eng>grainy</eng>
+      <meaning>거친</meaning>
+    </word>
+  </day>
+  <day name="7">
+    <word>
+      <eng>meaningful</eng>
+      <meaning>의미심장한</meaning>
+    </word>
+    <word>
+      <eng>meningless</eng>
+      <meaning>의미 없는</meaning>
+    </word>
+    <word>
+      <eng>careful</eng>
+      <meaning>주의 깊은</meaning>
+    </word>
+    <word>
+      <eng>thoughtful</eng>
+      <meaning>사려 깊음</meaning>
+    </word>
+    <word>
+      <eng>brief</eng>
+      <meaning>간단한,간단히 알리다,짧은 보고</meaning>
+    </word>
+    <word>
+      <eng>to be brief</eng>
+      <meaning>간단히 말해서</meaning>
+    </word>
+    <word>
+      <eng>briefly speaking</eng>
+      <meaning>간단히 말해서</meaning>
+    </word>
+    <word>
+      <eng>in brief</eng>
+      <meaning>간단히 말해서</meaning>
+    </word>
+    <word>
+      <eng>briefing</eng>
+      <meaning>상황 설명,요약 보고</meaning>
+    </word>
+    <word>
+      <eng>severe</eng>
+      <meaning>심한,엄한</meaning>
+    </word>
+    <word>
+      <eng>severity</eng>
+      <meaning>엄격,혹독</meaning>
+    </word>
+    <word>
+      <eng>survival</eng>
+      <meaning>생존</meaning>
+    </word>
+    <word>
+      <eng>the survivial of the fittest</eng>
+      <meaning>적자 생존</meaning>
+    </word>
+    <word>
+      <eng>survive</eng>
+      <meaning>살아남다</meaning>
+    </word>
+    <word>
+      <eng>revive</eng>
+      <meaning>소생시키다</meaning>
+    </word>
+    <word>
+      <eng>comment</eng>
+      <meaning>논평,논평하다,주석</meaning>
+    </word>
+    <word>
+      <eng>leap</eng>
+      <meaning>뛰다,도약하다,도약</meaning>
+    </word>
+    <word>
+      <eng>survey</eng>
+      <meaning>설문 조사,조사하다,둘러보다</meaning>
+    </word>
+    <word>
+      <eng>overview</eng>
+      <meaning>설문 조사,조사하다,둘러보다</meaning>
+    </word>
+    <word>
+      <eng>oversee</eng>
+      <meaning>설문 조사,조사하다,둘러보다</meaning>
+    </word>
+    <word>
+      <eng>mechanic</eng>
+      <meaning>기계공</meaning>
+    </word>
+    <word>
+      <eng>mechanism</eng>
+      <meaning>기계 장치,(정해진)절차</meaning>
+    </word>
+    <word>
+      <eng>mood</eng>
+      <meaning>기분,분위기</meaning>
+    </word>
+    <word>
+      <eng>man of moods</eng>
+      <meaning>변덕쟁이</meaning>
+    </word>
+    <word>
+      <eng>in a mood</eng>
+      <meaning>기분이 좋지 않은</meaning>
+    </word>
+    <word>
+      <eng>mere</eng>
+      <meaning>단지 ~에 불과한</meaning>
+    </word>
+    <word>
+      <eng>nothing more than</eng>
+      <meaning>단지 ~에 불과한</meaning>
+    </word>
+    <word>
+      <eng>only</eng>
+      <meaning>단지 ~에 불과한</meaning>
+    </word>
+    <word>
+      <eng>merely</eng>
+      <meaning>단지</meaning>
+    </word>
+    <word>
+      <eng>typical</eng>
+      <meaning>전형적인,대표적인</meaning>
+    </word>
+    <word>
+      <eng>standard</eng>
+      <meaning>전형적인,대표적인</meaning>
+    </word>
+    <word>
+      <eng>usual</eng>
+      <meaning>전형적인,대표적인</meaning>
+    </word>
+    <word>
+      <eng>unusual</eng>
+      <meaning>별난</meaning>
+    </word>
+    <word>
+      <eng>type</eng>
+      <meaning>유형</meaning>
+    </word>
+    <word>
+      <eng>approve</eng>
+      <meaning>찬성하다,승인하다</meaning>
+    </word>
+    <word>
+      <eng>disapprove</eng>
+      <meaning>찬성하지 않다</meaning>
+    </word>
+    <word>
+      <eng>approval</eng>
+      <meaning>승인,찬성</meaning>
+    </word>
+    <word>
+      <eng>ddisapproval</eng>
+      <meaning>불승인,반대</meaning>
+    </word>
+    <word>
+      <eng>rural</eng>
+      <meaning>시골의</meaning>
+    </word>
+    <word>
+      <eng>urban</eng>
+      <meaning>도시의</meaning>
+    </word>
+    <word>
+      <eng>countryside</eng>
+      <meaning>시골</meaning>
+    </word>
+    <word>
+      <eng>finance</eng>
+      <meaning>재정,재무,자금을 조달하다</meaning>
+    </word>
+    <word>
+      <eng>financial</eng>
+      <meaning>재정의,금융의</meaning>
+    </word>
+    <word>
+      <eng>operation</eng>
+      <meaning>작업,운영,수술</meaning>
+    </word>
+    <word>
+      <eng>come into operation</eng>
+      <meaning>움직이기 시작하다</meaning>
+    </word>
+    <word>
+      <eng>crime</eng>
+      <meaning>범죄</meaning>
+    </word>
+    <word>
+      <eng>criminal</eng>
+      <meaning>범인,범죄의</meaning>
+    </word>
+    <word>
+      <eng>awful</eng>
+      <meaning>끔찍한,지독한</meaning>
+    </word>
+    <word>
+      <eng>terrible</eng>
+      <meaning>끔찍한,지독한</meaning>
+    </word>
+    <word>
+      <eng>terrific</eng>
+      <meaning>굉장한</meaning>
+    </word>
+    <word>
+      <eng>awe</eng>
+      <meaning>외경심</meaning>
+    </word>
+    <word>
+      <eng>awesome</eng>
+      <meaning>아주 멋진</meaning>
+    </word>
+    <word>
+      <eng>series</eng>
+      <meaning>연속,시리즈물</meaning>
+    </word>
+    <word>
+      <eng>sequence</eng>
+      <meaning>연속,시리즈물</meaning>
+    </word>
+    <word>
+      <eng>succession</eng>
+      <meaning>연속,시리즈물</meaning>
+    </word>
+    <word>
+      <eng>a series of</eng>
+      <meaning>일련의~</meaning>
+    </word>
+    <word>
+      <eng>in series</eng>
+      <meaning>연속하여,연속(간행)물로서</meaning>
+    </word>
+    <word>
+      <eng>serial</eng>
+      <meaning>연속물,연쇄의</meaning>
+    </word>
+    <word>
+      <eng>exhausted</eng>
+      <meaning>고갈된,기운이 다 빠진</meaning>
+    </word>
+    <word>
+      <eng>exhausted</eng>
+      <meaning>다 써버리다</meaning>
+    </word>
+    <word>
+      <eng>flu</eng>
+      <meaning>유행성 감기,유행성 감기의</meaning>
+    </word>
+    <word>
+      <eng>hace the flu</eng>
+      <meaning>유행성 감기에 걸리다</meaning>
+    </word>
+    <word>
+      <eng>surround</eng>
+      <meaning>둘러싸다</meaning>
+    </word>
+    <word>
+      <eng>encompass</eng>
+      <meaning>둘러싸다</meaning>
+    </word>
+    <word>
+      <eng>be surrounded by[with]</eng>
+      <meaning>~에 둘러싸이다</meaning>
+    </word>
+    <word>
+      <eng>surroundings</eng>
+      <meaning>주변,환경</meaning>
+    </word>
+    <word>
+      <eng>display</eng>
+      <meaning>전시,전시하다,나타내다</meaning>
+    </word>
+    <word>
+      <eng>policy</eng>
+      <meaning>정책,수단,방법</meaning>
+    </word>
+    <word>
+      <eng>politic</eng>
+      <meaning>분별 있는</meaning>
+    </word>
+    <word>
+      <eng>political</eng>
+      <meaning>정치의</meaning>
+    </word>
+    <word>
+      <eng>politician</eng>
+      <meaning>정치가</meaning>
+    </word>
+    <word>
+      <eng>mass</eng>
+      <meaning>덩어리,집단,대중</meaning>
+    </word>
+    <word>
+      <eng>lump</eng>
+      <meaning>덩어리</meaning>
+    </word>
+    <word>
+      <eng>committee</eng>
+      <meaning>(상급 기관에 소속된)위원회</meaning>
+    </word>
+    <word>
+      <eng>commision</eng>
+      <meaning>(독립된 역할을 하는)위원회</meaning>
+    </word>
+    <word>
+      <eng>accurate</eng>
+      <meaning>정확한</meaning>
+    </word>
+    <word>
+      <eng>to be accurate</eng>
+      <meaning>정확히 말해서</meaning>
+    </word>
+    <word>
+      <eng>accuracy</eng>
+      <meaning>정확성</meaning>
+    </word>
+    <word>
+      <eng>arrange</eng>
+      <meaning>정리하다,준비하다,각색하다,편곡하다</meaning>
+    </word>
+    <word>
+      <eng>arrangement</eng>
+      <meaning>정리,합의,편곡</meaning>
+    </word>
+    <word>
+      <eng>consult</eng>
+      <meaning>상담하다,참고하다</meaning>
+    </word>
+    <word>
+      <eng>conultant</eng>
+      <meaning>컨설턴트,고문</meaning>
+    </word>
+    <word>
+      <eng>consultation</eng>
+      <meaning>상업</meaning>
+    </word>
+    <word>
+      <eng>reward</eng>
+      <meaning>보수,보답하다</meaning>
+    </word>
+    <word>
+      <eng>recover</eng>
+      <meaning>회복하다,되찾다</meaning>
+    </word>
+    <word>
+      <eng>recovery</eng>
+      <meaning>회복,되찾기</meaning>
+    </word>
+    <word>
+      <eng>facility</eng>
+      <meaning>시설,편의,재능</meaning>
+    </word>
+    <word>
+      <eng>with facility</eng>
+      <meaning>수월하게</meaning>
+    </word>
+    <word>
+      <eng>facilitate</eng>
+      <meaning>용이하게 하다</meaning>
+    </word>
+    <word>
+      <eng>dust</eng>
+      <meaning>먼지,먼지를 털다</meaning>
+    </word>
+    <word>
+      <eng>turn to dust</eng>
+      <meaning>사라지다</meaning>
+    </word>
+    <word>
+      <eng>downtown</eng>
+      <meaning>도심,도심의</meaning>
+    </word>
+    <word>
+      <eng>attach</eng>
+      <meaning>붙이다,첨부하다,애착심을 갖게 하다</meaning>
+    </word>
+    <word>
+      <eng>stick</eng>
+      <meaning>붙이다,첨부하다</meaning>
+    </word>
+    <word>
+      <eng>detach</eng>
+      <meaning>떼다</meaning>
+    </word>
+    <word>
+      <eng>monster</eng>
+      <meaning>괴물,도깨비</meaning>
+    </word>
+    <word>
+      <eng>create a monster</eng>
+      <meaning>골치 아픈 상황을 만들다</meaning>
+    </word>
+    <word>
+      <eng>monstrous</eng>
+      <meaning>기괴한</meaning>
+    </word>
+    <word>
+      <eng>enourmous</eng>
+      <meaning>엄청난,대단한,거대한</meaning>
+    </word>
+    <word>
+      <eng>domestic</eng>
+      <meaning>국내의,가정의,내부의</meaning>
+    </word>
+    <word>
+      <eng>internal</eng>
+      <meaning>국내의,가정의,내부의</meaning>
+    </word>
+    <word>
+      <eng>international</eng>
+      <meaning>외국의,국제의</meaning>
+    </word>
+    <word>
+      <eng>elementary</eng>
+      <meaning>초보의,기초적인</meaning>
+    </word>
+    <word>
+      <eng>primary</eng>
+      <meaning>초보의,기초적인</meaning>
+    </word>
+    <word>
+      <eng>basic</eng>
+      <meaning>초보의,기초적인</meaning>
+    </word>
+    <word>
+      <eng>fundamental</eng>
+      <meaning>초보의,기초적인</meaning>
+    </word>
+    <word>
+      <eng>elementary</eng>
+      <meaning>요소,원소</meaning>
+    </word>
+    <word>
+      <eng>elemental</eng>
+      <meaning>요소의,기본적인</meaning>
+    </word>
+    <word>
+      <eng>refer</eng>
+      <meaning>언급하다,위탁하다</meaning>
+    </word>
+    <word>
+      <eng>check</eng>
+      <meaning>언급하다</meaning>
+    </word>
+    <word>
+      <eng>refer to</eng>
+      <meaning>~에 대해 언급하다</meaning>
+    </word>
+    <word>
+      <eng>reference</eng>
+      <meaning>참조,언급</meaning>
+    </word>
+    <word>
+      <eng>referee</eng>
+      <meaning>심판</meaning>
+    </word>
+    <word>
+      <eng>gap</eng>
+      <meaning>격차,틈</meaning>
+    </word>
+    <word>
+      <eng>open a gap</eng>
+      <meaning>기회를 주다</meaning>
+    </word>
+    <word>
+      <eng>close a gap</eng>
+      <meaning>간격을 줄이다</meaning>
+    </word>
+  </day>
+  <day name="8">
+    <word>
+      <eng>renaissance</eng>
+      <meaning>(14-16세기 유럽의)문예 부흥 운동,부활</meaning>
+    </word>
+    <word>
+      <eng>revival</eng>
+      <meaning>(14-16세기 유럽의)문예 부흥 운동,부활</meaning>
+    </word>
+    <word>
+      <eng>rebith</eng>
+      <meaning>(14-16세기 유럽의)문예 부흥 운동,부활</meaning>
+    </word>
+    <word>
+      <eng>journey</eng>
+      <meaning>여행</meaning>
+    </word>
+    <word>
+      <eng>plain</eng>
+      <meaning>명백한,평범한</meaning>
+    </word>
+    <word>
+      <eng>to be plain with you</eng>
+      <meaning>솔직히 말하자면</meaning>
+    </word>
+    <word>
+      <eng>previous</eng>
+      <meaning>앞의,이전의</meaning>
+    </word>
+    <word>
+      <eng>later</eng>
+      <meaning>후의,나중에</meaning>
+    </word>
+    <word>
+      <eng>previous to</eng>
+      <meaning>(전치사처럼)~이전에,~에 앞서</meaning>
+    </word>
+    <word>
+      <eng>premature</eng>
+      <meaning>조숙한</meaning>
+    </word>
+    <word>
+      <eng>predict</eng>
+      <meaning>예언하다</meaning>
+    </word>
+    <word>
+      <eng>slight</eng>
+      <meaning>약간의,경미한</meaning>
+    </word>
+    <word>
+      <eng>make sight of</eng>
+      <meaning>~을 얕보다,경시하다</meaning>
+    </word>
+    <word>
+      <eng>leisure</eng>
+      <meaning>여가,자유시간,한가한</meaning>
+    </word>
+    <word>
+      <eng>at leisure</eng>
+      <meaning>한가혀여,천천히</meaning>
+    </word>
+    <word>
+      <eng>telescope</eng>
+      <meaning>망원경</meaning>
+    </word>
+    <word>
+      <eng>microscope</eng>
+      <meaning>현미경</meaning>
+    </word>
+    <word>
+      <eng>stroke</eng>
+      <meaning>뇌졸중,강타</meaning>
+    </word>
+    <word>
+      <eng>at a stroke</eng>
+      <meaning>일격에,단숨에</meaning>
+    </word>
+    <word>
+      <eng>strike</eng>
+      <meaning>때리다,동맹파업</meaning>
+    </word>
+    <word>
+      <eng>delicious</eng>
+      <meaning>맛있는</meaning>
+    </word>
+    <word>
+      <eng>tasty</eng>
+      <meaning>맛있는</meaning>
+    </word>
+    <word>
+      <eng>delicate</eng>
+      <meaning>섬세한</meaning>
+    </word>
+    <word>
+      <eng>breed</eng>
+      <meaning>낳다,양육하다</meaning>
+    </word>
+    <word>
+      <eng>breed out</eng>
+      <meaning>품종 개량해서 제거하다</meaning>
+    </word>
+    <word>
+      <eng>breeding</eng>
+      <meaning>번식</meaning>
+    </word>
+    <word>
+      <eng>muscle</eng>
+      <meaning>근육,힘,강제</meaning>
+    </word>
+    <word>
+      <eng>strength</eng>
+      <meaning>근육,힘</meaning>
+    </word>
+    <word>
+      <eng>muscular</eng>
+      <meaning>근육의,강건한</meaning>
+    </word>
+    <word>
+      <eng>delay</eng>
+      <meaning>연기하다,미루다,지연</meaning>
+    </word>
+    <word>
+      <eng>put off</eng>
+      <meaning>연기하다,미루다</meaning>
+    </word>
+    <word>
+      <eng>postpone</eng>
+      <meaning>연기하다,미루다</meaning>
+    </word>
+    <word>
+      <eng>rush</eng>
+      <meaning>서두르다</meaning>
+    </word>
+    <word>
+      <eng>hurry</eng>
+      <meaning>서두르다</meaning>
+    </word>
+    <word>
+      <eng>file</eng>
+      <meaning>서류철,서류철을 작성하다,(소송 등을)제기하다,제출하다</meaning>
+    </word>
+    <word>
+      <eng>ethic</eng>
+      <meaning>윤리</meaning>
+    </word>
+    <word>
+      <eng>ethics</eng>
+      <meaning>윤리학</meaning>
+    </word>
+    <word>
+      <eng>instant</eng>
+      <meaning>즉각의,즉석의</meaning>
+    </word>
+    <word>
+      <eng>instantly</eng>
+      <meaning>즉시,당장에</meaning>
+    </word>
+    <word>
+      <eng>immediately</eng>
+      <meaning>즉시</meaning>
+    </word>
+    <word>
+      <eng>at once</eng>
+      <meaning>즉시</meaning>
+    </word>
+    <word>
+      <eng>in an instant</eng>
+      <meaning>눈 깜짝할 사이에</meaning>
+    </word>
+    <word>
+      <eng>reveal</eng>
+      <meaning>드러내다,폭로하다</meaning>
+    </word>
+    <word>
+      <eng>disclose</eng>
+      <meaning>드러내다,폭로하다</meaning>
+    </word>
+    <word>
+      <eng>hide</eng>
+      <meaning>숨기다</meaning>
+    </word>
+    <word>
+      <eng>conceal</eng>
+      <meaning>숨기다</meaning>
+    </word>
+    <word>
+      <eng>junk</eng>
+      <meaning>쓰레기,고통,쓰레기 같은</meaning>
+    </word>
+    <word>
+      <eng>waste</eng>
+      <meaning>쓰레기,고통,쓰레기 같은</meaning>
+    </word>
+    <word>
+      <eng>garbage</eng>
+      <meaning>쓰레기,고통,쓰레기 같은</meaning>
+    </word>
+    <word>
+      <eng>trash</eng>
+      <meaning>쓰레기,고통,쓰레기 같은</meaning>
+    </word>
+    <word>
+      <eng>urban</eng>
+      <meaning>도시의</meaning>
+    </word>
+    <word>
+      <eng>rural</eng>
+      <meaning>시골의</meaning>
+    </word>
+    <word>
+      <eng>urbanized</eng>
+      <meaning>도시화된</meaning>
+    </word>
+    <word>
+      <eng>suburban</eng>
+      <meaning>근교의,시외의</meaning>
+    </word>
+    <word>
+      <eng>witness</eng>
+      <meaning>증인,증거,목격하다</meaning>
+    </word>
+    <word>
+      <eng>observer</eng>
+      <meaning>증인,증거,목격하다</meaning>
+    </word>
+    <word>
+      <eng>with a witness</eng>
+      <meaning>틀림없이,명백히</meaning>
+    </word>
+    <word>
+      <eng>admit</eng>
+      <meaning>인정하다,입장을 허락하다</meaning>
+    </word>
+    <word>
+      <eng>accept</eng>
+      <meaning>인정하다</meaning>
+    </word>
+    <word>
+      <eng>admission</eng>
+      <meaning>입학,입장료</meaning>
+    </word>
+    <word>
+      <eng>admittance</eng>
+      <meaning>입장,허가</meaning>
+    </word>
+    <word>
+      <eng>admitted</eng>
+      <meaning>허가된</meaning>
+    </word>
+    <word>
+      <eng>device</eng>
+      <meaning>장치,고안,방책</meaning>
+    </word>
+    <word>
+      <eng>equipment</eng>
+      <meaning>장비,설비</meaning>
+    </word>
+    <word>
+      <eng>safety device</eng>
+      <meaning>안전 장치</meaning>
+    </word>
+    <word>
+      <eng>devise</eng>
+      <meaning>고안하다,발명하다</meaning>
+    </word>
+    <word>
+      <eng>owe</eng>
+      <meaning>빚지고 있다,(명예,성공 등을)~에 돌리다</meaning>
+    </word>
+    <word>
+      <eng>owing to</eng>
+      <meaning>~때문에</meaning>
+    </word>
+    <word>
+      <eng>due to</eng>
+      <meaning>~때문에</meaning>
+    </word>
+    <word>
+      <eng>owe A to B</eng>
+      <meaning>A를 B덕택으로 여기다</meaning>
+    </word>
+    <word>
+      <eng>intend</eng>
+      <meaning>~할 작정이다,의도하다</meaning>
+    </word>
+    <word>
+      <eng>intent</eng>
+      <meaning>의지,의향</meaning>
+    </word>
+    <word>
+      <eng>intention</eng>
+      <meaning>의도</meaning>
+    </word>
+    <word>
+      <eng>award</eng>
+      <meaning>수여하다,상</meaning>
+    </word>
+    <word>
+      <eng>reward</eng>
+      <meaning>보답하다,보상</meaning>
+    </word>
+    <word>
+      <eng>preserve</eng>
+      <meaning>보존하다,보호하다</meaning>
+    </word>
+    <word>
+      <eng>preservative</eng>
+      <meaning>보존의,방부제</meaning>
+    </word>
+    <word>
+      <eng>preservation</eng>
+      <meaning>보존</meaning>
+    </word>
+    <word>
+      <eng>conserve</eng>
+      <meaning>보존하다</meaning>
+    </word>
+    <word>
+      <eng>underground</eng>
+      <meaning>지하의,지하,비밀의</meaning>
+    </word>
+    <word>
+      <eng>consequence</eng>
+      <meaning>결과,중요성</meaning>
+    </word>
+    <word>
+      <eng>consequent</eng>
+      <meaning>결과로서 생기는</meaning>
+    </word>
+    <word>
+      <eng>consequently</eng>
+      <meaning>결과적으로</meaning>
+    </word>
+    <word>
+      <eng>aspect</eng>
+      <meaning>관점,양상,면</meaning>
+    </word>
+    <word>
+      <eng>from every aspect</eng>
+      <meaning>모든 견지에서</meaning>
+    </word>
+    <word>
+      <eng>in all aspects</eng>
+      <meaning>모든 견지에서</meaning>
+    </word>
+    <word>
+      <eng>target</eng>
+      <meaning>목표,목표의,목표로 삼다</meaning>
+    </word>
+    <word>
+      <eng>goal</eng>
+      <meaning>목표,목표의,목표로 삼다</meaning>
+    </word>
+    <word>
+      <eng>aim</eng>
+      <meaning>목표,목표의,목표로 삼다</meaning>
+    </word>
+    <word>
+      <eng>ambition</eng>
+      <meaning>목표,목표의,목표로 삼다</meaning>
+    </word>
+    <word>
+      <eng>headache</eng>
+      <meaning>두통,골칫거리</meaning>
+    </word>
+    <word>
+      <eng>horizon</eng>
+      <meaning>수평선,지평선</meaning>
+    </word>
+    <word>
+      <eng>vertical</eng>
+      <meaning>수직선,수직의</meaning>
+    </word>
+    <word>
+      <eng>horizontal</eng>
+      <meaning>수평의,수평선의</meaning>
+    </word>
+    <word>
+      <eng>accomplish</eng>
+      <meaning>이루다,성취하다</meaning>
+    </word>
+    <word>
+      <eng>accomplishment</eng>
+      <meaning>완성,성취</meaning>
+    </word>
+    <word>
+      <eng>accomplish one`s purpose</eng>
+      <meaning>목적을 달성하다</meaning>
+    </word>
+    <word>
+      <eng>surf</eng>
+      <meaning>파도,파도 타기를 하다</meaning>
+    </word>
+    <word>
+      <eng>ride the surf</eng>
+      <meaning>파도 타기를 하다</meaning>
+    </word>
+    <word>
+      <eng>surf the Internet</eng>
+      <meaning>인터넷 서핑을 하다,인터넷을 검색하다</meaning>
+    </word>
+    <word>
+      <eng>adopt</eng>
+      <meaning>채택하다,입양하다</meaning>
+    </word>
+    <word>
+      <eng>potential</eng>
+      <meaning>잠재적인,잠재력</meaning>
+    </word>
+    <word>
+      <eng>potent</eng>
+      <meaning>강력한,유력한</meaning>
+    </word>
+    <word>
+      <eng>potentiality</eng>
+      <meaning>잠재 가능성</meaning>
+    </word>
+    <word>
+      <eng>slip</eng>
+      <meaning>미끄러지다,실수하다,종이 조각</meaning>
+    </word>
+    <word>
+      <eng>slip over</eng>
+      <meaning>깜빡 빠뜨리다</meaning>
+    </word>
+    <word>
+      <eng>slippery</eng>
+      <meaning>미끄러운</meaning>
+    </word>
+    <word>
+      <eng>slide</eng>
+      <meaning>미끄러지다</meaning>
+    </word>
+    <word>
+      <eng>slope</eng>
+      <meaning>비탈길</meaning>
+    </word>
+    <word>
+      <eng>civilization</eng>
+      <meaning>문명</meaning>
+    </word>
+    <word>
+      <eng>civilize</eng>
+      <meaning>문명화하다</meaning>
+    </word>
+    <word>
+      <eng>civil</eng>
+      <meaning>시민의,문명의</meaning>
+    </word>
+    <word>
+      <eng>row</eng>
+      <meaning>열,줄,말다툼,(배를)젓다</meaning>
+    </word>
+    <word>
+      <eng>atmosphere</eng>
+      <meaning>대기,분위기</meaning>
+    </word>
+    <word>
+      <eng>label</eng>
+      <meaning>꼬리표,라벨을 붙이다,~를 ~라고 부르다</meaning>
+    </word>
+    <word>
+      <eng>label A B</eng>
+      <meaning>A에게 B라는 명칭을 붙이다</meaning>
+    </word>
+  </day>
+  <day name="9">
+    <word>
+      <eng>decorate</eng>
+      <meaning>장식하다,~에게 훈장을 주다</meaning>
+    </word>
+    <word>
+      <eng>decoration</eng>
+      <meaning>장식,훈장</meaning>
+    </word>
+    <word>
+      <eng>identify</eng>
+      <meaning>~임을 확인하다,식별하다,동일시하다</meaning>
+    </word>
+    <word>
+      <eng>identify A with B</eng>
+      <meaning>A와 B를 동일시하다</meaning>
+    </word>
+    <word>
+      <eng>identity</eng>
+      <meaning>신분,동일함</meaning>
+    </word>
+    <word>
+      <eng>secretary</eng>
+      <meaning>비서,서기관,장관</meaning>
+    </word>
+    <word>
+      <eng>scale</eng>
+      <meaning>규모,저울,바늘</meaning>
+    </word>
+    <word>
+      <eng>addict</eng>
+      <meaning>중독시키다,중독자</meaning>
+    </word>
+    <word>
+      <eng>be addicted to A</eng>
+      <meaning>A에 중독되다</meaning>
+    </word>
+    <word>
+      <eng>addiction</eng>
+      <meaning>중독</meaning>
+    </word>
+    <word>
+      <eng>evident</eng>
+      <meaning>명백한</meaning>
+    </word>
+    <word>
+      <eng>plain</eng>
+      <meaning>명백한</meaning>
+    </word>
+    <word>
+      <eng>obvious</eng>
+      <meaning>명백한</meaning>
+    </word>
+    <word>
+      <eng>evidence</eng>
+      <meaning>증거</meaning>
+    </word>
+    <word>
+      <eng>evidently</eng>
+      <meaning>분명히,명백히</meaning>
+    </word>
+    <word>
+      <eng>seldom</eng>
+      <meaning>좀처럼 ~않는</meaning>
+    </word>
+    <word>
+      <eng>rarely</eng>
+      <meaning>좀처럼 ~않는</meaning>
+    </word>
+    <word>
+      <eng>hardly</eng>
+      <meaning>좀처럼 ~않는</meaning>
+    </word>
+    <word>
+      <eng>scarcely</eng>
+      <meaning>좀처럼 ~않는</meaning>
+    </word>
+    <word>
+      <eng>standary</eng>
+      <meaning>기준,표준,기준의,표준의</meaning>
+    </word>
+    <word>
+      <eng>standardize</eng>
+      <meaning>규격화하다</meaning>
+    </word>
+    <word>
+      <eng>basis</eng>
+      <meaning>기초,원리</meaning>
+    </word>
+    <word>
+      <eng>base</eng>
+      <meaning>기초,원리</meaning>
+    </word>
+    <word>
+      <eng>automatic</eng>
+      <meaning>자동적인,기계적인</meaning>
+    </word>
+    <word>
+      <eng>manual</eng>
+      <meaning>손으로 하는,수동의</meaning>
+    </word>
+    <word>
+      <eng>automation</eng>
+      <meaning>자동 조작</meaning>
+    </word>
+    <word>
+      <eng>automate</eng>
+      <meaning>자동화하다</meaning>
+    </word>
+    <word>
+      <eng>region</eng>
+      <meaning>지역</meaning>
+    </word>
+    <word>
+      <eng>regional</eng>
+      <meaning>지역의</meaning>
+    </word>
+    <word>
+      <eng>sake</eng>
+      <meaning>위함,목적</meaning>
+    </word>
+    <word>
+      <eng>for A`s sake</eng>
+      <meaning>A를 위해</meaning>
+    </word>
+    <word>
+      <eng>for the sake of A</eng>
+      <meaning>A를 위해</meaning>
+    </word>
+    <word>
+      <eng>artificial</eng>
+      <meaning>인공적인,인조의</meaning>
+    </word>
+    <word>
+      <eng>natural</eng>
+      <meaning>자연의</meaning>
+    </word>
+    <word>
+      <eng>possess</eng>
+      <meaning>소유하다,~의 마음을 사로잡다</meaning>
+    </word>
+    <word>
+      <eng>possession</eng>
+      <meaning>소유</meaning>
+    </word>
+    <word>
+      <eng>substance</eng>
+      <meaning>물질,본질,실체</meaning>
+    </word>
+    <word>
+      <eng>material</eng>
+      <meaning>물질,본질,실체</meaning>
+    </word>
+    <word>
+      <eng>in substance</eng>
+      <meaning>실질적으로는,사실상</meaning>
+    </word>
+    <word>
+      <eng>substantial</eng>
+      <meaning>많은,물질의,실질적인</meaning>
+    </word>
+    <word>
+      <eng>realistic</eng>
+      <meaning>현실적인,현실주의의</meaning>
+    </word>
+    <word>
+      <eng>idealistic</eng>
+      <meaning>이상적인,이상주의의</meaning>
+    </word>
+    <word>
+      <eng>realism</eng>
+      <meaning>현실주의</meaning>
+    </word>
+    <word>
+      <eng>realistic</eng>
+      <meaning>현실주의자</meaning>
+    </word>
+    <word>
+      <eng>physics</eng>
+      <meaning>물리학</meaning>
+    </word>
+    <word>
+      <eng>physical education</eng>
+      <meaning>체육</meaning>
+    </word>
+    <word>
+      <eng>physical</eng>
+      <meaning>신체의,물질의,물리의</meaning>
+    </word>
+    <word>
+      <eng>physician</eng>
+      <meaning>내과 의사</meaning>
+    </word>
+    <word>
+      <eng>physicist</eng>
+      <meaning>물리학자</meaning>
+    </word>
+    <word>
+      <eng>encounter</eng>
+      <meaning>(우연히)만나다,마주침</meaning>
+    </word>
+    <word>
+      <eng>have an encounter with</eng>
+      <meaning>~와 우연히 만나다</meaning>
+    </word>
+    <word>
+      <eng>differ</eng>
+      <meaning>다르다,의견을 달리하다</meaning>
+    </word>
+    <word>
+      <eng>A differ from B</eng>
+      <meaning>A와 B는 다르다</meaning>
+    </word>
+    <word>
+      <eng>A and B differ in</eng>
+      <meaning>A와 B는 ~가 다르다</meaning>
+    </word>
+    <word>
+      <eng>different</eng>
+      <meaning>다른</meaning>
+    </word>
+    <word>
+      <eng>principle</eng>
+      <meaning>원칙,원리</meaning>
+    </word>
+    <word>
+      <eng>on the principle of</eng>
+      <meaning>~라는 신념으로</meaning>
+    </word>
+    <word>
+      <eng>memorize</eng>
+      <meaning>기억하다</meaning>
+    </word>
+    <word>
+      <eng>remember</eng>
+      <meaning>기억하다</meaning>
+    </word>
+    <word>
+      <eng>forget</eng>
+      <meaning>잊다</meaning>
+    </word>
+    <word>
+      <eng>evaluate</eng>
+      <meaning>평가하다</meaning>
+    </word>
+    <word>
+      <eng>assess</eng>
+      <meaning>평가하다</meaning>
+    </word>
+    <word>
+      <eng>evaluation</eng>
+      <meaning>평가</meaning>
+    </word>
+    <word>
+      <eng>fulfill</eng>
+      <meaning>달성하다,이행하다</meaning>
+    </word>
+    <word>
+      <eng>fulfill,ent</eng>
+      <meaning>달성,이행</meaning>
+    </word>
+    <word>
+      <eng>staff</eng>
+      <meaning>직원</meaning>
+    </word>
+    <word>
+      <eng>employee</eng>
+      <meaning>직원</meaning>
+    </word>
+    <word>
+      <eng>personnel</eng>
+      <meaning>직원</meaning>
+    </word>
+    <word>
+      <eng>tremendous</eng>
+      <meaning>굉장한,무시무시한</meaning>
+    </word>
+    <word>
+      <eng>application</eng>
+      <meaning>적용,신청</meaning>
+    </word>
+    <word>
+      <eng>apply</eng>
+      <meaning>적용하다,신청하다</meaning>
+    </word>
+    <word>
+      <eng>applicant</eng>
+      <meaning>지원자</meaning>
+    </word>
+    <word>
+      <eng>vote</eng>
+      <meaning>투표,투표하다</meaning>
+    </word>
+    <word>
+      <eng>vote for</eng>
+      <meaning>~에 대해 찬성 투표를 하다</meaning>
+    </word>
+    <word>
+      <eng>candidate</eng>
+      <meaning>후보자</meaning>
+    </word>
+    <word>
+      <eng>the elected</eng>
+      <meaning>당선자</meaning>
+    </word>
+    <word>
+      <eng>run for</eng>
+      <meaning>~에 출마하다</meaning>
+    </word>
+    <word>
+      <eng>poll</eng>
+      <meaning>투표,여론조사</meaning>
+    </word>
+    <word>
+      <eng>railroad</eng>
+      <meaning>철도,선로</meaning>
+    </word>
+    <word>
+      <eng>cooperate</eng>
+      <meaning>협력하다</meaning>
+    </word>
+    <word>
+      <eng>conflict</eng>
+      <meaning>충돌하다</meaning>
+    </word>
+    <word>
+      <eng>cooperation</eng>
+      <meaning>협력</meaning>
+    </word>
+    <word>
+      <eng>corporation</eng>
+      <meaning>회사,법인</meaning>
+    </word>
+    <word>
+      <eng>emit</eng>
+      <meaning>방출하다</meaning>
+    </word>
+    <word>
+      <eng>give out</eng>
+      <meaning>방출하다</meaning>
+    </word>
+    <word>
+      <eng>emission</eng>
+      <meaning>방출</meaning>
+    </word>
+    <word>
+      <eng>request</eng>
+      <meaning>요청,요청하다</meaning>
+    </word>
+    <word>
+      <eng>ask for</eng>
+      <meaning>요청,요청하다</meaning>
+    </word>
+    <word>
+      <eng>require</eng>
+      <meaning>요청,요청하다</meaning>
+    </word>
+    <word>
+      <eng>requisite</eng>
+      <meaning>필요한,필수품</meaning>
+    </word>
+    <word>
+      <eng>requisition</eng>
+      <meaning>요구,명령서</meaning>
+    </word>
+    <word>
+      <eng>guarantee</eng>
+      <meaning>보증하다,보증</meaning>
+    </word>
+    <word>
+      <eng>warrant</eng>
+      <meaning>보증하다,보증</meaning>
+    </word>
+    <word>
+      <eng>resist</eng>
+      <meaning>저항하다</meaning>
+    </word>
+    <word>
+      <eng>water resistance</eng>
+      <meaning>방수</meaning>
+    </word>
+    <word>
+      <eng>resistance</eng>
+      <meaning>저항</meaning>
+    </word>
+    <word>
+      <eng>resistant</eng>
+      <meaning>저항하는 사람,저항자</meaning>
+    </word>
+    <word>
+      <eng>grant</eng>
+      <meaning>승이하다,수여하다</meaning>
+    </word>
+    <word>
+      <eng>take ~ for granted</eng>
+      <meaning>~을 당연한 일로 생각하다</meaning>
+    </word>
+    <word>
+      <eng>permanent</eng>
+      <meaning>영원한,영구적인</meaning>
+    </word>
+    <word>
+      <eng>eternal</eng>
+      <meaning>영원한,영구적인</meaning>
+    </word>
+    <word>
+      <eng>everlasting</eng>
+      <meaning>영원한,영구적인</meaning>
+    </word>
+    <word>
+      <eng>immortal</eng>
+      <meaning>영원한,영구적인</meaning>
+    </word>
+    <word>
+      <eng>emergency</eng>
+      <meaning>비상 사태</meaning>
+    </word>
+    <word>
+      <eng>emergency room</eng>
+      <meaning>응급실</meaning>
+    </word>
+    <word>
+      <eng>rid</eng>
+      <meaning>제거하다</meaning>
+    </word>
+    <word>
+      <eng>get rid of</eng>
+      <meaning>~을 제거하다</meaning>
+    </word>
+    <word>
+      <eng>impact</eng>
+      <meaning>충격,영향,충격을 주다,영향을 주다</meaning>
+    </word>
+    <word>
+      <eng>have an impact on</eng>
+      <meaning>~에 영향을 주다</meaning>
+    </word>
+    <word>
+      <eng>theme</eng>
+      <meaning>주제,화제,논제</meaning>
+    </word>
+    <word>
+      <eng>rely</eng>
+      <meaning>의지하다</meaning>
+    </word>
+    <word>
+      <eng>rely on</eng>
+      <meaning>~에 의지하다</meaning>
+    </word>
+  </day>
+  <day name="10">
+    <word>
+      <eng>hesitate</eng>
+      <meaning>조저하다,망설이다</meaning>
+    </word>
+    <word>
+      <eng>hesitate to</eng>
+      <meaning>~하기를 주저하다</meaning>
+    </word>
+    <word>
+      <eng>without hesitation</eng>
+      <meaning>망설임 없이</meaning>
+    </word>
+    <word>
+      <eng>right away</eng>
+      <meaning>망설임 없이</meaning>
+    </word>
+    <word>
+      <eng>organism</eng>
+      <meaning>유기체,생물,생명체</meaning>
+    </word>
+    <word>
+      <eng>creature</eng>
+      <meaning>유기체,생물,생명체</meaning>
+    </word>
+    <word>
+      <eng>resolve</eng>
+      <meaning>결심하다,결심시키다,분해하다,해결하다</meaning>
+    </word>
+    <word>
+      <eng>decide</eng>
+      <meaning>결심하다,결심시키다</meaning>
+    </word>
+    <word>
+      <eng>determine</eng>
+      <meaning>결심하다,결심시키다</meaning>
+    </word>
+    <word>
+      <eng>New Year resolution</eng>
+      <meaning>새해의 각오(결심)</meaning>
+    </word>
+    <word>
+      <eng>resolution</eng>
+      <meaning>결의,해결</meaning>
+    </word>
+    <word>
+      <eng>curve</eng>
+      <meaning>곡선,곡선길,속임수,사기</meaning>
+    </word>
+    <word>
+      <eng>throw a curve</eng>
+      <meaning>속이다,의표를 찌르다</meaning>
+    </word>
+    <word>
+      <eng>suitable</eng>
+      <meaning>적절한,적합한</meaning>
+    </word>
+    <word>
+      <eng>fit</eng>
+      <meaning>적절한,적합한</meaning>
+    </word>
+    <word>
+      <eng>appropriate</eng>
+      <meaning>적절한,적합한</meaning>
+    </word>
+    <word>
+      <eng>suit</eng>
+      <meaning>한 벌</meaning>
+    </word>
+    <word>
+      <eng>distribute</eng>
+      <meaning>분배하다</meaning>
+    </word>
+    <word>
+      <eng>distribute A into B</eng>
+      <meaning>A를 B로 분류하다</meaning>
+    </word>
+    <word>
+      <eng>distribution</eng>
+      <meaning>분배하다</meaning>
+    </word>
+    <word>
+      <eng>restirct</eng>
+      <meaning>제한하다,한정하다</meaning>
+    </word>
+    <word>
+      <eng>restriction</eng>
+      <meaning>제한,한정</meaning>
+    </word>
+    <word>
+      <eng>rainforest</eng>
+      <meaning>(열대)우림</meaning>
+    </word>
+    <word>
+      <eng>circumstance</eng>
+      <meaning>상황,환경</meaning>
+    </word>
+    <word>
+      <eng>situation</eng>
+      <meaning>상황,환경</meaning>
+    </word>
+    <word>
+      <eng>condition</eng>
+      <meaning>상황,환경</meaning>
+    </word>
+    <word>
+      <eng>environment</eng>
+      <meaning>상황,환경</meaning>
+    </word>
+    <word>
+      <eng>interpret</eng>
+      <meaning>통역하다</meaning>
+    </word>
+    <word>
+      <eng>translate</eng>
+      <meaning>통역하다</meaning>
+    </word>
+    <word>
+      <eng>interpreter</eng>
+      <meaning>통역가</meaning>
+    </word>
+    <word>
+      <eng>interpretation</eng>
+      <meaning>통역</meaning>
+    </word>
+    <word>
+      <eng>recite</eng>
+      <meaning>암송하다</meaning>
+    </word>
+    <word>
+      <eng>recital</eng>
+      <meaning>연주회,낭송</meaning>
+    </word>
+    <word>
+      <eng>annoy</eng>
+      <meaning>괴롭히다,귀찮게 하다</meaning>
+    </word>
+    <word>
+      <eng>bother</eng>
+      <meaning>괴롭히다,귀찮게 하다</meaning>
+    </word>
+    <word>
+      <eng>harass</eng>
+      <meaning>괴롭히다,귀찮게 하다</meaning>
+    </word>
+    <word>
+      <eng>disturb</eng>
+      <meaning>괴롭히다,귀찮게 하다</meaning>
+    </word>
+    <word>
+      <eng>irritate</eng>
+      <meaning>괴롭히다,귀찮게 하다</meaning>
+    </word>
+    <word>
+      <eng>annoyance</eng>
+      <meaning>성가심,불쾌함</meaning>
+    </word>
+    <word>
+      <eng>right away</eng>
+      <meaning>공포,경악</meaning>
+    </word>
+    <word>
+      <eng>take fright at</eng>
+      <meaning>~에 겁을 먹나,기겁하다</meaning>
+    </word>
+    <word>
+      <eng>frighten</eng>
+      <meaning>섬뜩하게 하다</meaning>
+    </word>
+    <word>
+      <eng>frightened</eng>
+      <meaning>깜짝 놀란</meaning>
+    </word>
+    <word>
+      <eng>lengthen</eng>
+      <meaning>길게 하다</meaning>
+    </word>
+    <word>
+      <eng>enlarge</eng>
+      <meaning>크게 하다</meaning>
+    </word>
+    <word>
+      <eng>estimate</eng>
+      <meaning>평가하다,견적,평가</meaning>
+    </word>
+    <word>
+      <eng>evaluate</eng>
+      <meaning>평가하다,견적,평가</meaning>
+    </word>
+    <word>
+      <eng>at a rough estimate</eng>
+      <meaning>대충 어립잡아</meaning>
+    </word>
+    <word>
+      <eng>cabin</eng>
+      <meaning>(통나무)오두막집,객실,선실</meaning>
+    </word>
+    <word>
+      <eng>adventure</eng>
+      <meaning>모험,위험에 빠뜨리다</meaning>
+    </word>
+    <word>
+      <eng>entrance</eng>
+      <meaning>입장,입구,입학</meaning>
+    </word>
+    <word>
+      <eng>exit</eng>
+      <meaning>출구</meaning>
+    </word>
+    <word>
+      <eng>enter</eng>
+      <meaning>들어가다</meaning>
+    </word>
+    <word>
+      <eng>persuade</eng>
+      <meaning>설득하다</meaning>
+    </word>
+    <word>
+      <eng>dissuade</eng>
+      <meaning>단념시키다</meaning>
+    </word>
+    <word>
+      <eng>persuasive</eng>
+      <meaning>설득력 있는</meaning>
+    </word>
+    <word>
+      <eng>persuasion</eng>
+      <meaning>설득</meaning>
+    </word>
+    <word>
+      <eng>gear</eng>
+      <meaning>장비,기어,맞게 하다,조정하다</meaning>
+    </word>
+    <word>
+      <eng>gear up for</eng>
+      <meaning>~에 준비를 갖추다</meaning>
+    </word>
+    <word>
+      <eng>ray</eng>
+      <meaning>광선</meaning>
+    </word>
+    <word>
+      <eng>beam</eng>
+      <meaning>광선</meaning>
+    </word>
+    <word>
+      <eng>get some rays</eng>
+      <meaning>햇볕을 쬐다,일광욕하다</meaning>
+    </word>
+    <word>
+      <eng>release</eng>
+      <meaning>놓아주다,석방,발표,발표하다</meaning>
+    </word>
+    <word>
+      <eng>release A from</eng>
+      <meaning>~에서 석방하다</meaning>
+    </word>
+    <word>
+      <eng>slave</eng>
+      <meaning>노예</meaning>
+    </word>
+    <word>
+      <eng>slavery</eng>
+      <meaning>노예 제도</meaning>
+    </word>
+    <word>
+      <eng>perceive</eng>
+      <meaning>인지하다,인식하다</meaning>
+    </word>
+    <word>
+      <eng>perception</eng>
+      <meaning>지각,인식</meaning>
+    </word>
+    <word>
+      <eng>rank</eng>
+      <meaning>등급,등급을 매기다</meaning>
+    </word>
+    <word>
+      <eng>ranking</eng>
+      <meaning>순위,일류의</meaning>
+    </word>
+    <word>
+      <eng>nowadays</eng>
+      <meaning>요즈음에</meaning>
+    </word>
+    <word>
+      <eng>symphony</eng>
+      <meaning>교향곡,조화음</meaning>
+    </word>
+    <word>
+      <eng>symponic</eng>
+      <meaning>교향악의,조화를 이루는</meaning>
+    </word>
+    <word>
+      <eng>envy</eng>
+      <meaning>부러워하다,부러움</meaning>
+    </word>
+    <word>
+      <eng>in evy of</eng>
+      <meaning>~을 부러워하여</meaning>
+    </word>
+    <word>
+      <eng>green with envy</eng>
+      <meaning>부러움으로 가득해서 속상한</meaning>
+    </word>
+    <word>
+      <eng>corporate</eng>
+      <meaning>회사의,법인의</meaning>
+    </word>
+    <word>
+      <eng>corporation</eng>
+      <meaning>주식회사,법인</meaning>
+    </word>
+    <word>
+      <eng>autograph</eng>
+      <meaning>서명,서명하다</meaning>
+    </word>
+    <word>
+      <eng>retire</eng>
+      <meaning>은퇴하다</meaning>
+    </word>
+    <word>
+      <eng>retire into oneself</eng>
+      <meaning>혼자 생각에 잠기다</meaning>
+    </word>
+    <word>
+      <eng>retirement</eng>
+      <meaning>은퇴하다</meaning>
+    </word>
+    <word>
+      <eng>appeal</eng>
+      <meaning>간청하다,호소하다,항의,항의하다</meaning>
+    </word>
+    <word>
+      <eng>identical</eng>
+      <meaning>동일한,일란성의</meaning>
+    </word>
+    <word>
+      <eng>innocence</eng>
+      <meaning>순결,청정,결백,무죄</meaning>
+    </word>
+    <word>
+      <eng>guilt</eng>
+      <meaning>유죄</meaning>
+    </word>
+    <word>
+      <eng>innocent</eng>
+      <meaning>순결한,죄없는</meaning>
+    </word>
+    <word>
+      <eng>investment</eng>
+      <meaning>투자</meaning>
+    </word>
+    <word>
+      <eng>authority</eng>
+      <meaning>권위,당국</meaning>
+    </word>
+    <word>
+      <eng>authorities concerned</eng>
+      <meaning>관계 당국</meaning>
+    </word>
+    <word>
+      <eng>atuthorize</eng>
+      <meaning>위임하다,인가하다</meaning>
+    </word>
+    <word>
+      <eng>alternative</eng>
+      <meaning>대안,대안의</meaning>
+    </word>
+    <word>
+      <eng>infant</eng>
+      <meaning>유아,유아의,미발달의</meaning>
+    </word>
+    <word>
+      <eng>infancy</eng>
+      <meaning>어릴 때,유년기</meaning>
+    </word>
+    <word>
+      <eng>calculate</eng>
+      <meaning>계산하다</meaning>
+    </word>
+    <word>
+      <eng>calculation</eng>
+      <meaning>계산하다</meaning>
+    </word>
+    <word>
+      <eng>calculator</eng>
+      <meaning>계산기</meaning>
+    </word>
+    <word>
+      <eng>charity</eng>
+      <meaning>자비,자선단체,구호 물자</meaning>
+    </word>
+  </day>
+  <day name="11">
+    <word>
+      <eng>guilt</eng>
+      <meaning>유죄</meaning>
+    </word>
+    <word>
+      <eng>to be foguilty</eng>
+      <meaning>유죄의,가책을 느끼는</meaning>
+    </word>
+    <word>
+      <eng>whereas</eng>
+      <meaning>~인 반면에</meaning>
+    </word>
+    <word>
+      <eng>broad</eng>
+      <meaning>넓은,광범위한</meaning>
+    </word>
+    <word>
+      <eng>wide</eng>
+      <meaning>넓은,광범위한</meaning>
+    </word>
+    <word>
+      <eng>narrow</eng>
+      <meaning>좁은</meaning>
+    </word>
+    <word>
+      <eng>ignorant</eng>
+      <meaning>무식한,모르는</meaning>
+    </word>
+    <word>
+      <eng>unaware</eng>
+      <meaning>무식한,모르는</meaning>
+    </word>
+    <word>
+      <eng>ignore</eng>
+      <meaning>무시하다</meaning>
+    </word>
+    <word>
+      <eng>ignorance</eng>
+      <meaning>무지,무식</meaning>
+    </word>
+    <word>
+      <eng>mummy</eng>
+      <meaning>미라</meaning>
+    </word>
+    <word>
+      <eng>mummify</eng>
+      <meaning>미라로 만들다</meaning>
+    </word>
+    <word>
+      <eng>pure</eng>
+      <meaning>순수한</meaning>
+    </word>
+    <word>
+      <eng>pure gold</eng>
+      <meaning>순금</meaning>
+    </word>
+    <word>
+      <eng>purify</eng>
+      <meaning>정화하다</meaning>
+    </word>
+    <word>
+      <eng>purity</eng>
+      <meaning>맑음,순수</meaning>
+    </word>
+    <word>
+      <eng>extinct</eng>
+      <meaning>멸종된,꺼진</meaning>
+    </word>
+    <word>
+      <eng>extinction</eng>
+      <meaning>멸종된,꺼진</meaning>
+    </word>
+    <word>
+      <eng>extinctive</eng>
+      <meaning>소멸적인</meaning>
+    </word>
+    <word>
+      <eng>household</eng>
+      <meaning>가조그가정,가족의,가정의</meaning>
+    </word>
+    <word>
+      <eng>chapter</eng>
+      <meaning>(책,논문의)장</meaning>
+    </word>
+    <word>
+      <eng>refund</eng>
+      <meaning>반환,환불,환불하다</meaning>
+    </word>
+    <word>
+      <eng>institute</eng>
+      <meaning>연구소,협회,설립하다,제정하다</meaning>
+    </word>
+    <word>
+      <eng>institution</eng>
+      <meaning>협회,시설,제도,설립</meaning>
+    </word>
+    <word>
+      <eng>lately</eng>
+      <meaning>최근에</meaning>
+    </word>
+    <word>
+      <eng>late</eng>
+      <meaning>늦은,늦게</meaning>
+    </word>
+    <word>
+      <eng>luxury</eng>
+      <meaning>사치,사치품,쾌락</meaning>
+    </word>
+    <word>
+      <eng>extravagance</eng>
+      <meaning>사치,사치품</meaning>
+    </word>
+    <word>
+      <eng>necessity</eng>
+      <meaning>필수품</meaning>
+    </word>
+    <word>
+      <eng>ashamed</eng>
+      <meaning>부끄러워하는</meaning>
+    </word>
+    <word>
+      <eng>proud</eng>
+      <meaning>자랑으로 여기는</meaning>
+    </word>
+    <word>
+      <eng>dense</eng>
+      <meaning>조밀한,밀집한</meaning>
+    </word>
+    <word>
+      <eng>density</eng>
+      <meaning>밀도</meaning>
+    </word>
+    <word>
+      <eng>rescue</eng>
+      <meaning>구조,구조하다,구조의</meaning>
+    </word>
+    <word>
+      <eng>mount</eng>
+      <meaning>산,(산,계단 등을)오르다,올라타다</meaning>
+    </word>
+    <word>
+      <eng>destination</eng>
+      <meaning>목적지</meaning>
+    </word>
+    <word>
+      <eng>expand</eng>
+      <meaning>확장하다</meaning>
+    </word>
+    <word>
+      <eng>expansion</eng>
+      <meaning>확장,팽창</meaning>
+    </word>
+    <word>
+      <eng>expanse</eng>
+      <meaning>넓은 공간,팽창</meaning>
+    </word>
+    <word>
+      <eng>evolution</eng>
+      <meaning>진화</meaning>
+    </word>
+    <word>
+      <eng>revolution</eng>
+      <meaning>대변혁</meaning>
+    </word>
+    <word>
+      <eng>devolution</eng>
+      <meaning>퇴화</meaning>
+    </word>
+    <word>
+      <eng>evolutionary</eng>
+      <meaning>진화적인</meaning>
+    </word>
+    <word>
+      <eng>evolve</eng>
+      <meaning>진화시키다,진화하다</meaning>
+    </word>
+    <word>
+      <eng>isolate</eng>
+      <meaning>고립시키다</meaning>
+    </word>
+    <word>
+      <eng>isolation</eng>
+      <meaning>고립,격리</meaning>
+    </word>
+    <word>
+      <eng>gravity</eng>
+      <meaning>중력</meaning>
+    </word>
+    <word>
+      <eng>gravitation</eng>
+      <meaning>중력</meaning>
+    </word>
+    <word>
+      <eng>grave</eng>
+      <meaning>중요한,심각한</meaning>
+    </word>
+    <word>
+      <eng>gravitate</eng>
+      <meaning>중력에 끌리다,자연히 끌리다</meaning>
+    </word>
+    <word>
+      <eng>genuine</eng>
+      <meaning>진짜의,성실한</meaning>
+    </word>
+    <word>
+      <eng>sincere</eng>
+      <meaning>진짜의</meaning>
+    </word>
+    <word>
+      <eng>real</eng>
+      <meaning>진짜의</meaning>
+    </word>
+    <word>
+      <eng>genuinely</eng>
+      <meaning>진정으로</meaning>
+    </word>
+    <word>
+      <eng>status</eng>
+      <meaning>상태,지위,현상</meaning>
+    </word>
+    <word>
+      <eng>statue</eng>
+      <meaning>동상</meaning>
+    </word>
+    <word>
+      <eng>state</eng>
+      <meaning>상태,국가,진술하다</meaning>
+    </word>
+    <word>
+      <eng>statement</eng>
+      <meaning>연설,진술</meaning>
+    </word>
+    <word>
+      <eng>compete</eng>
+      <meaning>경쟁하다</meaning>
+    </word>
+    <word>
+      <eng>competition</eng>
+      <meaning>경쟁하다</meaning>
+    </word>
+    <word>
+      <eng>competitive</eng>
+      <meaning>경쟁적인,경쟁의</meaning>
+    </word>
+    <word>
+      <eng>competence</eng>
+      <meaning>경쟁력,능력</meaning>
+    </word>
+    <word>
+      <eng>competent</eng>
+      <meaning>경쟁력 있는,유능한</meaning>
+    </word>
+    <word>
+      <eng>military</eng>
+      <meaning>군대,군대의</meaning>
+    </word>
+    <word>
+      <eng>serve in the military</eng>
+      <meaning>복무하다</meaning>
+    </word>
+    <word>
+      <eng>logic</eng>
+      <meaning>논리,논리학</meaning>
+    </word>
+    <word>
+      <eng>logical</eng>
+      <meaning>논리적인</meaning>
+    </word>
+    <word>
+      <eng>commit</eng>
+      <meaning>(죄를)저지르다,약속하다,맡기다</meaning>
+    </word>
+    <word>
+      <eng>commitment</eng>
+      <meaning>위탁,언질,범행</meaning>
+    </word>
+    <word>
+      <eng>sensible</eng>
+      <meaning>분별 있는,현명한</meaning>
+    </word>
+    <word>
+      <eng>sensitive</eng>
+      <meaning>민감한</meaning>
+    </word>
+    <word>
+      <eng>sum</eng>
+      <meaning>총합,합계</meaning>
+    </word>
+    <word>
+      <eng>total amount</eng>
+      <meaning>총합,합계</meaning>
+    </word>
+    <word>
+      <eng>summarize</eng>
+      <meaning>요약하다</meaning>
+    </word>
+    <word>
+      <eng>conserve</eng>
+      <meaning>보존하다</meaning>
+    </word>
+    <word>
+      <eng>preserve</eng>
+      <meaning>보존하다</meaning>
+    </word>
+    <word>
+      <eng>swing</eng>
+      <meaning>흔들리다,진동하다,그네</meaning>
+    </word>
+    <word>
+      <eng>reproduce</eng>
+      <meaning>재생하다,복제하다</meaning>
+    </word>
+    <word>
+      <eng>reproduce oneself</eng>
+      <meaning>번식하다</meaning>
+    </word>
+    <word>
+      <eng>reproductive organ</eng>
+      <meaning>생식기</meaning>
+    </word>
+    <word>
+      <eng>tone</eng>
+      <meaning>어조,말투,음,색조</meaning>
+    </word>
+    <word>
+      <eng>concept</eng>
+      <meaning>개념</meaning>
+    </word>
+    <word>
+      <eng>conceive</eng>
+      <meaning>~라고 생각하다,임신하다</meaning>
+    </word>
+    <word>
+      <eng>invitation</eng>
+      <meaning>초대,초대장</meaning>
+    </word>
+    <word>
+      <eng>invite</eng>
+      <meaning>초대하다</meaning>
+    </word>
+    <word>
+      <eng>precise</eng>
+      <meaning>정확한</meaning>
+    </word>
+    <word>
+      <eng>to be precise</eng>
+      <meaning>정확히 말하면</meaning>
+    </word>
+    <word>
+      <eng>formal</eng>
+      <meaning>공식적인</meaning>
+    </word>
+    <word>
+      <eng>informal</eng>
+      <meaning>형식을 따지지 않는,비공식의</meaning>
+    </word>
+    <word>
+      <eng>particle</eng>
+      <meaning>입자,미량,극소량</meaning>
+    </word>
+    <word>
+      <eng>cancel</eng>
+      <meaning>취소하다</meaning>
+    </word>
+    <word>
+      <eng>call off</eng>
+      <meaning>취소하다</meaning>
+    </word>
+    <word>
+      <eng>delete</eng>
+      <meaning>취소하다</meaning>
+    </word>
+    <word>
+      <eng>revoke</eng>
+      <meaning>취소하다</meaning>
+    </word>
+  </day>
+  <day name="12">
+    <word>
+      <eng>deoarture</eng>
+      <meaning>출발</meaning>
+    </word>
+    <word>
+      <eng>arrival</eng>
+      <meaning>도착</meaning>
+    </word>
+    <word>
+      <eng>depart</eng>
+      <meaning>출발하다</meaning>
+    </word>
+    <word>
+      <eng>arrive</eng>
+      <meaning>도착하다</meaning>
+    </word>
+    <word>
+      <eng>apparent</eng>
+      <meaning>분명한,명백한</meaning>
+    </word>
+    <word>
+      <eng>obvious</eng>
+      <meaning>분명한,명백한</meaning>
+    </word>
+    <word>
+      <eng>visual</eng>
+      <meaning>시각의</meaning>
+    </word>
+    <word>
+      <eng>near-sighted</eng>
+      <meaning>근시의</meaning>
+    </word>
+    <word>
+      <eng>far-sighted</eng>
+      <meaning>원시의</meaning>
+    </word>
+    <word>
+      <eng>vision</eng>
+      <meaning>시력</meaning>
+    </word>
+    <word>
+      <eng>argiculture</eng>
+      <meaning>농업</meaning>
+    </word>
+    <word>
+      <eng>farming</eng>
+      <meaning>농업</meaning>
+    </word>
+    <word>
+      <eng>rite</eng>
+      <meaning>(종교적)의식,의례</meaning>
+    </word>
+    <word>
+      <eng>ritual</eng>
+      <meaning>(종교적)의식,의례</meaning>
+    </word>
+    <word>
+      <eng>poverty</eng>
+      <meaning>빈곤,가난</meaning>
+    </word>
+    <word>
+      <eng>pennilessness</eng>
+      <meaning>빈곤,가난</meaning>
+    </word>
+    <word>
+      <eng>wealth</eng>
+      <meaning>부</meaning>
+    </word>
+    <word>
+      <eng>abundance</eng>
+      <meaning>풍부함</meaning>
+    </word>
+    <word>
+      <eng>poor</eng>
+      <meaning>가난한</meaning>
+    </word>
+    <word>
+      <eng>impoverish</eng>
+      <meaning>빈곤하게 만들다</meaning>
+    </word>
+    <word>
+      <eng>sculpture</eng>
+      <meaning>조각하다,조각</meaning>
+    </word>
+    <word>
+      <eng>carve</eng>
+      <meaning>조각하다,조각</meaning>
+    </word>
+    <word>
+      <eng>sculptor</eng>
+      <meaning>조각가</meaning>
+    </word>
+    <word>
+      <eng>descend</eng>
+      <meaning>내려오다,물려주다</meaning>
+    </word>
+    <word>
+      <eng>ascend</eng>
+      <meaning>오르다</meaning>
+    </word>
+    <word>
+      <eng>be descended from</eng>
+      <meaning>~의 자손이다,(언어 등이)~에서 유래하다</meaning>
+    </word>
+    <word>
+      <eng>descendant</eng>
+      <meaning>자손</meaning>
+    </word>
+    <word>
+      <eng>decline</eng>
+      <meaning>감소하다</meaning>
+    </word>
+    <word>
+      <eng>leak</eng>
+      <meaning>새는 구멍,새다,누설하다</meaning>
+    </word>
+    <word>
+      <eng>spill</eng>
+      <meaning>새는 구멍,새다,누설하다</meaning>
+    </word>
+    <word>
+      <eng>leak out to</eng>
+      <meaning>~에 누설되다</meaning>
+    </word>
+    <word>
+      <eng>leaky</eng>
+      <meaning>새는 구멍,새다,누설하다</meaning>
+    </word>
+    <word>
+      <eng>portion</eng>
+      <meaning>일부,부분,분할하다</meaning>
+    </word>
+    <word>
+      <eng>companion</eng>
+      <meaning>동료,동반자</meaning>
+    </word>
+    <word>
+      <eng>company</eng>
+      <meaning>회사,친구,일행</meaning>
+    </word>
+    <word>
+      <eng>colleague</eng>
+      <meaning>(주로 관직,교수,직업상의)동료</meaning>
+    </word>
+    <word>
+      <eng>coworker</eng>
+      <meaning>함께 일하는 사람,동료</meaning>
+    </word>
+    <word>
+      <eng>diligent</eng>
+      <meaning>근면한</meaning>
+    </word>
+    <word>
+      <eng>diligence</eng>
+      <meaning>근면함</meaning>
+    </word>
+    <word>
+      <eng>distince</eng>
+      <meaning>별개의,뚜렷한</meaning>
+    </word>
+    <word>
+      <eng>distinguish</eng>
+      <meaning>구별하다</meaning>
+    </word>
+    <word>
+      <eng>distinction</eng>
+      <meaning>구별,특징</meaning>
+    </word>
+    <word>
+      <eng>component</eng>
+      <meaning>구성 요소,구성하고 있는</meaning>
+    </word>
+    <word>
+      <eng>shave</eng>
+      <meaning>면도하다,면도</meaning>
+    </word>
+    <word>
+      <eng>universal</eng>
+      <meaning>보편적인,우주의</meaning>
+    </word>
+    <word>
+      <eng>the universal creator</eng>
+      <meaning>조물주</meaning>
+    </word>
+    <word>
+      <eng>universe</eng>
+      <meaning>우주</meaning>
+    </word>
+    <word>
+      <eng>trap</eng>
+      <meaning>함정,덫을 놓다,막다</meaning>
+    </word>
+    <word>
+      <eng>eager</eng>
+      <meaning>갈망하는</meaning>
+    </word>
+    <word>
+      <eng>be eager to</eng>
+      <meaning>간절히 ~하고 싶어하다</meaning>
+    </word>
+    <word>
+      <eng>legal</eng>
+      <meaning>법률의,합법의</meaning>
+    </word>
+    <word>
+      <eng>legitimate</eng>
+      <meaning>법률의,합법의</meaning>
+    </word>
+    <word>
+      <eng>lawful</eng>
+      <meaning>법률의,합법의</meaning>
+    </word>
+    <word>
+      <eng>illegal</eng>
+      <meaning>불법의</meaning>
+    </word>
+    <word>
+      <eng>legalize</eng>
+      <meaning>법적으로 공인하다</meaning>
+    </word>
+    <word>
+      <eng>legality</eng>
+      <meaning>적법,합법</meaning>
+    </word>
+    <word>
+      <eng>deomonstrate</eng>
+      <meaning>논증하다,설명하다,시위하다,보여주다</meaning>
+    </word>
+    <word>
+      <eng>demonstration</eng>
+      <meaning>논증,데모,실연</meaning>
+    </word>
+    <word>
+      <eng>democracy</eng>
+      <meaning>민주주의,민주주의 국가</meaning>
+    </word>
+    <word>
+      <eng>autocracy</eng>
+      <meaning>독재 정치</meaning>
+    </word>
+    <word>
+      <eng>democratize</eng>
+      <meaning>민주화하다</meaning>
+    </word>
+    <word>
+      <eng>mature</eng>
+      <meaning>성숙한,익은,성숙해지다,지불 만기의</meaning>
+    </word>
+    <word>
+      <eng>ripe</eng>
+      <meaning>성숙한,익은,성숙해지다</meaning>
+    </word>
+    <word>
+      <eng>immature</eng>
+      <meaning>미숙한</meaning>
+    </word>
+    <word>
+      <eng>premature</eng>
+      <meaning>조숙한</meaning>
+    </word>
+    <word>
+      <eng>brilliant</eng>
+      <meaning>찬란한,명석한</meaning>
+    </word>
+    <word>
+      <eng>annual</eng>
+      <meaning>연례의,1년의,1년간의</meaning>
+    </word>
+    <word>
+      <eng>biennial</eng>
+      <meaning>2년마다</meaning>
+    </word>
+    <word>
+      <eng>biannual</eng>
+      <meaning>1년에 2번</meaning>
+    </word>
+    <word>
+      <eng>triennial</eng>
+      <meaning>3년마다</meaning>
+    </word>
+    <word>
+      <eng>triannual</eng>
+      <meaning>1년에 3번</meaning>
+    </word>
+    <word>
+      <eng>centennial</eng>
+      <meaning>100주년의</meaning>
+    </word>
+    <word>
+      <eng>centurial</eng>
+      <meaning>1세기의</meaning>
+    </word>
+    <word>
+      <eng>faith</eng>
+      <meaning>신념,믿음</meaning>
+    </word>
+    <word>
+      <eng>faithful</eng>
+      <meaning>충실한</meaning>
+    </word>
+    <word>
+      <eng>spare</eng>
+      <meaning>여분의,검소한,용서하다,남겨주다</meaning>
+    </word>
+    <word>
+      <eng>extra</eng>
+      <meaning>여분의</meaning>
+    </word>
+    <word>
+      <eng>transfer</eng>
+      <meaning>이동하다,옮기다,갈아타다</meaning>
+    </word>
+    <word>
+      <eng>refrigerator</eng>
+      <meaning>냉장고</meaning>
+    </word>
+    <word>
+      <eng>oppose</eng>
+      <meaning>반대하다</meaning>
+    </word>
+    <word>
+      <eng>oppose A to B</eng>
+      <meaning>A를 B에 대비시키다</meaning>
+    </word>
+    <word>
+      <eng>opposite</eng>
+      <meaning>반대의</meaning>
+    </word>
+    <word>
+      <eng>desperate</eng>
+      <meaning>필사적인,절망적인</meaning>
+    </word>
+    <word>
+      <eng>despair</eng>
+      <meaning>절망하다,절망</meaning>
+    </word>
+    <word>
+      <eng>desperatley</eng>
+      <meaning>절망적으로,필사적으로</meaning>
+    </word>
+    <word>
+      <eng>remote</eng>
+      <meaning>멀리 떨어진,희박한,드문</meaning>
+    </word>
+    <word>
+      <eng>offend</eng>
+      <meaning>감정을 상하게 하다,(범죄를)저지르다</meaning>
+    </word>
+    <word>
+      <eng>offense</eng>
+      <meaning>공격,위반</meaning>
+    </word>
+    <word>
+      <eng>awake</eng>
+      <meaning>깨우다,깨어나다,깨어 있는</meaning>
+    </word>
+    <word>
+      <eng>asleep</eng>
+      <meaning>잠들어 있는</meaning>
+    </word>
+    <word>
+      <eng>spaceship</eng>
+      <meaning>우주선</meaning>
+    </word>
+    <word>
+      <eng>insight</eng>
+      <meaning>통찰,통찰력</meaning>
+    </word>
+    <word>
+      <eng>sight</eng>
+      <meaning>시야,시각</meaning>
+    </word>
+    <word>
+      <eng>trousers</eng>
+      <meaning>(남자용)바지</meaning>
+    </word>
+    <word>
+      <eng>pants</eng>
+      <meaning>(남자용)바지</meaning>
+    </word>
+    <word>
+      <eng>civil</eng>
+      <meaning>시민의</meaning>
+    </word>
+    <word>
+      <eng>vitizen</eng>
+      <meaning>시민의</meaning>
+    </word>
+    <word>
+      <eng>civilian</eng>
+      <meaning>민간인</meaning>
+    </word>
+    <word>
+      <eng>civilize</eng>
+      <meaning>문명화하다</meaning>
+    </word>
+    <word>
+      <eng>civilization</eng>
+      <meaning>문명화하다</meaning>
+    </word>
+    <word>
+      <eng>complicated</eng>
+      <meaning>복잡한</meaning>
+    </word>
+    <word>
+      <eng>complication</eng>
+      <meaning>합병증,복잡</meaning>
+    </word>
+    <word>
+      <eng>backpack</eng>
+      <meaning>배낭,배낭 여행하다</meaning>
+    </word>
+    <word>
+      <eng>tropics</eng>
+      <meaning>열대 지방</meaning>
+    </word>
+    <word>
+      <eng>tropics</eng>
+      <meaning>회귀선</meaning>
+    </word>
+    <word>
+      <eng>tropical</eng>
+      <meaning>열대의</meaning>
+    </word>
+    <word>
+      <eng>the subtropic</eng>
+      <meaning>아열대 지방</meaning>
+    </word>
+    <word>
+      <eng>the temperate zone</eng>
+      <meaning>온대 지방</meaning>
+    </word>
+    <word>
+      <eng>the frigid zone</eng>
+      <meaning>한대 지방</meaning>
+    </word>
+    <word>
+      <eng>account</eng>
+      <meaning>예금,계좌,설명,이야기,중요성,가치,고려,이유,근거,~라고 생각하다,설명하다</meaning>
+    </word>
+    <word>
+      <eng>air</eng>
+      <meaning>공기,하늘,모양,풍채,태도,떠벌리다,자랑하다,환기하다,방송하다</meaning>
+    </word>
+    <word>
+      <eng>apprehend</eng>
+      <meaning>~을 걱정하다,두려워하다,~을 체포하다,붙잡다,~을 이해하다,깨닫다</meaning>
+    </word>
+  </day>
+  <day name="13">
+    <word>
+      <eng>minor</eng>
+      <meaning>사소한,2류의,부전공하다,미성년자</meaning>
+    </word>
+    <word>
+      <eng>major</eng>
+      <meaning>주요한</meaning>
+    </word>
+    <word>
+      <eng>minor in</eng>
+      <meaning>~을 부전공하다</meaning>
+    </word>
+    <word>
+      <eng>minority</eng>
+      <meaning>소수,소수 민족</meaning>
+    </word>
+    <word>
+      <eng>majority</eng>
+      <meaning>대부분,과반수</meaning>
+    </word>
+    <word>
+      <eng>duty</eng>
+      <meaning>의무,관세</meaning>
+    </word>
+    <word>
+      <eng>duty free</eng>
+      <meaning>면세의, 면세품</meaning>
+    </word>
+    <word>
+      <eng>pause</eng>
+      <meaning>중단,중단하다,잠시 멈추다</meaning>
+    </word>
+    <word>
+      <eng>continue</eng>
+      <meaning>계속하다</meaning>
+    </word>
+    <word>
+      <eng>option</eng>
+      <meaning>선택,선택권</meaning>
+    </word>
+    <word>
+      <eng>optional</eng>
+      <meaning>임의의</meaning>
+    </word>
+    <word>
+      <eng>digest</eng>
+      <meaning>소화하다,요약하다</meaning>
+    </word>
+    <word>
+      <eng>digestion</eng>
+      <meaning>소화</meaning>
+    </word>
+    <word>
+      <eng>shortage</eng>
+      <meaning>부족,결함</meaning>
+    </word>
+    <word>
+      <eng>lack</eng>
+      <meaning>부족,결함</meaning>
+    </word>
+    <word>
+      <eng>abundance</eng>
+      <meaning>풍부함</meaning>
+    </word>
+    <word>
+      <eng>laboratory</eng>
+      <meaning>실험실,실험실의</meaning>
+    </word>
+    <word>
+      <eng>lab</eng>
+      <meaning>실험실,실험실의</meaning>
+    </word>
+    <word>
+      <eng>generous</eng>
+      <meaning>관대한,후한</meaning>
+    </word>
+    <word>
+      <eng>liberal</eng>
+      <meaning>관대한,후한</meaning>
+    </word>
+    <word>
+      <eng>laundry</eng>
+      <meaning>세탁물</meaning>
+    </word>
+    <word>
+      <eng>do the laundry</eng>
+      <meaning>세탁하다</meaning>
+    </word>
+    <word>
+      <eng>money laundry</eng>
+      <meaning>돈 세탁</meaning>
+    </word>
+    <word>
+      <eng>transform</eng>
+      <meaning>변형시키다,변환하다</meaning>
+    </word>
+    <word>
+      <eng>transformation</eng>
+      <meaning>변형,변환</meaning>
+    </word>
+    <word>
+      <eng>transport</eng>
+      <meaning>운송하다</meaning>
+    </word>
+    <word>
+      <eng>transfer</eng>
+      <meaning>갈아타다</meaning>
+    </word>
+    <word>
+      <eng>transparent</eng>
+      <meaning>투명한</meaning>
+    </word>
+    <word>
+      <eng>discipline</eng>
+      <meaning>훈련,훈련하다,기강,규율</meaning>
+    </word>
+    <word>
+      <eng>self discipline</eng>
+      <meaning>자기 수양,자제</meaning>
+    </word>
+    <word>
+      <eng>kindergarten</eng>
+      <meaning>유치원</meaning>
+    </word>
+    <word>
+      <eng>forbid</eng>
+      <meaning>금지하다</meaning>
+    </word>
+    <word>
+      <eng>ultimate</eng>
+      <meaning>궁극적인,최후의</meaning>
+    </word>
+    <word>
+      <eng>final</eng>
+      <meaning>궁극적인,최후의</meaning>
+    </word>
+    <word>
+      <eng>ultimately</eng>
+      <meaning>최후로,마침내</meaning>
+    </word>
+    <word>
+      <eng>thrive</eng>
+      <meaning>번영하다,발전하다</meaning>
+    </word>
+    <word>
+      <eng>prosper</eng>
+      <meaning>번영하다,발전하다</meaning>
+    </word>
+    <word>
+      <eng>floursh</eng>
+      <meaning>번영하다,발전하다</meaning>
+    </word>
+    <word>
+      <eng>thrift</eng>
+      <meaning>절약</meaning>
+    </word>
+    <word>
+      <eng>thrifty</eng>
+      <meaning>검약하는</meaning>
+    </word>
+    <word>
+      <eng>royal</eng>
+      <meaning>왕족의,왕의</meaning>
+    </word>
+    <word>
+      <eng>regal</eng>
+      <meaning>왕족의,왕의</meaning>
+    </word>
+    <word>
+      <eng>battle royal</eng>
+      <meaning>상대를 가리지 않는 큰 싸움</meaning>
+    </word>
+    <word>
+      <eng>loyal</eng>
+      <meaning>충성스러운,성실한</meaning>
+    </word>
+    <word>
+      <eng>royalty</eng>
+      <meaning>왕의,왕의 특권</meaning>
+    </word>
+    <word>
+      <eng>ruin</eng>
+      <meaning>파멸,파산,폐허로 만들다</meaning>
+    </word>
+    <word>
+      <eng>ruins</eng>
+      <meaning>유적,폐허</meaning>
+    </word>
+    <word>
+      <eng>manual</eng>
+      <meaning>수동의,손의,설명서</meaning>
+    </word>
+    <word>
+      <eng>automatic</eng>
+      <meaning>자동의</meaning>
+    </word>
+    <word>
+      <eng>manuscript</eng>
+      <meaning>원고</meaning>
+    </word>
+    <word>
+      <eng>manuufacture</eng>
+      <meaning>제조하다</meaning>
+    </word>
+    <word>
+      <eng>evil</eng>
+      <meaning>악,사악,사악한</meaning>
+    </word>
+    <word>
+      <eng>speak evil of</eng>
+      <meaning>~의 욕을 하다</meaning>
+    </word>
+    <word>
+      <eng>horror</eng>
+      <meaning>공포,전율,공포의</meaning>
+    </word>
+    <word>
+      <eng>horrible</eng>
+      <meaning>끔찍한</meaning>
+    </word>
+    <word>
+      <eng>worship</eng>
+      <meaning>예배,숭배,예배하다,숭배하다</meaning>
+    </word>
+    <word>
+      <eng>praise</eng>
+      <meaning>예배,숭배,예배하다,숭배하다</meaning>
+    </word>
+    <word>
+      <eng>revere</eng>
+      <meaning>예배,숭배,예배하다,숭배하다</meaning>
+    </word>
+    <word>
+      <eng>despise</eng>
+      <meaning>경멸하다</meaning>
+    </word>
+    <word>
+      <eng>afterward</eng>
+      <meaning>나중에,그 후에</meaning>
+    </word>
+    <word>
+      <eng>afterwards</eng>
+      <meaning>나중에,그 후에</meaning>
+    </word>
+    <word>
+      <eng>later</eng>
+      <meaning>나중에,그 후에</meaning>
+    </word>
+    <word>
+      <eng>client</eng>
+      <meaning>고객,(변호사 등의)의뢰인</meaning>
+    </word>
+    <word>
+      <eng>insure</eng>
+      <meaning>보험을 계약하다,안전하게 하다</meaning>
+    </word>
+    <word>
+      <eng>insurance</eng>
+      <meaning>보험</meaning>
+    </word>
+    <word>
+      <eng>ensure</eng>
+      <meaning>확실하게 하다</meaning>
+    </word>
+    <word>
+      <eng>scarce</eng>
+      <meaning>부족한,드문</meaning>
+    </word>
+    <word>
+      <eng>fancy</eng>
+      <meaning>공상,공상하다,좋아함,화려한</meaning>
+    </word>
+    <word>
+      <eng>have a fancy for</eng>
+      <meaning>~을 좋아하다</meaning>
+    </word>
+    <word>
+      <eng>surgery</eng>
+      <meaning>외과 수술</meaning>
+    </word>
+    <word>
+      <eng>surgeon</eng>
+      <meaning>외과 의사</meaning>
+    </word>
+    <word>
+      <eng>cosmetic surgeon</eng>
+      <meaning>성형외과 의사</meaning>
+    </word>
+    <word>
+      <eng>physician</eng>
+      <meaning>내과 의사</meaning>
+    </word>
+    <word>
+      <eng>assign</eng>
+      <meaning>할당하다,지정하다</meaning>
+    </word>
+    <word>
+      <eng>regulate</eng>
+      <meaning>규제하다,조절하다</meaning>
+    </word>
+    <word>
+      <eng>regulation</eng>
+      <meaning>규칙,규제</meaning>
+    </word>
+    <word>
+      <eng>shelf</eng>
+      <meaning>선반</meaning>
+    </word>
+    <word>
+      <eng>shelf life</eng>
+      <meaning>유통 기간</meaning>
+    </word>
+    <word>
+      <eng>shelve</eng>
+      <meaning>선반에 얹다</meaning>
+    </word>
+    <word>
+      <eng>highway</eng>
+      <meaning>고속도로,간선도로</meaning>
+    </word>
+    <word>
+      <eng>highway to success</eng>
+      <meaning>출세 가도</meaning>
+    </word>
+    <word>
+      <eng>utility</eng>
+      <meaning>효용,(수도,가스 등)공익 설비 시설</meaning>
+    </word>
+    <word>
+      <eng>yield</eng>
+      <meaning>생산하다,양보하다,굴복하다</meaning>
+    </word>
+    <word>
+      <eng>yield oneself to</eng>
+      <meaning>~에 몰두하다</meaning>
+    </word>
+    <word>
+      <eng>decline</eng>
+      <meaning>(정중히)거절하다,하락,쇠퇴,하락하다,쇠퇴하다</meaning>
+    </word>
+    <word>
+      <eng>decrease</eng>
+      <meaning>감소,감소하다</meaning>
+    </word>
+    <word>
+      <eng>in decline</eng>
+      <meaning>기울어,쇠퇴하여</meaning>
+    </word>
+    <word>
+      <eng>depress</eng>
+      <meaning>우울하게 하다</meaning>
+    </word>
+    <word>
+      <eng>aside</eng>
+      <meaning>옆에,제쳐두고</meaning>
+    </word>
+    <word>
+      <eng>tolerate</eng>
+      <meaning>참다,묵인하다,용인하다</meaning>
+    </word>
+    <word>
+      <eng>endure</eng>
+      <meaning>참다,묵인하다,용인하다</meaning>
+    </word>
+    <word>
+      <eng>bear</eng>
+      <meaning>참다,묵인하다,용인하다</meaning>
+    </word>
+    <word>
+      <eng>stand</eng>
+      <meaning>참다,묵인하다,용인하다</meaning>
+    </word>
+    <word>
+      <eng>tolerance</eng>
+      <meaning>관용,인내</meaning>
+    </word>
+    <word>
+      <eng>tolerant</eng>
+      <meaning>관대한,후한</meaning>
+    </word>
+    <word>
+      <eng>cottage</eng>
+      <meaning>오두막집</meaning>
+    </word>
+    <word>
+      <eng>cabin</eng>
+      <meaning>오두막집</meaning>
+    </word>
+    <word>
+      <eng>hut</eng>
+      <meaning>오두막집</meaning>
+    </word>
+    <word>
+      <eng>coincidence</eng>
+      <meaning>(우연의)일치,동시에 일어난 사건</meaning>
+    </word>
+    <word>
+      <eng>contemporary</eng>
+      <meaning>동시대의,현대의</meaning>
+    </word>
+    <word>
+      <eng>bless</eng>
+      <meaning>축복하다</meaning>
+    </word>
+    <word>
+      <eng>curse</eng>
+      <meaning>저주하다</meaning>
+    </word>
+    <word>
+      <eng>arm</eng>
+      <meaning>팔,병기,무기,~에게 무장시키다</meaning>
+    </word>
+    <word>
+      <eng>art</eng>
+      <meaning>예술,미술,기술,기교</meaning>
+    </word>
+    <word>
+      <eng>ball</eng>
+      <meaning>공,공 모양의 것,무도회</meaning>
+    </word>
+    <word>
+      <eng>bill</eng>
+      <meaning>청구서,계산서,지폐,광고,포스터,법률안,(새의)부리</meaning>
+    </word>
+    <word>
+      <eng>book</eng>
+      <meaning>책,회계장부,명부,예약하다,경찰 기록에 올리다</meaning>
+    </word>
+  </day>
+  <day name="14">
+    <word>
+      <eng>prey</eng>
+      <meaning>먹이</meaning>
+    </word>
+    <word>
+      <eng>prior</eng>
+      <meaning>이전의,우선하는</meaning>
+    </word>
+    <word>
+      <eng>prior to</eng>
+      <meaning>~에 앞서</meaning>
+    </word>
+    <word>
+      <eng>priority</eng>
+      <meaning>우선순위,상위</meaning>
+    </word>
+    <word>
+      <eng>necessity</eng>
+      <meaning>필수,필수품,필요</meaning>
+    </word>
+    <word>
+      <eng>luxury</eng>
+      <meaning>사치,사치품</meaning>
+    </word>
+    <word>
+      <eng>abstract</eng>
+      <meaning>추상,개요,추상적인</meaning>
+    </word>
+    <word>
+      <eng>concrete</eng>
+      <meaning>구체적인</meaning>
+    </word>
+    <word>
+      <eng>league</eng>
+      <meaning>연맹,동맹</meaning>
+    </word>
+    <word>
+      <eng>fuse</eng>
+      <meaning>융합하다,전기 퓨즈,도화선</meaning>
+    </word>
+    <word>
+      <eng>confirm</eng>
+      <meaning>확인하다,(결심을)굳게 하다</meaning>
+    </word>
+    <word>
+      <eng>verify</eng>
+      <meaning>확인하다,(결심을)굳게 하다</meaning>
+    </word>
+    <word>
+      <eng>confirm one`s reservation</eng>
+      <meaning>예약을 확인하다</meaning>
+    </word>
+    <word>
+      <eng>explain</eng>
+      <meaning>설명하다</meaning>
+    </word>
+    <word>
+      <eng>explanation</eng>
+      <meaning>설명하다</meaning>
+    </word>
+    <word>
+      <eng>explanatory</eng>
+      <meaning>설명적인</meaning>
+    </word>
+    <word>
+      <eng>imitate</eng>
+      <meaning>모방하다</meaning>
+    </word>
+    <word>
+      <eng>imiation</eng>
+      <meaning>모방,모조품</meaning>
+    </word>
+    <word>
+      <eng>mimic</eng>
+      <meaning>흉내내다</meaning>
+    </word>
+    <word>
+      <eng>defeat</eng>
+      <meaning>패배,패배시키다</meaning>
+    </word>
+    <word>
+      <eng>niece</eng>
+      <meaning>조카딸</meaning>
+    </word>
+    <word>
+      <eng>nephew</eng>
+      <meaning>(남자)조카</meaning>
+    </word>
+    <word>
+      <eng>uncle</eng>
+      <meaning>삼촌</meaning>
+    </word>
+    <word>
+      <eng>cousin</eng>
+      <meaning>사촌</meaning>
+    </word>
+    <word>
+      <eng>father-in-law</eng>
+      <meaning>시아버지,장인</meaning>
+    </word>
+    <word>
+      <eng>mother-in-law</eng>
+      <meaning>시어머니,장모</meaning>
+    </word>
+    <word>
+      <eng>illustrate</eng>
+      <meaning>설명하다,예증하다,~에 삽화를 넣다</meaning>
+    </word>
+    <word>
+      <eng>illustration</eng>
+      <meaning>삽화,예증</meaning>
+    </word>
+    <word>
+      <eng>pupil</eng>
+      <meaning>학생,눈동자,동공</meaning>
+    </word>
+    <word>
+      <eng>student</eng>
+      <meaning>학생</meaning>
+    </word>
+    <word>
+      <eng>teacher</eng>
+      <meaning>교사</meaning>
+    </word>
+    <word>
+      <eng>instructor</eng>
+      <meaning>교사</meaning>
+    </word>
+    <word>
+      <eng>intellect</eng>
+      <meaning>지성</meaning>
+    </word>
+    <word>
+      <eng>intelligence</eng>
+      <meaning>지성</meaning>
+    </word>
+    <word>
+      <eng>intellectual</eng>
+      <meaning>지적인,지식인</meaning>
+    </word>
+    <word>
+      <eng>intellective</eng>
+      <meaning>지성의</meaning>
+    </word>
+    <word>
+      <eng>spice</eng>
+      <meaning>향신료,양념</meaning>
+    </word>
+    <word>
+      <eng>spicy</eng>
+      <meaning>양념을 넣은,매운</meaning>
+    </word>
+    <word>
+      <eng>tempt</eng>
+      <meaning>유혹하다</meaning>
+    </word>
+    <word>
+      <eng>attract</eng>
+      <meaning>유혹하다</meaning>
+    </word>
+    <word>
+      <eng>temptation</eng>
+      <meaning>유혹</meaning>
+    </word>
+    <word>
+      <eng>inspire</eng>
+      <meaning>~에 영감을 주다,고무시키다,격려하다</meaning>
+    </word>
+    <word>
+      <eng>dine</eng>
+      <meaning>(만찬을)대접하다,식사하다</meaning>
+    </word>
+    <word>
+      <eng>dine in</eng>
+      <meaning>집에서 식사하다</meaning>
+    </word>
+    <word>
+      <eng>dine out</eng>
+      <meaning>밖에서 식사하다,외식하다</meaning>
+    </word>
+    <word>
+      <eng>literal</eng>
+      <meaning>글자 그대로의,문자의</meaning>
+    </word>
+    <word>
+      <eng>verbal</eng>
+      <meaning>구어의</meaning>
+    </word>
+    <word>
+      <eng>in the literal sense of the word</eng>
+      <meaning>그 단어의 뜻 그대로</meaning>
+    </word>
+    <word>
+      <eng>literally</eng>
+      <meaning>글자 뜻대로,완전히</meaning>
+    </word>
+    <word>
+      <eng>literature</eng>
+      <meaning>문학</meaning>
+    </word>
+    <word>
+      <eng>resort</eng>
+      <meaning>의지하다,자주 가다,유흥지</meaning>
+    </word>
+    <word>
+      <eng>depend on</eng>
+      <meaning>의지하다,자주 가다</meaning>
+    </word>
+    <word>
+      <eng>rely on</eng>
+      <meaning>의지하다,자주 가다</meaning>
+    </word>
+    <word>
+      <eng>resort to</eng>
+      <meaning>~에 호소하다</meaning>
+    </word>
+    <word>
+      <eng>as a last resort</eng>
+      <meaning>최후의 수단으로서</meaning>
+    </word>
+    <word>
+      <eng>in the last resort</eng>
+      <meaning>최후의 수단으로서</meaning>
+    </word>
+    <word>
+      <eng>grab</eng>
+      <meaning>움켜쥐다</meaning>
+    </word>
+    <word>
+      <eng>grip</eng>
+      <meaning>움켜쥐다</meaning>
+    </word>
+    <word>
+      <eng>grasp</eng>
+      <meaning>움켜쥐다</meaning>
+    </word>
+    <word>
+      <eng>alien</eng>
+      <meaning>외국인,외계인,외국의,이질적인</meaning>
+    </word>
+    <word>
+      <eng>illegal alien</eng>
+      <meaning>불법 체류자</meaning>
+    </word>
+    <word>
+      <eng>alcohol</eng>
+      <meaning>알코올,술</meaning>
+    </word>
+    <word>
+      <eng>alcoholic</eng>
+      <meaning>알코올 중독자</meaning>
+    </word>
+    <word>
+      <eng>workaholic</eng>
+      <meaning>일 중독자</meaning>
+    </word>
+    <word>
+      <eng>wreck</eng>
+      <meaning>난파,조난,난파선,난파시키다</meaning>
+    </word>
+    <word>
+      <eng>wreckage</eng>
+      <meaning>난파 잔해물</meaning>
+    </word>
+    <word>
+      <eng>triumph</eng>
+      <meaning>승리,승리하다</meaning>
+    </word>
+    <word>
+      <eng>triumphant</eng>
+      <meaning>승리를 얻은,의기양양한</meaning>
+    </word>
+    <word>
+      <eng>document</eng>
+      <meaning>문서,기록하다</meaning>
+    </word>
+    <word>
+      <eng>documentary</eng>
+      <meaning>문서의,사실을 기록한,다큐멘터리</meaning>
+    </word>
+    <word>
+      <eng>suspect</eng>
+      <meaning>~가 아닐까 의심하다,용의자</meaning>
+    </word>
+    <word>
+      <eng>be suspected of</eng>
+      <meaning>~의 혐의를 받다</meaning>
+    </word>
+    <word>
+      <eng>suspicious</eng>
+      <meaning>의심하는</meaning>
+    </word>
+    <word>
+      <eng>suspicion</eng>
+      <meaning>혐의</meaning>
+    </word>
+    <word>
+      <eng>propose</eng>
+      <meaning>제안하다,청혼하다</meaning>
+    </word>
+    <word>
+      <eng>proposal</eng>
+      <meaning>제안,청혼</meaning>
+    </word>
+    <word>
+      <eng>install</eng>
+      <meaning>설치하다</meaning>
+    </word>
+    <word>
+      <eng>installation</eng>
+      <meaning>설치,장치</meaning>
+    </word>
+    <word>
+      <eng>installment</eng>
+      <meaning>분할,할부 구입</meaning>
+    </word>
+    <word>
+      <eng>prohibit</eng>
+      <meaning>금지하다</meaning>
+    </word>
+    <word>
+      <eng>forbid</eng>
+      <meaning>금지하다</meaning>
+    </word>
+    <word>
+      <eng>ban</eng>
+      <meaning>금지하다</meaning>
+    </word>
+    <word>
+      <eng>prohibition</eng>
+      <meaning>금지하다</meaning>
+    </word>
+    <word>
+      <eng>appropriate</eng>
+      <meaning>적절한</meaning>
+    </word>
+    <word>
+      <eng>proper</eng>
+      <meaning>적절한</meaning>
+    </word>
+    <word>
+      <eng>suitable</eng>
+      <meaning>적절한</meaning>
+    </word>
+    <word>
+      <eng>scholarship</eng>
+      <meaning>학문,장학금</meaning>
+    </word>
+    <word>
+      <eng>execute</eng>
+      <meaning>실행하다,사형 집행하다</meaning>
+    </word>
+    <word>
+      <eng>trunk</eng>
+      <meaning>나무의 원줄기,몸통,남자용 수영복,여행용 큰 가방,코끼리 코</meaning>
+    </word>
+    <word>
+      <eng>stem</eng>
+      <meaning>나무의 원줄기</meaning>
+    </word>
+    <word>
+      <eng>receipt</eng>
+      <meaning>영수증</meaning>
+    </word>
+    <word>
+      <eng>receive</eng>
+      <meaning>받다</meaning>
+    </word>
+    <word>
+      <eng>reception</eng>
+      <meaning>응접,환영</meaning>
+    </word>
+    <word>
+      <eng>defect</eng>
+      <meaning>결점,탈당하다,망명하다</meaning>
+    </word>
+    <word>
+      <eng>deficiency</eng>
+      <meaning>결점</meaning>
+    </word>
+    <word>
+      <eng>merit</eng>
+      <meaning>이점</meaning>
+    </word>
+    <word>
+      <eng>in defect</eng>
+      <meaning>부족하여,모자라서</meaning>
+    </word>
+    <word>
+      <eng>commute</eng>
+      <meaning>통근,통근하다</meaning>
+    </word>
+    <word>
+      <eng>commuter</eng>
+      <meaning>통근자,통근의</meaning>
+    </word>
+    <word>
+      <eng>telecommute</eng>
+      <meaning>재택 근무하다</meaning>
+    </word>
+    <word>
+      <eng>trait</eng>
+      <meaning>특성,특징</meaning>
+    </word>
+    <word>
+      <eng>feature</eng>
+      <meaning>특성,특징</meaning>
+    </word>
+    <word>
+      <eng>split</eng>
+      <meaning>찢다,(세로로)쪼개다,쪼개진,분열</meaning>
+    </word>
+    <word>
+      <eng>modest</eng>
+      <meaning>겸손한,알맞은</meaning>
+    </word>
+    <word>
+      <eng>humble</eng>
+      <meaning>겸손한,알맞은</meaning>
+    </word>
+    <word>
+      <eng>moderate</eng>
+      <meaning>겸손한,알맞은</meaning>
+    </word>
+    <word>
+      <eng>modesty</eng>
+      <meaning>겸손,소박함</meaning>
+    </word>
+    <word>
+      <eng>cabinet</eng>
+      <meaning>장식장,진열장,내각</meaning>
+    </word>
+    <word>
+      <eng>calling</eng>
+      <meaning>호출,소환,직업,생업,내적 충동</meaning>
+    </word>
+    <word>
+      <eng>cause</eng>
+      <meaning>원인,이유,소송,운동,주의,야기하다.~의 원인이 되다,~에게 ~을 시키다,~이 ~되게 하다</meaning>
+    </word>
+    <word>
+      <eng>cross</eng>
+      <meaning>십자가,그리스도교,고난,시련,가로즐을 긋다,가로지르다,건너다</meaning>
+    </word>
+  </day>
+  <day name="15">
+    <word>
+      <eng>virtual</eng>
+      <meaning>가상의,사실상의</meaning>
+    </word>
+    <word>
+      <eng>nutrition</eng>
+      <meaning>영양</meaning>
+    </word>
+    <word>
+      <eng>nutritionist</eng>
+      <meaning>영양학자</meaning>
+    </word>
+    <word>
+      <eng>inner</eng>
+      <meaning>내부의</meaning>
+    </word>
+    <word>
+      <eng>outer</eng>
+      <meaning>외부의</meaning>
+    </word>
+    <word>
+      <eng>contrary</eng>
+      <meaning>반대의,정반대,적합치 않은,불리한</meaning>
+    </word>
+    <word>
+      <eng>opposite</eng>
+      <meaning>반대의,정반대,적합치 않은,불리한</meaning>
+    </word>
+    <word>
+      <eng>on the contrary</eng>
+      <meaning>이에 반하여</meaning>
+    </word>
+    <word>
+      <eng>ensure</eng>
+      <meaning>확보하다,분명히 하다</meaning>
+    </word>
+    <word>
+      <eng>insure</eng>
+      <meaning>보험에 들다</meaning>
+    </word>
+    <word>
+      <eng>supervise</eng>
+      <meaning>감독하다,관리하다,통제하다</meaning>
+    </word>
+    <word>
+      <eng>oversee</eng>
+      <meaning>감독하다,관리하다,통제하다</meaning>
+    </word>
+    <word>
+      <eng>be responsible for</eng>
+      <meaning>감독하다,관리하다,통제하다</meaning>
+    </word>
+    <word>
+      <eng>superviser</eng>
+      <meaning>감독관</meaning>
+    </word>
+    <word>
+      <eng>inhabit</eng>
+      <meaning>거주하다</meaning>
+    </word>
+    <word>
+      <eng>habitat</eng>
+      <meaning>서식지</meaning>
+    </word>
+    <word>
+      <eng>inhabitant</eng>
+      <meaning>거주자,주민</meaning>
+    </word>
+    <word>
+      <eng>earthquake</eng>
+      <meaning>지진,(사회,정치적)대변동</meaning>
+    </word>
+    <word>
+      <eng>seismology</eng>
+      <meaning>지진학</meaning>
+    </word>
+    <word>
+      <eng>enroll</eng>
+      <meaning>입학하다,등록하다</meaning>
+    </word>
+    <word>
+      <eng>enlist</eng>
+      <meaning>입학하다,등록하다</meaning>
+    </word>
+    <word>
+      <eng>seal</eng>
+      <meaning>도장,봉인,봉인하다,바다표범</meaning>
+    </word>
+    <word>
+      <eng>greed</eng>
+      <meaning>탐욕</meaning>
+    </word>
+    <word>
+      <eng>greedy</eng>
+      <meaning>탐욕스러운</meaning>
+    </word>
+    <word>
+      <eng>debate</eng>
+      <meaning>토론,토론하다</meaning>
+    </word>
+    <word>
+      <eng>spray</eng>
+      <meaning>물보라,분무기,물보라를 날리다,물을 뿌리다</meaning>
+    </word>
+    <word>
+      <eng>spread</eng>
+      <meaning>퍼뜨리다</meaning>
+    </word>
+    <word>
+      <eng>spring</eng>
+      <meaning>튀다</meaning>
+    </word>
+    <word>
+      <eng>sprinkle</eng>
+      <meaning>흩뿌리다</meaning>
+    </word>
+    <word>
+      <eng>abandon</eng>
+      <meaning>버리다,포기하다</meaning>
+    </word>
+    <word>
+      <eng>conquer</eng>
+      <meaning>극복하다,정복하다</meaning>
+    </word>
+    <word>
+      <eng>conqueror</eng>
+      <meaning>정복자</meaning>
+    </word>
+    <word>
+      <eng>nevertheless</eng>
+      <meaning>그럼에도 불구하고</meaning>
+    </word>
+    <word>
+      <eng>regardless</eng>
+      <meaning>그럼에도 불구하고</meaning>
+    </word>
+    <word>
+      <eng>nonetheless</eng>
+      <meaning>그럼에도 불구하고</meaning>
+    </word>
+    <word>
+      <eng>volcano</eng>
+      <meaning>화산</meaning>
+    </word>
+    <word>
+      <eng>contract</eng>
+      <meaning>계약하다,계약서,수축시키다</meaning>
+    </word>
+    <word>
+      <eng>contraction</eng>
+      <meaning>수축</meaning>
+    </word>
+    <word>
+      <eng>retail</eng>
+      <meaning>소매,소매하다</meaning>
+    </word>
+    <word>
+      <eng>wholesale</eng>
+      <meaning>도매</meaning>
+    </word>
+    <word>
+      <eng>prejudice</eng>
+      <meaning>편견,선입관</meaning>
+    </word>
+    <word>
+      <eng>bias</eng>
+      <meaning>편견,선입관</meaning>
+    </word>
+    <word>
+      <eng>agency</eng>
+      <meaning>대리점</meaning>
+    </word>
+    <word>
+      <eng>agent</eng>
+      <meaning>대리인</meaning>
+    </word>
+    <word>
+      <eng>nurture</eng>
+      <meaning>양육,교육,양육하다,교육하다</meaning>
+    </word>
+    <word>
+      <eng>priest</eng>
+      <meaning>성직자</meaning>
+    </word>
+    <word>
+      <eng>elegant</eng>
+      <meaning>고상한,우아한</meaning>
+    </word>
+    <word>
+      <eng>elegance</eng>
+      <meaning>우아</meaning>
+    </word>
+    <word>
+      <eng>lawn</eng>
+      <meaning>잔디,잔디밭</meaning>
+    </word>
+    <word>
+      <eng>impose</eng>
+      <meaning>부과하다</meaning>
+    </word>
+    <word>
+      <eng>masterpiece</eng>
+      <meaning>명작,대작</meaning>
+    </word>
+    <word>
+      <eng>harsh</eng>
+      <meaning>거친,가혹한</meaning>
+    </word>
+    <word>
+      <eng>cruel</eng>
+      <meaning>거친,가혹한</meaning>
+    </word>
+    <word>
+      <eng>drought</eng>
+      <meaning>가뭄</meaning>
+    </word>
+    <word>
+      <eng>flood</eng>
+      <meaning>홍수</meaning>
+    </word>
+    <word>
+      <eng>dry</eng>
+      <meaning>말리다,마른</meaning>
+    </word>
+    <word>
+      <eng>arise</eng>
+      <meaning>발생하다,생겨나다</meaning>
+    </word>
+    <word>
+      <eng>arise from</eng>
+      <meaning>~에서 생겨나다,~에 기인하다</meaning>
+    </word>
+    <word>
+      <eng>arouse</eng>
+      <meaning>깨우다,자극하다</meaning>
+    </word>
+    <word>
+      <eng>criteria</eng>
+      <meaning>기준,표준</meaning>
+    </word>
+    <word>
+      <eng>extraordinary</eng>
+      <meaning>비상한,비범한</meaning>
+    </word>
+    <word>
+      <eng>swallow</eng>
+      <meaning>삼키다,삼킴,제비</meaning>
+    </word>
+    <word>
+      <eng>dim</eng>
+      <meaning>흐릿한,어두운,(불빛이)흐려지다,멍한</meaning>
+    </word>
+    <word>
+      <eng>general</eng>
+      <meaning>일반적인,(육군,공군,해병대)대장</meaning>
+    </word>
+    <word>
+      <eng>generally speaking</eng>
+      <meaning>일반적으로 말하자면</meaning>
+    </word>
+    <word>
+      <eng>generally</eng>
+      <meaning>일반적으로,보통</meaning>
+    </word>
+    <word>
+      <eng>scream</eng>
+      <meaning>절규,절규하다,비명 지르다</meaning>
+    </word>
+    <word>
+      <eng>ladder</eng>
+      <meaning>사다리,출세의 수단</meaning>
+    </word>
+    <word>
+      <eng>spill</eng>
+      <meaning>엎지르다,흘리다,엎지름</meaning>
+    </word>
+    <word>
+      <eng>glare at</eng>
+      <meaning>~를 노려보다</meaning>
+    </word>
+    <word>
+      <eng>modify</eng>
+      <meaning>변형하다,수정하다</meaning>
+    </word>
+    <word>
+      <eng>modification</eng>
+      <meaning>수정</meaning>
+    </word>
+    <word>
+      <eng>modifier</eng>
+      <meaning>수식어구</meaning>
+    </word>
+    <word>
+      <eng>degree</eng>
+      <meaning>정도,(온도 등의)도,학위</meaning>
+    </word>
+    <word>
+      <eng>develop</eng>
+      <meaning>발달시키다,(소질,비밀 등을)드러내다,(사진을)현상하다</meaning>
+    </word>
+    <word>
+      <eng>ear</eng>
+      <meaning>귀,청각,(보리 등의)이삭</meaning>
+    </word>
+    <word>
+      <eng>even</eng>
+      <meaning>평평한,고른,짝수의,공평한,~조차도,~까지도,더욱,한층,오히려,정말로</meaning>
+    </word>
+  </day>
+  <day name="16">
+    <word>
+      <eng>carry away</eng>
+      <meaning>넋을 잃게 하다,열광하게 하다</meaning>
+    </word>
+    <word>
+      <eng>stay away</eng>
+      <meaning>~을 가까이 하지 않다,피하다</meaning>
+    </word>
+    <word>
+      <eng>get away</eng>
+      <meaning>떠나다,도망치다,죄를 짓고도 무사하다</meaning>
+    </word>
+    <word>
+      <eng>pass away</eng>
+      <meaning>돌아가시다</meaning>
+    </word>
+    <word>
+      <eng>give away</eng>
+      <meaning>(남에게)거저 주다,(비밀 정보를)누설하다</meaning>
+    </word>
+    <word>
+      <eng>come back</eng>
+      <meaning>돌아오다,생각나다,상기하다</meaning>
+    </word>
+    <word>
+      <eng>get back</eng>
+      <meaning>돌아오다,되찾다</meaning>
+    </word>
+    <word>
+      <eng>take back</eng>
+      <meaning>되찾다</meaning>
+    </word>
+    <word>
+      <eng>bring back</eng>
+      <meaning>돌려주다,소생시키다,~을 생각나게 하다</meaning>
+    </word>
+    <word>
+      <eng>hold back</eng>
+      <meaning>억제하다,~을 말리다</meaning>
+    </word>
+    <word>
+      <eng>keep back</eng>
+      <meaning>감추다</meaning>
+    </word>
+    <word>
+      <eng>pick up</eng>
+      <meaning>집어 올리다,줍다,차에 태워주다</meaning>
+    </word>
+    <word>
+      <eng>bring up</eng>
+      <meaning>키우다,양육하다</meaning>
+    </word>
+    <word>
+      <eng>throw up</eng>
+      <meaning>톼다</meaning>
+    </word>
+    <word>
+      <eng>dress up</eng>
+      <meaning>차려 입다</meaning>
+    </word>
+    <word>
+      <eng>sum up</eng>
+      <meaning>요약하다</meaning>
+    </word>
+    <word>
+      <eng>catch up</eng>
+      <meaning>따라잡다</meaning>
+    </word>
+    <word>
+      <eng>keep up</eng>
+      <meaning>~와 보조를 맞추다</meaning>
+    </word>
+    <word>
+      <eng>draw up</eng>
+      <meaning>(길가로 가서)멈추다,세우다</meaning>
+    </word>
+    <word>
+      <eng>fall down</eng>
+      <meaning>넘어지다</meaning>
+    </word>
+    <word>
+      <eng>hand down</eng>
+      <meaning>~을 (후세에)전하다</meaning>
+    </word>
+    <word>
+      <eng>pass down</eng>
+      <meaning>~을 (후세에)전하다</meaning>
+    </word>
+    <word>
+      <eng>turn down</eng>
+      <meaning>거절하다,줄이다</meaning>
+    </word>
+    <word>
+      <eng>try on</eng>
+      <meaning>(시험삼아)입어보다</meaning>
+    </word>
+    <word>
+      <eng>turn on</eng>
+      <meaning>켜다,나오게 하다</meaning>
+    </word>
+    <word>
+      <eng>stay on</eng>
+      <meaning>제 위치에 놓여 있다,계속 머무르다</meaning>
+    </word>
+    <word>
+      <eng>go on</eng>
+      <meaning>계속해서 ~하다</meaning>
+    </word>
+    <word>
+      <eng>carry on</eng>
+      <meaning>계속하다,속행하다</meaning>
+    </word>
+    <word>
+      <eng>dwell on</eng>
+      <meaning>곰곰이 생각하다,숙고하다</meaning>
+    </word>
+    <word>
+      <eng>live on</eng>
+      <meaning>~을 먹고 살다</meaning>
+    </word>
+    <word>
+      <eng>pick on</eng>
+      <meaning>괴롭히다</meaning>
+    </word>
+    <word>
+      <eng>get off</eng>
+      <meaning>내리다</meaning>
+    </word>
+    <word>
+      <eng>put off</eng>
+      <meaning>연기하다,늦추다</meaning>
+    </word>
+    <word>
+      <eng>take off</eng>
+      <meaning>이륙하다,(옷,신발 따위를)벗다</meaning>
+    </word>
+    <word>
+      <eng>call off</eng>
+      <meaning>취소하다</meaning>
+    </word>
+    <word>
+      <eng>shake off</eng>
+      <meaning>털어내다</meaning>
+    </word>
+    <word>
+      <eng>pay off</eng>
+      <meaning>완불하다,이득을 보다,성취하다</meaning>
+    </word>
+    <word>
+      <eng>go for</eng>
+      <meaning>~을 얻으려 하다,좋아하다</meaning>
+    </word>
+    <word>
+      <eng>head for</eng>
+      <meaning>~를 향해 가다</meaning>
+    </word>
+    <word>
+      <eng>call for</eng>
+      <meaning>큰 소리로 부르다,청하다,(~를 부르기 위해)들르다,~을 요구하다</meaning>
+    </word>
+    <word>
+      <eng>run for</eng>
+      <meaning>~에 출마하다</meaning>
+    </word>
+    <word>
+      <eng>account for</eng>
+      <meaning>~을 설명하다</meaning>
+    </word>
+    <word>
+      <eng>answer for</eng>
+      <meaning>(비난의)책임을 지다</meaning>
+    </word>
+    <word>
+      <eng>be responsible for</eng>
+      <meaning>(비난의)책임을 지다</meaning>
+    </word>
+    <word>
+      <eng>look over</eng>
+      <meaning>훑어보다,눈감아 주다</meaning>
+    </word>
+    <word>
+      <eng>do over</eng>
+      <meaning>다시 하다</meaning>
+    </word>
+    <word>
+      <eng>get over</eng>
+      <meaning>극복하다,회복하다</meaning>
+    </word>
+    <word>
+      <eng>hand over</eng>
+      <meaning>넘겨주다</meaning>
+    </word>
+    <word>
+      <eng>take over</eng>
+      <meaning>인수하다,인계 받다</meaning>
+    </word>
+    <word>
+      <eng>come over</eng>
+      <meaning>건너오다,엄습하다</meaning>
+    </word>
+    <word>
+      <eng>pull over</eng>
+      <meaning>(차를)길가에 세우다</meaning>
+    </word>
+    <word>
+      <eng>break in</eng>
+      <meaning>칩입하다</meaning>
+    </word>
+    <word>
+      <eng>hand in</eng>
+      <meaning>넘겨주다,제출하다</meaning>
+    </word>
+    <word>
+      <eng>turn in</eng>
+      <meaning>제출하다</meaning>
+    </word>
+    <word>
+      <eng>set in</eng>
+      <meaning>시작되다</meaning>
+    </word>
+    <word>
+      <eng>take in</eng>
+      <meaning>맞아들이다,속이다,받아들이다,호흡하다</meaning>
+    </word>
+    <word>
+      <eng>in behalf of</eng>
+      <meaning>~을 위하여</meaning>
+    </word>
+    <word>
+      <eng>on behalf of</eng>
+      <meaning>~을 대표하여</meaning>
+    </word>
+    <word>
+      <eng>cut in</eng>
+      <meaning>끼어들다</meaning>
+    </word>
+    <word>
+      <eng>sit in</eng>
+      <meaning>~에 참관하다</meaning>
+    </word>
+    <word>
+      <eng>sit in</eng>
+      <meaning>~을 대신하다</meaning>
+    </word>
+    <word>
+      <eng>break out</eng>
+      <meaning>일어나다,발생하다</meaning>
+    </word>
+    <word>
+      <eng>carry out</eng>
+      <meaning>실행하다,수행하다</meaning>
+    </word>
+    <word>
+      <eng>come out</eng>
+      <meaning>나타나다,드러나다</meaning>
+    </word>
+    <word>
+      <eng>turn out</eng>
+      <meaning>내쫓다,폭로하다,판명되다</meaning>
+    </word>
+    <word>
+      <eng>put out</eng>
+      <meaning>(불 따위를)끄다</meaning>
+    </word>
+    <word>
+      <eng>run out</eng>
+      <meaning>~이 바닥나다</meaning>
+    </word>
+    <word>
+      <eng>fill out</eng>
+      <meaning>(서류의 빈 칸을)채우다</meaning>
+    </word>
+    <word>
+      <eng>sell out</eng>
+      <meaning>매진하다,다 팔다</meaning>
+    </word>
+    <word>
+      <eng>put through</eng>
+      <meaning>연결하다,(시련 등을)겪게 하다</meaning>
+    </word>
+    <word>
+      <eng>go through</eng>
+      <meaning>겪다,조사하다,검토하다</meaning>
+    </word>
+    <word>
+      <eng>come through</eng>
+      <meaning>성공하다,해내다</meaning>
+    </word>
+    <word>
+      <eng>adhere to</eng>
+      <meaning>~을 고수하다</meaning>
+    </word>
+    <word>
+      <eng>cling to</eng>
+      <meaning>~을 고수하다</meaning>
+    </word>
+    <word>
+      <eng>stick to</eng>
+      <meaning>~을 고수하다</meaning>
+    </word>
+    <word>
+      <eng>bring to</eng>
+      <meaning>~의 정신을 들게 하다,소생시키다</meaning>
+    </word>
+    <word>
+      <eng>come to</eng>
+      <meaning>소생시키다</meaning>
+    </word>
+    <word>
+      <eng>deal with</eng>
+      <meaning>처리하다,다루다</meaning>
+    </word>
+    <word>
+      <eng>cope with</eng>
+      <meaning>다루다</meaning>
+    </word>
+    <word>
+      <eng>rest with</eng>
+      <meaning>(결정권 등이)~에게 달려있다</meaning>
+    </word>
+  </day>
+</data>
