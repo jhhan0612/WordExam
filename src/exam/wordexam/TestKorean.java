@@ -26,10 +26,10 @@ public class TestKorean extends Activity implements OnClickListener{
 	TextView testKorea;
 	ArrayList<String> englist = Wrong.englist;
 	ArrayList<String> meaninglist = Wrong.meaninglist;
-	
+
 	ArrayList<String> seng = new ArrayList<String>();
 	ArrayList<String> smeaning = new ArrayList<String>();
-	
+
 	ProgressBar prog;
 
 	public void setQuestion(int a, TextView b, ArrayList<String> c, ArrayList<Integer> d){
@@ -44,11 +44,11 @@ public class TestKorean extends Activity implements OnClickListener{
 
 		testKorea = (TextView)findViewById(R.id.testKorean);
 		answer = (EditText)findViewById(R.id.answerEng);
-		
+
 		prog = (ProgressBar)findViewById(R.id.testProgress);
-		
+
 		int a = 0;
-		
+
 		if(englist.size()==0){
 			for(int p = 0; p < eng.size(); p++){
 				seng.add(eng.get(p));
@@ -58,10 +58,10 @@ public class TestKorean extends Activity implements OnClickListener{
 		else{
 			for(int e = 0; e < englist.size(); e++){
 				seng.add(englist.get(e));
-				smeaning.add(meaning.get(e));
+				smeaning.add(meaninglist.get(e));
 			}
 		}
-		
+
 		prog.setMax(seng.size());
 		prog.setProgress(0);
 		prog.setSecondaryProgress(0);
@@ -69,14 +69,19 @@ public class TestKorean extends Activity implements OnClickListener{
 			count.add(i);
 		}
 		Collections.shuffle(count);
-		
-		testKorea.setText(smeaning.get(count.get(a)));
 
+		testKorea.setText(smeaning.get(count.get(a)));
+		
+		if(seng.size()!=eng.size()){
+			for(int i = wrong.size(); i >= 0; i--){
+				wrong.remove(i);
+			}
+		}
+		
 		Button check = (Button)findViewById(R.id.check);
 		check.setOnClickListener(this);
 	}
 
-	@Override
 	public void onClick(View v) {
 		prog.incrementProgressBy(1);
 		if(answer.getText().toString().equals(seng.get(count.get(a)))){
@@ -85,7 +90,7 @@ public class TestKorean extends Activity implements OnClickListener{
 			toast.setGravity(Gravity.CENTER, 0, 0);
 			toast.show();
 			a++;
-			if(a<eng.size()){
+			if(a < seng.size()) {
 				setQuestion(a, testKorea, smeaning, count);
 				answer.setText("");
 			}
@@ -95,7 +100,16 @@ public class TestKorean extends Activity implements OnClickListener{
 			}
 		}
 		else{
-			wrong.add(count.get(a));
+			if(seng.size() == eng.size()){
+				wrong.add(count.get(a));
+			}
+			else{
+				for(int i = 0; i < eng.size(); i ++) {
+					if(eng.get(i).equals(seng.get(count.get(a)))){
+						wrong.add(i);
+					}
+				}
+			}
 			String cor = seng.get(count.get(a));
 			Toast toast = Toast.makeText(this, "null", Toast.LENGTH_LONG);
 			toast.setText(cor);
@@ -103,7 +117,7 @@ public class TestKorean extends Activity implements OnClickListener{
 			toast.show();
 
 			a++;
-			if(a<eng.size()){
+			if(a < seng.size()) {
 				setQuestion(a, testKorea , smeaning,count);
 				answer.setText("");
 			}
