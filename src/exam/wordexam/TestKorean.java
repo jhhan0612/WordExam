@@ -19,7 +19,7 @@ import android.widget.Toast;
 public class TestKorean extends Activity implements OnClickListener{
 	ArrayList<String> meaning = Study.meaning;
 	ArrayList<String> eng = Study.eng;
-	int a;
+	int testnum;
 	ArrayList<Integer> count = new ArrayList<Integer>();
 	static ArrayList<Integer> wrong = new ArrayList<Integer>();
 	EditText answer;
@@ -27,13 +27,14 @@ public class TestKorean extends Activity implements OnClickListener{
 	ArrayList<String> englist = Wrong.englist;
 	ArrayList<String> meaninglist = Wrong.meaninglist;
 
-	ArrayList<String> seng = new ArrayList<String>();
-	ArrayList<String> smeaning = new ArrayList<String>();
+	ArrayList<String> selectedeng = new ArrayList<String>();
+	ArrayList<String> selectedmeaning = new ArrayList<String>();
 
 	ProgressBar prog;
+	public static Toast toast;
 
-	public void setQuestion(int a, TextView b, ArrayList<String> c, ArrayList<Integer> d){
-		b.setText(c.get(d.get(a)));
+	public void setQuestion(int testnum, TextView question, ArrayList<String> englist, ArrayList<Integer> lamdom){
+		question.setText(englist.get(lamdom.get(testnum)));
 	}
 
 	public void onCreate(Bundle savedInstanceState) {
@@ -47,32 +48,32 @@ public class TestKorean extends Activity implements OnClickListener{
 
 		prog = (ProgressBar)findViewById(R.id.testProgress);
 
-		int a = 0;
+		int testnum = 0;
 
 		if(englist.size()==0){
 			for(int p = 0; p < eng.size(); p++){
-				seng.add(eng.get(p));
-				smeaning.add(meaning.get(p));
+				selectedeng.add(eng.get(p));
+				selectedmeaning.add(meaning.get(p));
 			}
 		}
 		else{
 			for(int e = 0; e < englist.size(); e++){
-				seng.add(englist.get(e));
-				smeaning.add(meaninglist.get(e));
+				selectedeng.add(englist.get(e));
+				selectedmeaning.add(meaninglist.get(e));
 			}
 		}
 
-		prog.setMax(seng.size());
+		prog.setMax(selectedeng.size());
 		prog.setProgress(0);
 		prog.setSecondaryProgress(0);
-		for(int i = 0; i < seng.size(); i ++){
+		for(int i = 0; i < selectedeng.size(); i ++){
 			count.add(i);
 		}
 		Collections.shuffle(count);
 
-		testKorea.setText(smeaning.get(count.get(a)));
+		testKorea.setText(selectedmeaning.get(count.get(testnum)));
 		
-		if(seng.size()!=eng.size()){
+		if(selectedeng.size()!=eng.size()){
 			for(int i = wrong.size(); i >= 0; i--){
 				wrong.remove(i);
 			}
@@ -84,14 +85,17 @@ public class TestKorean extends Activity implements OnClickListener{
 
 	public void onClick(View v) {
 		prog.incrementProgressBy(1);
-		if(answer.getText().toString().equals(seng.get(count.get(a)))){
-			Toast toast = Toast.makeText(this, "null", Toast.LENGTH_LONG);
+		if(answer.getText().toString().equals(selectedeng.get(count.get(testnum)))){
+			if(toast != null){
+				toast.cancel();
+			}
+			toast = Toast.makeText(this, null, Toast.LENGTH_LONG);
 			toast.setText("Á¤´ä");
 			toast.setGravity(Gravity.CENTER, 0, 0);
 			toast.show();
-			a++;
-			if(a < seng.size()) {
-				setQuestion(a, testKorea, smeaning, count);
+			testnum++;
+			if(testnum < selectedeng.size()) {
+				setQuestion(testnum, testKorea, selectedmeaning, count);
 				answer.setText("");
 			}
 			else{
@@ -100,25 +104,28 @@ public class TestKorean extends Activity implements OnClickListener{
 			}
 		}
 		else{
-			if(seng.size() == eng.size()){
-				wrong.add(count.get(a));
+			if(selectedeng.size() == eng.size()){
+				wrong.add(count.get(testnum));
 			}
 			else{
 				for(int i = 0; i < eng.size(); i ++) {
-					if(eng.get(i).equals(seng.get(count.get(a)))){
+					if(eng.get(i).equals(selectedeng.get(count.get(testnum)))){
 						wrong.add(i);
 					}
 				}
 			}
-			String cor = seng.get(count.get(a));
-			Toast toast = Toast.makeText(this, "null", Toast.LENGTH_LONG);
+			String cor = selectedeng.get(count.get(testnum));
+			if(toast != null){
+				toast.cancel();
+			}
+			toast = Toast.makeText(this, null, Toast.LENGTH_LONG);
 			toast.setText(cor);
 			toast.setGravity(Gravity.CENTER, 0, 0);
 			toast.show();
 
-			a++;
-			if(a < seng.size()) {
-				setQuestion(a, testKorea , smeaning,count);
+			testnum++;
+			if(testnum < selectedeng.size()) {
+				setQuestion(testnum, testKorea , selectedmeaning,count);
 				answer.setText("");
 			}
 			else{

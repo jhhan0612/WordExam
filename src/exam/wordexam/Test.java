@@ -25,20 +25,20 @@ public class Test extends Activity implements OnClickListener {
 	ArrayList<String> meaning = Study.meaning;
 	TextView question;
 	int testnumber;
-	ArrayList<Integer> bnb = new ArrayList<Integer>();
-	String gill;
+	ArrayList<Integer> randomNumber = new ArrayList<Integer>();
 	static ArrayList<Integer> wrongTest = new ArrayList<Integer>();
 	ArrayList<String> englist = Wrong.englist;
 	ArrayList<String> meaninglist = Wrong.meaninglist;
 
-	ArrayList<String> seng = new ArrayList<String>();
-	ArrayList<String> smeaning = new ArrayList<String>();
+	ArrayList<String> selectedeng = new ArrayList<String>();
+	ArrayList<String> selectedmeaning = new ArrayList<String>();
 
 	ProgressBar prog;
+	public static Toast toast;
+	
+	public void setQuestion(int testnumber, TextView question, ArrayList<String> english, ArrayList<String> korean, ArrayList<Integer> random, Button b1, Button b2, Button b3, Button b4){
 
-	public void setQuestion(int testnumber, TextView b, ArrayList<String> c, ArrayList<String> d, ArrayList<Integer> e, Button b1, Button b2, Button b3, Button b4){
-
-		b.setText(c.get(e.get(testnumber)));
+		question.setText(english.get(random.get(testnumber)));
 
 
 		ArrayList<Button> buttons = new ArrayList<Button>();
@@ -54,15 +54,15 @@ public class Test extends Activity implements OnClickListener {
 		Collections.shuffle(count);
 
 		ArrayList<Integer> que = new ArrayList<Integer>();
-		for(int m = 0; m < c.size(); m++){
+		for(int m = 0; m < english.size(); m++){
 			que.add(m);
 		}
 		Collections.shuffle(que);
 
-		buttons.get(count.get(0)).setText(d.get(que.get(0)));
-		buttons.get(count.get(1)).setText(d.get(que.get(1)));
-		buttons.get(count.get(2)).setText(d.get(que.get(2)));
-		buttons.get(count.get(3)).setText(d.get(e.get(testnumber)));
+		buttons.get(count.get(0)).setText(korean.get(que.get(0)));
+		buttons.get(count.get(1)).setText(korean.get(que.get(1)));
+		buttons.get(count.get(2)).setText(korean.get(que.get(2)));
+		buttons.get(count.get(3)).setText(korean.get(random.get(testnumber)));
 	}
 
 	public void onCreate(Bundle savedInstanceState) {
@@ -88,33 +88,33 @@ public class Test extends Activity implements OnClickListener {
 
 		if(englist.size()==0){
 			for(int p = 0; p < eng.size(); p++){
-				seng.add(eng.get(p));
-				smeaning.add(meaning.get(p));
+				selectedeng.add(eng.get(p));
+				selectedmeaning.add(meaning.get(p));
 			}
 		}
 		else{
 			for(int e = 0; e < englist.size(); e++){
-				seng.add(englist.get(e));
-				smeaning.add(meaninglist.get(e));
+				selectedeng.add(englist.get(e));
+				selectedmeaning.add(meaninglist.get(e));
 			}
 		}
-		prog.setMax(seng.size());
+		prog.setMax(selectedeng.size());
 		prog.setProgress(0);
 		prog.setSecondaryProgress(0);
 
-		for(int i = 0; i < seng.size(); i ++){
-			bnb.add(i);
+		for(int i = 0; i < selectedeng.size(); i ++){
+			randomNumber.add(i);
 		}
-		Collections.shuffle(bnb);
+		Collections.shuffle(randomNumber);
 		
-		if(seng.size()!=eng.size()){
+		if(selectedeng.size()!=eng.size()){
 			for(int i = wrongTest.size()-1; i >= 0; i--){
 				wrongTest.remove(i);
 			}
 		}
 
-		question.setText(seng.get(bnb.get(testnumber)));
-		setQuestion(testnumber, question, seng, smeaning, bnb, b1,b2,b3,b4);
+		question.setText(selectedeng.get(randomNumber.get(testnumber)));
+		setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);
 	}
 
 	public void onClick(View v) {
@@ -122,18 +122,21 @@ public class Test extends Activity implements OnClickListener {
 		String b2text = b2.getText().toString();
 		String b3text = b3.getText().toString();
 		String b4text = b4.getText().toString();
-		String dab = smeaning.get(bnb.get(testnumber));
+		String dab = selectedmeaning.get(randomNumber.get(testnumber));
 		switch(v.getId()){
 		case R.id.b1:
 			prog.incrementProgressBy(1);
 			if(b1text.equals(dab)){
-				Toast toast = Toast.makeText(this, "null", Toast.LENGTH_SHORT);
+				if(toast != null){
+					toast.cancel();
+				}
+				toast = Toast.makeText(this, null, Toast.LENGTH_SHORT);
 				toast.setText("정답");
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();
 				testnumber++;
-				if(testnumber < seng.size()){
-					setQuestion(testnumber, question, seng, smeaning, bnb, b1,b2,b3,b4);
+				if(testnumber < selectedeng.size()){
+					setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);
 				}
 				else{
 					Intent History = new Intent(Test.this, Wrong.class);
@@ -141,20 +144,23 @@ public class Test extends Activity implements OnClickListener {
 				}
 			}
 			else{
-				String correct = smeaning.get(bnb.get(testnumber));
-				Toast toast = Toast.makeText(this, "null", Toast.LENGTH_SHORT);
+				String correct = selectedmeaning.get(randomNumber.get(testnumber));
+				if(toast != null){
+					toast.cancel();
+				}
+				toast = Toast.makeText(this, null, Toast.LENGTH_SHORT);
 				toast.setText("오답, 정답은 : " + correct);
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();
 				testnumber++;
-				if(testnumber < seng.size()){
-					setQuestion(testnumber, question, seng, smeaning, bnb, b1,b2,b3,b4);
-					if(seng.size()==eng.size()){
-						wrongTest.add(bnb.get(testnumber));
+				if(testnumber < selectedeng.size()){
+					setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);
+					if( selectedeng.size() == eng.size() ) {
+						wrongTest.add( randomNumber.get(testnumber) );
 					}
 					else{
 						for(int i = 0; i < eng.size(); i ++){
-							if(eng.get(i).equals(seng.get(bnb.get(testnumber)))){
+							if(eng.get(i).equals(selectedeng.get(randomNumber.get(testnumber)))){
 								wrongTest.add(i);
 							}
 						}
@@ -169,13 +175,16 @@ public class Test extends Activity implements OnClickListener {
 		case R.id.b2:
 			prog.incrementProgressBy(1);
 			if(b2text.equals(dab)){
-				Toast toast = Toast.makeText(this, "null", Toast.LENGTH_SHORT);
+				if(toast != null){
+					toast.cancel();
+				}
+				toast = Toast.makeText(this, null, Toast.LENGTH_SHORT);
 				toast.setText("정답");
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();
 				testnumber++;
-				if(testnumber < seng.size()){
-					setQuestion(testnumber, question, seng, smeaning, bnb, b1,b2,b3,b4);
+				if(testnumber < selectedeng.size()){
+					setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);
 				}
 				else{
 					Intent History = new Intent(Test.this, Wrong.class);
@@ -183,20 +192,23 @@ public class Test extends Activity implements OnClickListener {
 				}
 			}
 			else{
-				String correct = smeaning.get(bnb.get(testnumber));
-				Toast toast = Toast.makeText(this, "null", Toast.LENGTH_SHORT);
+				String correct = selectedmeaning.get(randomNumber.get(testnumber));
+				if(toast != null){
+					toast.cancel();
+				}
+				toast = Toast.makeText(this, null, Toast.LENGTH_SHORT);
 				toast.setText("오답, 정답은 : " + correct);
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();
 				testnumber++;
-				if(testnumber < seng.size()){
-					setQuestion(testnumber, question, seng, smeaning, bnb, b1,b2,b3,b4);
-					if(seng.size()==eng.size()){
-						wrongTest.add(bnb.get(testnumber));
+				if(testnumber < selectedeng.size()){
+					setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);
+					if(selectedeng.size()==eng.size()){
+						wrongTest.add(randomNumber.get(testnumber));
 					}
 					else{
 						for(int i = 0; i < eng.size(); i ++){
-							if(eng.get(i).equals(seng.get(bnb.get(testnumber)))){
+							if(eng.get(i).equals(selectedeng.get(randomNumber.get(testnumber)))){
 								wrongTest.add(i);
 							}
 						}
@@ -211,33 +223,39 @@ public class Test extends Activity implements OnClickListener {
 		case R.id.b3:
 			prog.incrementProgressBy(1);
 			if(b3text.equals(dab)){
-				Toast toast = Toast.makeText(this, "null", Toast.LENGTH_SHORT);
+				if(toast != null){
+					toast.cancel();
+				}
+				toast = Toast.makeText(this, null, Toast.LENGTH_SHORT);
 				toast.setText("정답");
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();
 				testnumber++;
-				if(testnumber < seng.size()){
-					setQuestion(testnumber, question, seng, smeaning, bnb, b1,b2,b3,b4);
+				if(testnumber < selectedeng.size()){
+					setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);
 				}
 				else{
 					Intent History = new Intent(Test.this, Wrong.class);
 					startActivity(History);
 				}			}
 			else{
-				String correct = smeaning.get(bnb.get(testnumber));
-				Toast toast = Toast.makeText(this, "null", Toast.LENGTH_SHORT);
+				String correct = selectedmeaning.get(randomNumber.get(testnumber));
+				if(toast != null){
+					toast.cancel();
+				}
+				toast = Toast.makeText(this, null, Toast.LENGTH_SHORT);
 				toast.setText("오답, 정답은 : " + correct);
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();
 				testnumber++;
-				if(testnumber < seng.size()){
-					setQuestion(testnumber, question, seng, smeaning, bnb, b1,b2,b3,b4);
-					if(seng.size()==eng.size()){
-						wrongTest.add(bnb.get(testnumber));
+				if(testnumber < selectedeng.size()){
+					setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);
+					if(selectedeng.size()==eng.size()){
+						wrongTest.add(randomNumber.get(testnumber));
 					}
 					else{
 						for(int i = 0; i < eng.size(); i ++){
-							if(eng.get(i).equals(seng.get(bnb.get(testnumber)))){
+							if(eng.get(i).equals(selectedeng.get(randomNumber.get(testnumber)))){
 								wrongTest.add(i);
 							}
 						}
@@ -252,13 +270,16 @@ public class Test extends Activity implements OnClickListener {
 		case R.id.b4:
 			prog.incrementProgressBy(1);
 			if(b4text.equals(dab)){
-				Toast toast = Toast.makeText(this, "null", Toast.LENGTH_SHORT);
+				if(toast != null){
+					toast.cancel();
+				}
+				toast = Toast.makeText(this, null, Toast.LENGTH_SHORT);
 				toast.setText("정답");
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();
 				testnumber++;
-				if(testnumber < seng.size()){
-					setQuestion(testnumber, question, seng, smeaning, bnb, b1,b2,b3,b4);
+				if(testnumber < selectedeng.size()){
+					setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);
 				}
 				else{
 					Intent History = new Intent(Test.this, Wrong.class);
@@ -266,20 +287,23 @@ public class Test extends Activity implements OnClickListener {
 				}
 			}
 			else{
-				String correct = smeaning.get(bnb.get(testnumber));
-				Toast toast = Toast.makeText(this, "null", Toast.LENGTH_SHORT);
+				String correct = selectedmeaning.get(randomNumber.get(testnumber));
+				if(toast != null){
+					toast.cancel();
+				}
+				toast = Toast.makeText(this, null, Toast.LENGTH_SHORT);
 				toast.setText("오답, 정답은 : " + correct);
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();
 				testnumber++;
-				if(testnumber < seng.size()){
-					setQuestion(testnumber, question, seng, smeaning, bnb, b1,b2,b3,b4);
-					if(seng.size()==eng.size()){
-						wrongTest.add(bnb.get(testnumber));
+				if(testnumber < selectedeng.size()){
+					setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);
+					if(selectedeng.size()==eng.size()){
+						wrongTest.add(randomNumber.get(testnumber));
 					}
 					else{
 						for(int i = 0; i < eng.size(); i ++){
-							if(eng.get(i).equals(seng.get(bnb.get(testnumber)))){
+							if(eng.get(i).equals(selectedeng.get(randomNumber.get(testnumber)))){
 								wrongTest.add(i);
 							}
 						}

@@ -20,7 +20,6 @@ import android.util.SparseBooleanArray;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -33,6 +32,10 @@ public class Study extends Activity implements OnClickListener{
 	static ArrayList<String> meaning;
 	static ArrayList<String> englist = new ArrayList<String>();
 	static ArrayList<String> meaninglist = new ArrayList<String>();
+	
+	private ArrayList<Custom_List_Data> Array_Data;
+	private Custom_List_Data data;
+	private Custom_List_Adapter adapter;
 	
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -77,13 +80,19 @@ public class Study extends Activity implements OnClickListener{
 					}
 				}	
 			} 
-			ArrayAdapter<String> adapterenglish = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, eng);
-			ListView listEng = (ListView)findViewById(R.id.english);
-			listEng.setAdapter(adapterenglish);
 			
-			ArrayAdapter<String> adapterkorean = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, meaning);
-			listKorea = (ListView)findViewById(R.id.korean);
-			listKorea.setAdapter(adapterkorean);
+			Array_Data = new ArrayList<Custom_List_Data>();
+
+			for(int i = 0; i < eng.size(); i++){
+				data = new Custom_List_Data(eng.get(i), meaning.get(i));
+				Array_Data.add(data);
+			}
+
+			adapter = new Custom_List_Adapter(this, android.R.layout.simple_list_item_1, Array_Data);
+
+			ListView custom_list = (ListView) findViewById(R.id.listView1);
+
+			custom_list.setAdapter(adapter);
 		}
 		catch (Exception e){
 			e.printStackTrace();

@@ -22,16 +22,10 @@
         android:text="시험"
         />
     <ListView
-        android:id="@+id/english"
-        android:layout_width="150dp"
-        android:layout_height="400dp"
-        android:layout_below="@id/selecteddays"
-        />
-    <ListView
-        android:id="@+id/korean"
-        android:layout_width="150dp"
-        android:layout_height="400dp"
-        android:layout_toRightOf="@id/english"
-        android:layout_alignTop="@id/english"
-        />
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below = "@id/selecteddays"
+        >
+    </ListView>
 </RelativeLayout>

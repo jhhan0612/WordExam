@@ -10,7 +10,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 
@@ -22,6 +21,10 @@ public class Wrong extends Activity implements OnClickListener{
 	ArrayList<String> meaning = Study.meaning;
 	static ArrayList<String> englist = Study.englist;
 	static ArrayList<String> meaninglist = Study.meaninglist;
+
+	private ArrayList<Custom_List_Data> Array_Data;
+	private Custom_List_Data data;
+	private Custom_List_Adapter adapter;
 
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -36,29 +39,38 @@ public class Wrong extends Activity implements OnClickListener{
 			for(int i = 0; i < wrong.size(); i ++){
 				meaninglist.add(meaning.get(wrong.get(i)));
 				englist.add(eng.get(wrong.get(i)));
-
-				ArrayAdapter<String> adapterenglish = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, englist);
-				ListView listEng = (ListView)findViewById(R.id.english);
-				listEng.setAdapter(adapterenglish);
-
-				ArrayAdapter<String> adapterkorean = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, meaninglist);
-				ListView listKorea = (ListView)findViewById(R.id.korean);
-				listKorea.setAdapter(adapterkorean);
 			}
+			Array_Data = new ArrayList<Custom_List_Data>();
+
+			for(int p = 0; p < englist.size(); p++){
+				data = new Custom_List_Data(englist.get(p), meaninglist.get(p));
+				Array_Data.add(data);
+			}
+
+			adapter = new Custom_List_Adapter(this, android.R.layout.simple_list_item_1, Array_Data);
+
+			ListView custom_list = (ListView) findViewById(R.id.listView1);
+
+			custom_list.setAdapter(adapter);
 		}
 		else{
 			for(int i = 0 ; i < wrongTest.size(); i ++){
 				meaninglist.add(meaning.get(wrongTest.get(i)));
 				englist.add(eng.get(wrongTest.get(i)));
-
-				ArrayAdapter<String> adapterenglish = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, englist);
-				ListView listEng = (ListView)findViewById(R.id.english);
-				listEng.setAdapter(adapterenglish);
-
-				ArrayAdapter<String> adapterkorean = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, meaninglist);
-				ListView listKorea = (ListView)findViewById(R.id.korean);
-				listKorea.setAdapter(adapterkorean);
 			}
+
+			Array_Data = new ArrayList<Custom_List_Data>();
+
+			for(int p = 0; p < englist.size(); p++){
+				data = new Custom_List_Data(englist.get(p), meaninglist.get(p));
+				Array_Data.add(data);
+			}
+
+			adapter = new Custom_List_Adapter(this, android.R.layout.simple_list_item_1, Array_Data);
+
+			ListView custom_list = (ListView) findViewById(R.id.listView1);
+
+			custom_list.setAdapter(adapter);
 		}
 		Button test = (Button)findViewById(R.id.test2);
 		test.setOnClickListener(this);
