@@ -20,6 +20,7 @@ public class MainActivity extends Activity implements OnClickListener{
 	ListView Days;
 	static SparseBooleanArray sb;
 	
+	
 	protected void onCreate(Bundle savedInstanceState) {		
 		super.onCreate(savedInstanceState);
 		Window win = getWindow();

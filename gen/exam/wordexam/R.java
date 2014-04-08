@@ -25,35 +25,38 @@ public final class R {
     }
     public static final class id {
         public static final int Days=0x7f090002;
-        public static final int action_settings=0x7f090015;
-        public static final int answerEng=0x7f090014;
-        public static final int b1=0x7f09000d;
-        public static final int b2=0x7f09000e;
-        public static final int b3=0x7f09000f;
-        public static final int b4=0x7f090010;
-        public static final int check=0x7f090013;
-        public static final int english=0x7f090009;
-        public static final int engtest=0x7f09000c;
+        public static final int action_settings=0x7f090017;
+        public static final int answerEng=0x7f090015;
+        public static final int b1=0x7f09000e;
+        public static final int b2=0x7f09000f;
+        public static final int b3=0x7f090010;
+        public static final int b4=0x7f090011;
+        public static final int check=0x7f090014;
+        public static final int clist_school=0x7f090007;
+        public static final int clist_teacher=0x7f090008;
+        public static final int english=0x7f090016;
+        public static final int engtest=0x7f09000d;
         public static final int histroy=0x7f090001;
-        public static final int korean=0x7f09000a;
         public static final int listHistory=0x7f090006;
-        public static final int prog=0x7f09000b;
-        public static final int selecteddays=0x7f090007;
+        public static final int listView1=0x7f09000b;
+        public static final int prog=0x7f09000c;
+        public static final int selecteddays=0x7f090009;
         public static final int study=0x7f090003;
         public static final int test=0x7f090004;
-        public static final int test2=0x7f090008;
+        public static final int test2=0x7f09000a;
         public static final int testHistory=0x7f090005;
-        public static final int testKorean=0x7f090012;
-        public static final int testProgress=0x7f090011;
+        public static final int testKorean=0x7f090013;
+        public static final int testProgress=0x7f090012;
         public static final int title=0x7f090000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int histroy=0x7f030001;
-        public static final int study=0x7f030002;
-        public static final int test=0x7f030003;
-        public static final int testkorean=0x7f030004;
-        public static final int wrong=0x7f030005;
+        public static final int list=0x7f030002;
+        public static final int study=0x7f030003;
+        public static final int test=0x7f030004;
+        public static final int testkorean=0x7f030005;
+        public static final int wrong=0x7f030006;
     }
     public static final class menu {
         public static final int main=0x7f080000;
