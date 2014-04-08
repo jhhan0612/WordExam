@@ -1,6 +1,15 @@
 package exam.wordexam;
 
+import java.io.InputStream;
 import java.util.ArrayList;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -19,7 +28,8 @@ public class MainActivity extends Activity implements OnClickListener{
 
 	ListView Days;
 	static SparseBooleanArray sb;
-	
+	static ArrayList<String> meaning;
+	static ArrayList<String> eng;
 	
 	protected void onCreate(Bundle savedInstanceState) {		
 		super.onCreate(savedInstanceState);
@@ -45,17 +55,89 @@ public class MainActivity extends Activity implements OnClickListener{
 		Days = (ListView)findViewById(R.id.Days);
 		Days.setAdapter(adapter);
 		Days.setChoiceMode(ListView.CHOICE_MODE_MULTIPLE);
+		
+		
 	}
 
 	public void onClick(View v) {		
 		switch (v.getId()) {
 		case R.id.study:
 			sb = Days.getCheckedItemPositions();
+			meaning = new ArrayList<String>();
+			eng = new ArrayList<String>();
+			
+			try{
+				InputStream in = getResources().openRawResource(R.raw.database);
+				DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
+				Document doc = builder.parse(in);
+
+				NodeList Day = doc.getElementsByTagName("day");
+
+				for(int i = 0; i < Day.getLength(); i++) {
+					Node node = Day.item(i);
+					if(sb.get(i)) {
+						Element personElmnt = (Element) node;
+						NodeList selectedeng = personElmnt.getElementsByTagName("eng");
+						NodeList selectedmeaning = personElmnt.getElementsByTagName("meaning");
+						for(int a = 0; a < selectedeng.getLength(); a++){
+							Element selected = (Element) selectedeng.item(a);
+							Node selectedeng2 = selected.getFirstChild();
+							String c = selectedeng2.getNodeValue();
+							eng.add(c);
+						}
+						for(int e = 0; e < selectedmeaning.getLength(); e++){
+							Element selectedm = (Element) selectedmeaning.item(e);
+							Node selectedeng3 = selectedm.getFirstChild();
+							String d = selectedeng3.getNodeValue();
+							meaning.add(d);
+						}
+					}	
+				}
+			}
+			catch (Exception e){
+				e.printStackTrace();
+			}
 			
 			Intent intent = new Intent(this, Study.class);
 			startActivity(intent);
 			break;
 		case R.id.test:
+			sb = Days.getCheckedItemPositions();
+			meaning = new ArrayList<String>();
+			eng = new ArrayList<String>();
+			
+			try{
+				InputStream in = getResources().openRawResource(R.raw.database);
+				DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
+				Document doc = builder.parse(in);
+
+				NodeList Day = doc.getElementsByTagName("day");
+
+				for(int i = 0; i < Day.getLength(); i++) {
+					Node node = Day.item(i);
+					if(sb.get(i)) {
+						Element personElmnt = (Element) node;
+						NodeList selectedeng = personElmnt.getElementsByTagName("eng");
+						NodeList selectedmeaning = personElmnt.getElementsByTagName("meaning");
+						for(int a = 0; a < selectedeng.getLength(); a++){
+							Element selected = (Element) selectedeng.item(a);
+							Node selectedeng2 = selected.getFirstChild();
+							String c = selectedeng2.getNodeValue();
+							eng.add(c);
+						}
+						for(int e = 0; e < selectedmeaning.getLength(); e++){
+							Element selectedm = (Element) selectedmeaning.item(e);
+							Node selectedeng3 = selectedm.getFirstChild();
+							String d = selectedeng3.getNodeValue();
+							meaning.add(d);
+						}
+					}	
+				}
+			}
+			catch (Exception e){
+				e.printStackTrace();
+			}
+			
 			new AlertDialog.Builder(this)
 			.setTitle("단어 시험")
 			.setMessage("어떤 형식으로 치시겠습니까?")

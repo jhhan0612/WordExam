@@ -19,8 +19,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class TestKorean extends Activity implements OnClickListener{
-	ArrayList<String> meaning = Study.meaning;
-	ArrayList<String> eng = Study.eng;
+	ArrayList<String> meaning = MainActivity.meaning;
+	ArrayList<String> eng = MainActivity.eng;
 	int testnum;
 	ArrayList<Integer> count = new ArrayList<Integer>();
 	static ArrayList<Integer> wrong = new ArrayList<Integer>();
@@ -74,13 +74,14 @@ public class TestKorean extends Activity implements OnClickListener{
 		Collections.shuffle(count);
 
 		testKorea.setText(selectedmeaning.get(count.get(testnum)));
-		
+
 		if(selectedeng.size()!=eng.size()){
-			for(int i = wrong.size(); i >= 0; i--){
-				wrong.remove(i);
+			if(wrong.size() != 0){
+				for(int i = wrong.size(); i >= 0; i--){
+					wrong.remove(i);
+				}
 			}
 		}
-		
 		Button check = (Button)findViewById(R.id.check);
 		check.setOnClickListener(this);
 	}
@@ -105,7 +106,7 @@ public class TestKorean extends Activity implements OnClickListener{
 				Date date = new Date(now);
 				SimpleDateFormat formatTime = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 				String endTime = formatTime.format(date);
-				
+
 				Intent History = new Intent(TestKorean.this, Wrong.class);
 				startActivity(History);
 			}
@@ -140,12 +141,11 @@ public class TestKorean extends Activity implements OnClickListener{
 				Date date = new Date(now);
 				SimpleDateFormat formatTime = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
 				String endTime = formatTime.format(date);
-				
+
 				Intent History = new Intent(TestKorean.this, Wrong.class);
 				startActivity(History);
 			}
 		}
 	}
-
 }
 

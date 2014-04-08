@@ -21,8 +21,8 @@ public class Test extends Activity implements OnClickListener {
 	Button b2;
 	Button b3;
 	Button b4;
-	ArrayList<String> eng = Study.eng;
-	ArrayList<String> meaning = Study.meaning;
+	ArrayList<String> eng = MainActivity.eng;
+	ArrayList<String> meaning = MainActivity.meaning;
 	TextView question;
 	int testnumber;
 	ArrayList<Integer> randomNumber = new ArrayList<Integer>();
@@ -108,8 +108,10 @@ public class Test extends Activity implements OnClickListener {
 		Collections.shuffle(randomNumber);
 
 		if(selectedeng.size()!=eng.size()){
-			for(int i = wrongTest.size()-1; i >= 0; i--){
-				wrongTest.remove(i);
+			if(wrongTest.size()!=0){
+				for(int i = wrongTest.size()-1; i >= 0; i--){
+					wrongTest.remove(i);
+				}
 			}
 		}
 
@@ -134,7 +136,7 @@ public class Test extends Activity implements OnClickListener {
 				toast.setText("Á¤´ä");
 				toast.setGravity(Gravity.CENTER, 0, 0);
 				toast.show();
-				
+
 				testnumber++;
 				if(testnumber < selectedmeaning.size()){
 					setQuestion(testnumber, question, selectedeng, selectedmeaning, randomNumber, b1,b2,b3,b4);

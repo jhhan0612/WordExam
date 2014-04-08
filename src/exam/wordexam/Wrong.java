@@ -17,8 +17,9 @@ public class Wrong extends Activity implements OnClickListener{
 
 	ArrayList<Integer> wrongTest = Test.wrongTest;
 	ArrayList<Integer> wrong = TestKorean.wrong;
-	ArrayList<String> eng = Study.eng;
-	ArrayList<String> meaning = Study.meaning;
+	ArrayList<String> eng = MainActivity.eng;
+	ArrayList<String> meaning = MainActivity.meaning;
+	
 	static ArrayList<String> englist = Study.englist;
 	static ArrayList<String> meaninglist = Study.meaninglist;
 
